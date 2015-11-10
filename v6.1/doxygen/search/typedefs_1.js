@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['backdoorcommandconstptr',['BackdoorCommandConstPtr',['../a00316.xhtml#ab0dc5077b638931a8c38cd43a9ad30cd',1,'Safir::Application']]],
+  ['backdoorcommandcontainer',['BackdoorCommandContainer',['../a00316.xhtml#aa08c30ea6ad64fbf9a80440eb3e0c458',1,'Safir::Application']]],
+  ['backdoorcommandcontainerarray',['BackdoorCommandContainerArray',['../a00316.xhtml#ae9c0ee608f883b7b12b921def8cca1b9',1,'Safir::Application']]],
+  ['backdoorcommandptr',['BackdoorCommandPtr',['../a00316.xhtml#a1419f94b8dab19a9d0dc4bbc91d8734f',1,'Safir::Application']]],
+  ['backdoorcommandsequencecontainer',['BackdoorCommandSequenceContainer',['../a00316.xhtml#a075eed5bfe890803e1f39af22dd0293c',1,'Safir::Application']]],
+  ['binary',['Binary',['../a00322.xhtml#a58f6f6fa78d3bc90c92677edce25fa22',1,'Safir::Dob::Typesystem']]],
+  ['binarycolumn',['BinaryColumn',['../a00319.xhtml#ad67747b31dc2dd64e3090a62e2cc275a',1,'Safir::Databases::Odbc']]],
+  ['binarycontainerarray',['BinaryContainerArray',['../a00322.xhtml#a46bdbdbe270e6bd8275a0ff5f59a8d94',1,'Safir::Dob::Typesystem']]],
+  ['binaryparameter',['BinaryParameter',['../a00319.xhtml#ae7bd9646329482067114b1bdfeb96037',1,'Safir::Databases::Odbc']]],
+  ['binarysequencecontainer',['BinarySequenceContainer',['../a00322.xhtml#a8ff0c76a9375b693e5773f7fba9a405b',1,'Safir::Dob::Typesystem']]],
+  ['binaryserialization',['BinarySerialization',['../a00322.xhtml#a0d0a2d6e57953b8c1bb261ccdcedee2c',1,'Safir::Dob::Typesystem']]],
+  ['blobreadertype',['BlobReaderType',['../a00011.xhtml#a55ed5cec26670560863f26f2ea197b4c',1,'Safir::Dob::Typesystem::ToolSupport::BlobWriter']]],
+  ['blobwritertype',['BlobWriterType',['../a00011.xhtml#afba7f069feb9a3f504561d19168c06ce',1,'Safir::Dob::Typesystem::ToolSupport::BlobWriter']]],
+  ['booleancontainer',['BooleanContainer',['../a00322.xhtml#a203effe57c39d7d040422d128942eca0',1,'Safir::Dob::Typesystem']]],
+  ['booleancontainerarray',['BooleanContainerArray',['../a00322.xhtml#af3a1a1adeab3a1c77ee1cc65598ada8f',1,'Safir::Dob::Typesystem']]],
+  ['booleaninputoutputparameter',['BooleanInputOutputParameter',['../a00319.xhtml#aee445b2318aa370492771b8887da24c1',1,'Safir::Databases::Odbc']]],
+  ['booleanoutputparameter',['BooleanOutputParameter',['../a00319.xhtml#ac93dc6918fcbe5c55be5e1cdcc3e623c',1,'Safir::Databases::Odbc']]],
+  ['booleanparameter',['BooleanParameter',['../a00319.xhtml#a9a522f44ecbb737ebacbcd20835b6b5c',1,'Safir::Databases::Odbc']]],
+  ['booleansequencecontainer',['BooleanSequenceContainer',['../a00322.xhtml#ab0a4c06b9fdb38ce5c421b07a1584856',1,'Safir::Dob::Typesystem']]],
+  ['briefresponseconstptr',['BriefResponseConstPtr',['../a00335.xhtml#a0b6db71a8600fb3b110498fb83de5faf',1,'Safir::Utilities::ForEach']]],
+  ['briefresponsecontainer',['BriefResponseContainer',['../a00335.xhtml#af11acdc5b879778265f079d03bfdbd18',1,'Safir::Utilities::ForEach']]],
+  ['briefresponsecontainerarray',['BriefResponseContainerArray',['../a00335.xhtml#a8e659dbdd7052db08fb4b347feb602a1',1,'Safir::Utilities::ForEach']]],
+  ['briefresponseptr',['BriefResponsePtr',['../a00335.xhtml#a8700c0fd0282b3b7d6c69f5e6548a9ef',1,'Safir::Utilities::ForEach']]],
+  ['briefresponsesequencecontainer',['BriefResponseSequenceContainer',['../a00335.xhtml#acdf529cf0076b3fa784ccf313b70544d',1,'Safir::Utilities::ForEach']]],
+  ['byte',['byte',['../a00319.xhtml#a03cd640b69ba6b162d7eb55943a2895e',1,'Safir::Databases::Odbc']]]
+];

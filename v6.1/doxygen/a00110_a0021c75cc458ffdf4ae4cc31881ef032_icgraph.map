@@ -1,0 +1,17 @@
+<map id="Safir::Dob::Typesystem::ObjectContainerImpl::IsNull" name="Safir::Dob::Typesystem::ObjectContainerImpl::IsNull">
+<area shape="rect" id="node2" href="$a00110.xhtml#a364bae87116f17ec89891f65e0465766" title="Calculate the size of the blob&#45;serialized form of the contained object. " alt="" coords="235,5,405,61"/>
+<area shape="rect" id="node3" href="$a00110.xhtml#a3cac7cb91b4900dfcde94c71db6eae99" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\&lt; U \&gt;::GetMember" alt="" coords="239,85,401,141"/>
+<area shape="rect" id="node4" href="$a00111.xhtml#ad193042f968e3ae523eb85a5e33dabcf" title="Get a reference to a member container from an object. " alt="" coords="239,165,401,221"/>
+<area shape="rect" id="node5" href="$a00110.xhtml#a74480b865ae4259b1532f702b8548f97" title="Get the smart pointer from the container. " alt="" coords="239,245,401,301"/>
+<area shape="rect" id="node6" href="$a00111.xhtml#a43629d666e9985379fcfc2ac078e467a" title="Get the smart pointer from the container. " alt="" coords="239,325,401,381"/>
+<area shape="rect" id="node7" href="$a00110.xhtml#a169d4278d40fabfcc42bf30741e5bbb8" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\&lt; U \&gt;::IsChanged" alt="" coords="239,405,401,461"/>
+<area shape="rect" id="node8" href="$a00111.xhtml#af59f6e551aa17ab74d6ff5911c342d09" title="Is the change flag set on the container? The change flag gets updated every time the contained value ..." alt="" coords="239,485,401,541"/>
+<area shape="rect" id="node9" href="$a00110.xhtml#ab5261580ea8999538af6f7beb1678970" title="Copy constructor. " alt="" coords="229,565,411,621"/>
+<area shape="rect" id="node10" href="$a00111.xhtml#ad81005d58a3035d1b569f7942b05cf2d" title="Copy constructor. " alt="" coords="215,645,425,701"/>
+<area shape="rect" id="node11" href="$a00110.xhtml#a03c7257ac481f9c7d8eca8679e40bdc5" title="Dereference the smart pointer in the container. " alt="" coords="239,725,401,781"/>
+<area shape="rect" id="node12" href="$a00111.xhtml#a2b3c102dc8842ec0fb01d74401eb13f1" title="Dereference the smart pointer in the container. " alt="" coords="239,805,401,861"/>
+<area shape="rect" id="node13" href="$a00110.xhtml#a93875105c679ecb30b1c278feea141f6" title="Copy assignment operator. " alt="" coords="239,885,401,941"/>
+<area shape="rect" id="node14" href="$a00111.xhtml#a04954179f422105585f1e91c10050754" title="Copy assignment operator. " alt="" coords="239,965,401,1021"/>
+<area shape="rect" id="node15" href="$a00110.xhtml#a23ad6693cb6de72f3fe5dc05ef27d7a4" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\&lt; U \&gt;::SetChanged" alt="" coords="239,1045,401,1101"/>
+<area shape="rect" id="node16" href="$a00111.xhtml#a5c947048a907e0ad3cea321a65e8458b" title="Set the containers change flag. " alt="" coords="238,1125,402,1181"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Safir::Dob::NotFoundException" name="Safir::Dob::NotFoundException">
+<area shape="rect" id="node2" href="$a00077.xhtml" title="This is the base class of all (non&#45;Fundamental) Exceptions. " alt="" coords="36,169,197,211"/>
+<area shape="rect" id="node3" href="$a00018.xhtml" title="Common functionality for the exception hierarchy of the DOB typesystem. " alt="" coords="5,80,228,121"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="65,5,169,32"/>
+</map>

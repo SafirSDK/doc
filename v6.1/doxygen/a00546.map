@@ -1,0 +1,4 @@
+<map id="Safir::Application::BackdoorKeeper" name="Safir::Application::BackdoorKeeper">
+<area shape="rect" id="node2" href="$a00101.xhtml" title="Interface to be implemented by subscribers of messages. " alt="" coords="5,95,209,121"/>
+<area shape="rect" id="node3" href="$a00030.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="41,5,173,47"/>
+</map>

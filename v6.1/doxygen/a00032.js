@@ -1,0 +1,27 @@
+var a00032 =
+[
+    [ "ContainedType", "a00032.xhtml#abaa058f04bd0ad00ef1b0abd7062c337", null ],
+    [ "ContainerProxy", "a00032.xhtml#aee484c8b103392ebd8dd3587b5f6e3dc", null ],
+    [ "Copy", "a00032.xhtml#aa7b4b36fe3a94f21407c91f9544521bf", null ],
+    [ "GetContainer", "a00032.xhtml#a2c2670cdf532f526a4beb7010dcde70d", null ],
+    [ "GetContainer", "a00032.xhtml#a88d49b0a89a6d5e56e1787a0802d9920", null ],
+    [ "GetOrdinal", "a00032.xhtml#a083f7286397ee1a640528822000ee153", null ],
+    [ "GetVal", "a00032.xhtml#abc2562fdc5aca2e756d2162b2abb5281", null ],
+    [ "IsChanged", "a00032.xhtml#a569b652e20de4592bc2ef298fd22e83c", null ],
+    [ "IsNull", "a00032.xhtml#a858398a7141c77e2e8647613cbfb5961", null ],
+    [ "operator const ContainedType", "a00032.xhtml#afae992501514eca97b9b7dbfe0ee9247", null ],
+    [ "operator*=", "a00032.xhtml#a02f473a7fb1bd430836aeed1fbafd542", null ],
+    [ "operator++", "a00032.xhtml#a8000f9a390c21c04e2922da04d98a43b", null ],
+    [ "operator++", "a00032.xhtml#a07666df3291afe366a311a00cd715c29", null ],
+    [ "operator+=", "a00032.xhtml#a98c77cfd23e28b337e670411f82d9d63", null ],
+    [ "operator--", "a00032.xhtml#ae47bd8c3142fd064f668c78f53094df0", null ],
+    [ "operator--", "a00032.xhtml#a4a86943e73c1379d2e1173928ef05730", null ],
+    [ "operator-=", "a00032.xhtml#a7e5d89b0b1f33d1746b013357fb78826", null ],
+    [ "operator/=", "a00032.xhtml#ae235fef7a97dfafc7091795c2f405194", null ],
+    [ "operator=", "a00032.xhtml#a0bf21fdc1fbe4d7ec5ef438dd985d971", null ],
+    [ "operator=", "a00032.xhtml#a9a15126fecfcb8e6acdbcb850cea0849", null ],
+    [ "SetChanged", "a00032.xhtml#a13ab9216ceea1f123dac115b4a1dd3e6", null ],
+    [ "SetNull", "a00032.xhtml#aae1965248ea8e4d1506a5526fc88ab16", null ],
+    [ "SetOrdinal", "a00032.xhtml#a43c32d7c0a3122e890e28f239b8503bb", null ],
+    [ "SetVal", "a00032.xhtml#a6342b4bb61ac5eae16cd8ec04503ff68", null ]
+];

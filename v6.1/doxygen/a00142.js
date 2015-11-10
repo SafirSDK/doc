@@ -1,0 +1,27 @@
+var a00142 =
+[
+    [ "ResponseGeneralErrorCodes", "a00142.xhtml#a3924363938281ebe15b5a443c14d83f0", null ],
+    [ "ResponseGeneralErrorCodes", "a00142.xhtml#a8b8f3164e182e5383a368ed6a9085700", null ],
+    [ "Clone", "a00142.xhtml#ac9b0ff39427fa44cd9a016eb69e4c026", null ],
+    [ "Create", "a00142.xhtml#a129d316a3f9222d608382309050f06e6", null ],
+    [ "GetMember", "a00142.xhtml#a7d80d9ae131b84ce61f61de6ce419ec1", null ],
+    [ "GetMember", "a00142.xhtml#a1da39f2203c917f688fa38008cb4954d", null ],
+    [ "GetTypeId", "a00142.xhtml#a067dbff5669fae18645c20038543df33", null ],
+    [ "IsChanged", "a00142.xhtml#aac0d3095e5716918ad342428a7836185", null ],
+    [ "SafirFormatErr", "a00142.xhtml#a75c3fdb8e639ec36a26dc73bb8523f8e", null ],
+    [ "SafirIllCombination", "a00142.xhtml#a8cc49a0f91969780f7971d5b378539e3", null ],
+    [ "SafirInstanceErr", "a00142.xhtml#abaecb618b62cebf63bcba822bfae22d5", null ],
+    [ "SafirInternalErr", "a00142.xhtml#a326f3a8c5e8978a2c4f37042486259a8", null ],
+    [ "SafirMissingMember", "a00142.xhtml#ac5009f52846c2a082e690dc6220f544e", null ],
+    [ "SafirNoFreeInstance", "a00142.xhtml#ada249aba5cb1c4841fbc76ff89cfdb93", null ],
+    [ "SafirNoPermission", "a00142.xhtml#a8a88e2dd913d5d1aee2f34fb2ab839bc", null ],
+    [ "SafirNotRegistered", "a00142.xhtml#ae166873f1f379f03adb5d796e8826f1c", null ],
+    [ "SafirNullMember", "a00142.xhtml#a6a343bfc35d959bea8ec8a3f711546d7", null ],
+    [ "SafirPresentMember", "a00142.xhtml#a836c055aef17860533a28bc650b9e536", null ],
+    [ "SafirRangeErr", "a00142.xhtml#a2b69713fc110ef77505ad94205720b04", null ],
+    [ "SafirReqErr", "a00142.xhtml#ac8933351887dc039a4efa23b169107d4", null ],
+    [ "SafirTimeout", "a00142.xhtml#af3046adc78efa91f8b444f848ff990bb", null ],
+    [ "SetChanged", "a00142.xhtml#a32c2b6354be59169b0f072eeda322116", null ],
+    [ "WriteToBlob", "a00142.xhtml#a77b39c3c72ac8bda8c4f913692e538df", null ],
+    [ "ClassTypeId", "a00142.xhtml#a1955c540779fc9b63acdcabbb30e3087", null ]
+];

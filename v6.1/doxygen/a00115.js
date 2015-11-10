@@ -1,0 +1,28 @@
+var a00115 =
+[
+    [ "GetBinaryValue", "a00115.xhtml#a894381e47afa04260e478f8e56d3192d", null ],
+    [ "GetBoolValue", "a00115.xhtml#a986427ff5b7c628df82d263a7185637d", null ],
+    [ "GetCollectionType", "a00115.xhtml#a54d0a9b00ecf3d5e0d50f933facf76d8", null ],
+    [ "GetFloat32Value", "a00115.xhtml#a446fa188a6f4226bf81db1601fa1363e", null ],
+    [ "GetFloat64Value", "a00115.xhtml#a062a980561aa85893deff06364efa38a", null ],
+    [ "GetHashedKey", "a00115.xhtml#a61242c4f294a5cb6acafcfc7f11dc222", null ],
+    [ "GetHashedValue", "a00115.xhtml#a39ad86025af148cb6ac0409fc37600fb", null ],
+    [ "GetIndexByUnifiedKey", "a00115.xhtml#ab84e39b78baa66e5d5c8762f68f074c7", null ],
+    [ "GetInt32Key", "a00115.xhtml#a78d06a7a28ae905a8b333ec2f7d1c7d5", null ],
+    [ "GetInt32Value", "a00115.xhtml#a6973d3a3262a7ccdd86575717d674c06", null ],
+    [ "GetInt64Key", "a00115.xhtml#a470801bc1fcff00db5844ee9f32c85f4", null ],
+    [ "GetInt64Value", "a00115.xhtml#a62d3ff3399e3e9fc7193652ed565ee93", null ],
+    [ "GetKeyType", "a00115.xhtml#a55627848eef05f70fb3801d4decc4dee", null ],
+    [ "GetKeyTypeId", "a00115.xhtml#adb9066df129737937112c5eb34ede430", null ],
+    [ "GetMemberType", "a00115.xhtml#a92450310cd32d8b6feac9075cd14b261", null ],
+    [ "GetName", "a00115.xhtml#a62e6b6394bff00e82e2fa5eefb8fd778", null ],
+    [ "GetNumberOfValues", "a00115.xhtml#a3eed8a482d07b1e95fe3984ef8d6505c", null ],
+    [ "GetObjectValue", "a00115.xhtml#a04888b31607d00d2a1cf05f183f305e0", null ],
+    [ "GetQualifiedName", "a00115.xhtml#ad8ef6d710038be9f5b119b85cdc90edd", null ],
+    [ "GetStringKey", "a00115.xhtml#abe6be53cafe5b921adfc7d395228ab00", null ],
+    [ "GetStringValue", "a00115.xhtml#ab3c9b71596e191fa6ba5d77153419fe4", null ],
+    [ "GetTypeId", "a00115.xhtml#a9ef6c56bc03aaa0a8c54b5f1342a502c", null ],
+    [ "IsHidden", "a00115.xhtml#a615213a4af2f3a68da680f68a8233e8a", null ],
+    [ "Summary", "a00115.xhtml#acdaa996df7961dfa86f733e6e3b1208f", null ],
+    [ "UnifiedKeyToIndexMap", "a00115.xhtml#add413ed7815f37d1bc181cc11137e751", null ]
+];

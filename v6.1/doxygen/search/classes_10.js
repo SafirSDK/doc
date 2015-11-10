@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['scopedcrashreporter',['ScopedCrashReporter',['../a00148.xhtml',1,'Safir::Application']]],
+  ['secondaryconnection',['SecondaryConnection',['../a00149.xhtml',1,'Safir::Dob']]],
+  ['sequencecontainer',['SequenceContainer',['../a00150.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['serialization',['Serialization',['../a00151.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['service',['Service',['../a00152.xhtml',1,'Safir::Dob']]],
+  ['servicehandler',['ServiceHandler',['../a00153.xhtml',1,'Safir::Dob']]],
+  ['servicehandlerpending',['ServiceHandlerPending',['../a00154.xhtml',1,'Safir::Dob']]],
+  ['servicerequestbase',['ServiceRequestBase',['../a00155.xhtml',1,'Safir::Dob']]],
+  ['servicerequestproxy',['ServiceRequestProxy',['../a00156.xhtml',1,'Safir::Dob']]],
+  ['softwareviolationexception',['SoftwareViolationException',['../a00157.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['startupsynchronizer',['StartupSynchronizer',['../a00158.xhtml',1,'Safir::Utilities']]],
+  ['statement',['Statement',['../a00159.xhtml',1,'Safir::Databases::Odbc']]],
+  ['status',['Status',['../a00160.xhtml',1,'Safir::Control']]],
+  ['stophandler',['StopHandler',['../a00161.xhtml',1,'Safir::Dob']]],
+  ['stringcontainer',['StringContainer',['../a00162.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['struct',['Struct',['../a00163.xhtml',1,'Safir::Dob']]],
+  ['successresponse',['SuccessResponse',['../a00164.xhtml',1,'Safir::Dob']]],
+  ['synchronized',['Synchronized',['../a00165.xhtml',1,'Safir::Utilities']]]
+];

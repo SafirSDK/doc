@@ -1,0 +1,4 @@
+<map id="Safir::Databases::Odbc::Connection::SetConnectAttr" name="Safir::Databases::Odbc::Connection::SetConnectAttr">
+<area shape="rect" id="node2" href="$a00021.xhtml#a006ffbda5bb98dc507b87bb4eae395c0" title="Set odbc to automatically commit each transaction after a successful query. " alt="" coords="255,5,486,47"/>
+<area shape="rect" id="node3" href="$a00021.xhtml#a7d50be566ac1abc71a51cf4786dc3030" title="Set odbc to require manual commits to end transactions. " alt="" coords="248,71,493,112"/>
+</map>
