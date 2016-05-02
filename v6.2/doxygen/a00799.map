@@ -1,7 +1,0 @@
-<map id="Safir::Dob::SuccessResponse" name="Safir::Dob::SuccessResponse">
-<area shape="rect" id="node4" href="$a00058.xhtml" title="Standard response for handlers registered as HandlerDecidesInstanceId, containing the instance that t..." alt="" coords="5,251,199,278"/>
-<area shape="rect" id="node5" href="$a00015.xhtml" title="Brief response for a ForEach service request. " alt="" coords="223,244,381,285"/>
-<area shape="rect" id="node2" href="$a00142.xhtml" title="The baseclass for all responses. " alt="" coords="128,95,276,121"/>
-<area shape="rect" id="node3" href="$a00110.xhtml" title="The base class for all DOB objects. " alt="" coords="121,5,283,47"/>
-<area shape="rect" id="node6" href="$a00081.xhtml" title="Full response for a ForEach service request. " alt="" coords="223,333,381,375"/>
-</map>

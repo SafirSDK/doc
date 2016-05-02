@@ -1,5 +1,0 @@
-<map id="Safir::Dob::ServiceHandler" name="Safir::Dob::ServiceHandler">
-<area shape="rect" id="node2" href="$a00149.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="5,95,247,121"/>
-<area shape="rect" id="node3" href="$a00032.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="185,5,317,47"/>
-<area shape="rect" id="node4" href="$a00157.xhtml" title="Interface to receive service requests. " alt="" coords="271,95,483,121"/>
-</map>

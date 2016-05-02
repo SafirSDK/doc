@@ -1,5 +1,0 @@
-<map id="Safir::Dob::Typesystem::hash_value" name="Safir::Dob::Typesystem::hash_value">
-<area shape="rect" id="node2" href="$a00057.xhtml#a45be2436d71fdff14ce7a94de4fb823f" title="Get the Instance number out of the EntityId. " alt="" coords="222,5,387,47"/>
-<area shape="rect" id="node3" href="$a00092.xhtml#a43ca9e7b376dd4a42642dd67f097d883" title="Get the raw 64 bit integer identifier. " alt="" coords="215,71,395,112"/>
-<area shape="rect" id="node4" href="$a00057.xhtml#a8a8950e2e11f98f6d9fc7573e7237e1a" title="Get the type id out of the EntityId. " alt="" coords="224,136,385,177"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="Safir::Dob::Typesystem::ToolSupport::BlobWriter::WriteValue" name="Safir::Dob::Typesystem::ToolSupport::BlobWriter::WriteValue">
-<area shape="rect" id="node2" href="$a00013.xhtml#a0fab0b48dddbaa344fe4ee6d1d1bb152" title="MarkChanges &#45; Set change flag for all members that differs between this blob and the reader blob..." alt="" coords="440,29,609,85"/>
-<area shape="rect" id="node3" href="$a00013.xhtml#acf9d8a3b2c01da7838b2e19bed17bfd5" title="SetAllChangeFlags &#45; Recursively set all change flags to specified value. " alt="" coords="223,73,392,129"/>
-</map>

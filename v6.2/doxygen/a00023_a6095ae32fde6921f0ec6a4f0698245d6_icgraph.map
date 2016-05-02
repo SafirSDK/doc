@@ -1,7 +1,0 @@
-<map id="Safir::Databases::Odbc::Connection::IsValid" name="Safir::Databases::Odbc::Connection::IsValid">
-<area shape="rect" id="node2" href="$a00161.xhtml#a084ff1ca2c5033e440a4bf3ca15af65d" title="Binds a column to a statement. " alt="" coords="233,5,403,47"/>
-<area shape="rect" id="node3" href="$a00161.xhtml#a5d81aab962b1c84fcec0d420ca009e54" title="Binds a long parameter to a statement. " alt="" coords="212,71,424,112"/>
-<area shape="rect" id="node4" href="$a00161.xhtml#a80498e2e62d8c7bf5983100beb7bf14f" title="Binds a parameter to a statement. " alt="" coords="226,136,410,177"/>
-<area shape="rect" id="node5" href="$a00161.xhtml#a5d6ffee4d4cdc80513813e54b805a3d0" title="Get data from a column. " alt="" coords="239,201,397,243"/>
-<area shape="rect" id="node6" href="$a00161.xhtml#a6195945181f5002d7a0da5942110672b" title="Put data into a parameter. " alt="" coords="239,267,397,308"/>
-</map>
