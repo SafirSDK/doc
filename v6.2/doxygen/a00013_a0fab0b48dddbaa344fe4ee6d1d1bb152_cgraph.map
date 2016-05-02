@@ -1,0 +1,10 @@
+<map id="Safir::Dob::Typesystem::ToolSupport::BlobWriter::MarkChanges" name="Safir::Dob::Typesystem::ToolSupport::BlobWriter::MarkChanges">
+<area shape="rect" id="node2" href="$a00013.xhtml#a85bf960647931fa88219a4cd6be13055" title="Calculate the size of the blob in bytes. " alt="" coords="229,5,398,61"/>
+<area shape="rect" id="node3" href="$a00013.xhtml#a8be0127fd703c60f6f5fce09c59abe93" title="Copy the binarey blob into a destination buffer. " alt="" coords="229,85,398,141"/>
+<area shape="rect" id="node4" href="$a00013.xhtml#acf9d8a3b2c01da7838b2e19bed17bfd5" title="SetAllChangeFlags &#45; Recursively set all change flags to specified value. " alt="" coords="229,189,398,245"/>
+<area shape="rect" id="node5" href="$a00013.xhtml#a7ab60c554c18675d15fb524ad2e8afd2" title="Write member value to the a blob. " alt="" coords="452,223,621,279"/>
+<area shape="rect" id="node6" href="$a00332.xhtml#a516cda465896d2c7ca80f86d86e60416" title="ToUnifiedDictionaryKey &#45; Convert all keys to an int64 that is the internal key format. " alt="" coords="223,320,404,376"/>
+<area shape="rect" id="node7" href="$a00013.xhtml#aee15b20aff13dabb19cf7cac777c5bf0" title="Get the type id of this BlobWriter. " alt="" coords="229,400,398,456"/>
+<area shape="rect" id="node8" href="$a00012.xhtml#a075f46d95f9ee9a40be93bd500053b95" title="Get the type id of the blob. " alt="" coords="225,480,401,536"/>
+<area shape="rect" id="node9" href="$a00013.xhtml#acb7787a9520ee9dba93e9956cc50c9f4" title="Write member key to the a blob. " alt="" coords="229,560,398,616"/>
+</map>

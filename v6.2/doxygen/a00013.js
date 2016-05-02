@@ -1,0 +1,26 @@
+var a00013 =
+[
+    [ "BlobReaderType", "a00013.xhtml#a55ed5cec26670560863f26f2ea197b4c", null ],
+    [ "BlobWriterType", "a00013.xhtml#afba7f069feb9a3f504561d19168c06ce", null ],
+    [ "ClassDescriptionType", "a00013.xhtml#a5286f98248b9b8307fb6fb4eeb5a790c", null ],
+    [ "CreateRoutineDescriptionType", "a00013.xhtml#ac995304e65ff5dc3d4435d583e8b4907", null ],
+    [ "EnumDescriptionType", "a00013.xhtml#a3221acaabac1d1562c42a8de4ed27422", null ],
+    [ "ExceptionDescriptionType", "a00013.xhtml#acf3b5a9df3b26397fedff3615fbdf168", null ],
+    [ "MemberDescriptionType", "a00013.xhtml#ac0a07ef22858c94f1c57588f2094c7ae", null ],
+    [ "MemberMappingDescriptionType", "a00013.xhtml#aec573fdac7e4f003cec8ee4ea3600d6b", null ],
+    [ "ParameterDescriptionType", "a00013.xhtml#a651ce64edbf5b282e3ee7c4d7fac9798", null ],
+    [ "PropertyDescriptionType", "a00013.xhtml#a2f449b1b54470c5fb148108832c8db04", null ],
+    [ "PropertyMappingDescriptionType", "a00013.xhtml#a8aacbd97c02153c57d10d501314c121e", null ],
+    [ "RepositoryType", "a00013.xhtml#a410272fb77c1073eec3ffa0206271577", null ],
+    [ "BlobWriter", "a00013.xhtml#a50bb968547033e055e8c1d69fbae8fd5", null ],
+    [ "BlobWriter", "a00013.xhtml#aeb2f1609f120fbbabebb799cb1fe1b10", null ],
+    [ "CalculateBlobSize", "a00013.xhtml#a85bf960647931fa88219a4cd6be13055", null ],
+    [ "CopyRawBlob", "a00013.xhtml#a8be0127fd703c60f6f5fce09c59abe93", null ],
+    [ "MarkChanges", "a00013.xhtml#a0fab0b48dddbaa344fe4ee6d1d1bb152", null ],
+    [ "SetAllChangeFlags", "a00013.xhtml#acf9d8a3b2c01da7838b2e19bed17bfd5", null ],
+    [ "SetChanged", "a00013.xhtml#a3994606eae450a18c8fb8c548432a0d9", null ],
+    [ "SetChangedTopLevel", "a00013.xhtml#a52749ae61feab81bfa3d9affba8919c9", null ],
+    [ "TypeId", "a00013.xhtml#aee15b20aff13dabb19cf7cac777c5bf0", null ],
+    [ "WriteKey", "a00013.xhtml#acb7787a9520ee9dba93e9956cc50c9f4", null ],
+    [ "WriteValue", "a00013.xhtml#a7ab60c554c18675d15fb524ad2e8afd2", null ]
+];

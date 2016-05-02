@@ -1,0 +1,4 @@
+<map id="Safir::Dob::EntityIdResponse::GetTypeId" name="Safir::Dob::EntityIdResponse::GetTypeId">
+<area shape="rect" id="node2" href="$a00324.xhtml#a80f84535cdd4541aeac486ee6b541904" title="Check if a container is changed. " alt="" coords="247,5,408,47"/>
+<area shape="rect" id="node3" href="$a00033.xhtml#ad152f5d1fee5701bb50cc64b3d0ff353" title="Is the change flag set on the container? The change flag gets updated every time the contained value ..." alt="" coords="456,5,643,47"/>
+</map>

@@ -1,0 +1,26 @@
+var a00009 =
+[
+    [ "BackdoorCommand", "a00009.xhtml#a6c41aefe45ab3d9202c5c237af43c757", null ],
+    [ "BackdoorCommand", "a00009.xhtml#a84a6e6fc500b18e0afc9c92cec4e709a", null ],
+    [ "Clone", "a00009.xhtml#a5d056daa4826f744f550ab28fefcff88", null ],
+    [ "Command", "a00009.xhtml#a46970644779bffdc5c5f2ef26feec8f6", null ],
+    [ "Command", "a00009.xhtml#a33bc1482c483040d52a59af30d08b937", null ],
+    [ "CommandMaxStringLength", "a00009.xhtml#a4f0e11cfb9db8181a8accbbf3c5ecdb3", null ],
+    [ "CommandMemberIndex", "a00009.xhtml#ac0b2e3cf4aec7c374250b40718f33ed5", null ],
+    [ "ConnectionName", "a00009.xhtml#a3f79b68e28c86d9fa7d2f75170a2368f", null ],
+    [ "ConnectionName", "a00009.xhtml#a76aabd3db67732d344ce6db201d89d63", null ],
+    [ "ConnectionNameMaxStringLength", "a00009.xhtml#a625021b789afe73c69109c6b1f5f4c4e", null ],
+    [ "ConnectionNameMemberIndex", "a00009.xhtml#a62e301877b5752ec7b0a0aadc65b97e9", null ],
+    [ "Create", "a00009.xhtml#a44ff2f064b1d87958e57f6f51c0b5e5c", null ],
+    [ "GetMember", "a00009.xhtml#a5fedb70bcef43ba377b6e771dd218d0e", null ],
+    [ "GetMember", "a00009.xhtml#a0ea2cf1974d93ade5e85c3574f2e94f4", null ],
+    [ "GetTypeId", "a00009.xhtml#a6484890671e13bf23fa8d3dbe2b322c4", null ],
+    [ "IsChanged", "a00009.xhtml#a70ea46541f89495a6f6b509b199ef8f3", null ],
+    [ "NodeName", "a00009.xhtml#a68ffd9e92487e176c999f1f1d0bd9484", null ],
+    [ "NodeName", "a00009.xhtml#aef554d8f04f0d2626e6ca88a1c9b51a9", null ],
+    [ "NodeNameMaxStringLength", "a00009.xhtml#a0cb5b5945365bd3e791cb807ee8b540f", null ],
+    [ "NodeNameMemberIndex", "a00009.xhtml#a4f4ce279df1107daf5ebc92bde3cb98f", null ],
+    [ "SetChanged", "a00009.xhtml#ad37e0fcbb2878f13d121035fcd490621", null ],
+    [ "WriteToBlob", "a00009.xhtml#a39b1e3d8bc5110320e28b356a303c62e", null ],
+    [ "ClassTypeId", "a00009.xhtml#ac669085effe4a9270d9d30704f88c342", null ]
+];

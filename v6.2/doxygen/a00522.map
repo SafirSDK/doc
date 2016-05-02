@@ -1,0 +1,23 @@
+<map id="/home/lars/safir/safir&#45;sdk&#45;core/src/safir_dou/gen/cpp/include/Safir/Dob/Response.h" name="/home/lars/safir/safir&#45;sdk&#45;core/src/safir_dou/gen/cpp/include/Safir/Dob/Response.h">
+<area shape="rect" id="node2" href="$a00201.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/ConnectionBase.h" alt="" coords="564,480,725,536"/>
+<area shape="rect" id="node13" href="$a00202.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/Consumer.h" alt="" coords="738,369,890,425"/>
+<area shape="rect" id="node14" href="$a00211.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/ResponseProxy.h" alt="" coords="923,131,1081,187"/>
+<area shape="rect" id="node15" href="$a00212.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/ResponseSender.h" alt="" coords="733,131,898,187"/>
+<area shape="rect" id="node17" href="$a00277.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/src/safir_dou\l/gen/cpp/include/Safir/Dob\l/ErrorResponse.h" alt="" coords="1106,124,1282,195"/>
+<area shape="rect" id="node19" href="$a00308.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/src/safir_dou\l/gen/cpp/include/Safir/Dob\l/SuccessResponse.h" alt="" coords="1357,124,1533,195"/>
+<area shape="rect" id="node22" href="$a00314.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/src/safir_dou\l/gen/cpp/include/Safir/Utilities\l/ForEach/FullResponse.h" alt="" coords="1389,361,1585,432"/>
+<area shape="rect" id="node3" href="$a00181.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Application/BackdoorKeeper.h" alt="" coords="993,584,1195,640"/>
+<area shape="rect" id="node4" href="$a00184.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Application/Tracer.h" alt="" coords="766,584,918,640"/>
+<area shape="rect" id="node5" href="$a00187.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/Connection.h" alt="" coords="799,688,951,744"/>
+<area shape="rect" id="node8" href="$a00197.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/ConnectionAspectBase.h" alt="" coords="219,584,422,640"/>
+<area shape="rect" id="node9" href="$a00198.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/ConnectionAspectInjector.h" alt="" coords="5,688,220,744"/>
+<area shape="rect" id="node10" href="$a00199.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/ConnectionAspectMisc.h" alt="" coords="245,688,445,744"/>
+<area shape="rect" id="node11" href="$a00200.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/ConnectionAspectPostpone.h" alt="" coords="469,688,695,744"/>
+<area shape="rect" id="node12" href="$a00213.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/SecondaryConnection.h" alt="" coords="548,584,741,640"/>
+<area shape="rect" id="node6" href="$a00250.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Utilities/AceDispatcher.h" alt="" coords="691,792,862,848"/>
+<area shape="rect" id="node7" href="$a00251.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Utilities/AsioDispatcher.h" alt="" coords="887,792,1061,848"/>
+<area shape="rect" id="node16" href="$a00203.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/include/Safir\l/Dob/ConsumerBase.h" alt="" coords="790,250,945,306"/>
+<area shape="rect" id="node18" href="$a00276.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/src/safir_dou\l/gen/cpp/include/Safir/Dob\l/ErrorListResponse.h" alt="" coords="1106,243,1282,313"/>
+<area shape="rect" id="node20" href="$a00275.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/src/safir_dou\l/gen/cpp/include/Safir/Dob\l/EntityIdResponse.h" alt="" coords="1357,243,1533,313"/>
+<area shape="rect" id="node21" href="$a00311.xhtml" title="/home/lars/safir/safir\l&#45;sdk&#45;core/src/safir_dou\l/gen/cpp/include/Safir/Utilities\l/ForEach/BriefResponse.h" alt="" coords="1557,243,1753,313"/>
+</map>
