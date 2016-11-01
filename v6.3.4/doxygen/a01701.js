@@ -1,0 +1,26 @@
+var a01701 =
+[
+    [ "DeleteAllRequest", "a01701.xhtml#a8758158f85111db8103e82136350c5b1", null ],
+    [ "DeleteAllRequest", "a01701.xhtml#a5279bb049ba24fbffca3007b3431fcfa", null ],
+    [ "Clone", "a01701.xhtml#a493df40e1605e894dd7cbb9a34213c4e", null ],
+    [ "Create", "a01701.xhtml#a4c67b179c98334d9c0f214dd5f0bdfed", null ],
+    [ "GetMember", "a01701.xhtml#aa2782fc7d85c2c1c559f3790454c6b66", null ],
+    [ "GetMember", "a01701.xhtml#aaefcb977aa0dd21ad59ffe20ff3d2a65", null ],
+    [ "GetTypeId", "a01701.xhtml#af9c2d97e6ab7e006df268ac31ff95257", null ],
+    [ "HandlerId", "a01701.xhtml#add49f4d02e7f1222574ea6035b7a2254", null ],
+    [ "HandlerId", "a01701.xhtml#a0a07bcf50791cdae166d8d914dfb75c9", null ],
+    [ "HandlerIdMemberIndex", "a01701.xhtml#abcecabbffc889e1c16570132ca5d9187", null ],
+    [ "IncludeSubClasses", "a01701.xhtml#afd3a3c4a7b934389a9c4a2a6350693bf", null ],
+    [ "IncludeSubClasses", "a01701.xhtml#a627ad9fa18bcad55d297fc8c42c13ab9", null ],
+    [ "IncludeSubClassesMemberIndex", "a01701.xhtml#a884ea28509bcf9dd82aaefd117e1da6b", null ],
+    [ "IsChanged", "a01701.xhtml#aa35c15570830bede3b85d292d5d36e08", null ],
+    [ "ResponseType", "a01701.xhtml#a297c269998d511a40134a07c8cb5485e", null ],
+    [ "ResponseType", "a01701.xhtml#a24fc1ed1730ae3de054578e3d84654ae", null ],
+    [ "ResponseTypeMemberIndex", "a01701.xhtml#a0f24efd4df6bb2613731a520f510cad2", null ],
+    [ "SetChanged", "a01701.xhtml#a6e1766a4ba400d8b8eb6b7be48bfd478", null ],
+    [ "TypeId", "a01701.xhtml#af95b84d4644067d289d0a1cfa022988a", null ],
+    [ "TypeId", "a01701.xhtml#ae466c19032835e5264840e28255a2de3", null ],
+    [ "TypeIdMemberIndex", "a01701.xhtml#a174492e36111531906c7249a25b26092", null ],
+    [ "WriteToBlob", "a01701.xhtml#ac21d9cc083162b6b08130c6ab16c15a4", null ],
+    [ "ClassTypeId", "a01701.xhtml#a0f5354a8fa4bcf4f28300c9aa44a1b9f", null ]
+];

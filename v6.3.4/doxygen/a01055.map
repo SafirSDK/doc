@@ -1,0 +1,6 @@
+<map id="Safir::Dob::EntityHandlerInjection" name="Safir::Dob::EntityHandlerInjection">
+<area shape="rect" id="node2" href="$a01097.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="5,169,244,196"/>
+<area shape="rect" id="node3" href="$a01093.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="194,5,325,47"/>
+<area shape="rect" id="node5" href="$a01105.xhtml" title="Interface to receive entity requests. " alt="" coords="242,95,442,121"/>
+<area shape="rect" id="node4" href="$a01109.xhtml" title="This Consumer Base class contains callback methods that can be overridden by an entity handler that r..." alt="" coords="268,169,469,196"/>
+</map>

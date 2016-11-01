@@ -1,0 +1,5 @@
+<map id="Safir::Dob::EntityHandler" name="Safir::Dob::EntityHandler">
+<area shape="rect" id="node2" href="$a01097.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="5,95,244,121"/>
+<area shape="rect" id="node3" href="$a01093.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="181,5,311,47"/>
+<area shape="rect" id="node4" href="$a01105.xhtml" title="Interface to receive entity requests. " alt="" coords="269,95,469,121"/>
+</map>

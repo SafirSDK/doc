@@ -1,0 +1,12 @@
+<map id="Safir::Dob::Typesystem::ContainerProxy::GetVal" name="Safir::Dob::Typesystem::ContainerProxy::GetVal">
+<area shape="rect" id="node2" href="$a01169.xhtml#a02f473a7fb1bd430836aeed1fbafd542" title="Safir::Dob::Typesystem\l::ContainerProxy::operator*=" alt="" coords="238,5,425,47"/>
+<area shape="rect" id="node3" href="$a01169.xhtml#a8000f9a390c21c04e2922da04d98a43b" title="Safir::Dob::Typesystem\l::ContainerProxy::operator++" alt="" coords="236,71,427,112"/>
+<area shape="rect" id="node4" href="$a01169.xhtml#a98c77cfd23e28b337e670411f82d9d63" title="Safir::Dob::Typesystem\l::ContainerProxy::operator+=" alt="" coords="236,136,427,177"/>
+<area shape="rect" id="node5" href="$a01173.xhtml#a53a36cd5b318af201c425521c4c49a08" title="Safir::Dob::Typesystem\l::ContainerProxy\&lt; StringContainer\l \&gt;::operator+=" alt="" coords="221,202,441,258"/>
+<area shape="rect" id="node6" href="$a01169.xhtml#ae47bd8c3142fd064f668c78f53094df0" title="Safir::Dob::Typesystem\l::ContainerProxy::operator&#45;&#45;" alt="" coords="240,283,423,324"/>
+<area shape="rect" id="node7" href="$a01169.xhtml#a7e5d89b0b1f33d1746b013357fb78826" title="Safir::Dob::Typesystem\l::ContainerProxy::operator&#45;=" alt="" coords="238,348,425,389"/>
+<area shape="rect" id="node8" href="$a01169.xhtml#ae235fef7a97dfafc7091795c2f405194" title="Safir::Dob::Typesystem\l::ContainerProxy::operator/=" alt="" coords="238,413,425,455"/>
+<area shape="rect" id="node9" href="$a01169.xhtml#a0bf21fdc1fbe4d7ec5ef438dd985d971" title="Safir::Dob::Typesystem\l::ContainerProxy::operator=" alt="" coords="240,479,423,520"/>
+<area shape="rect" id="node10" href="$a01173.xhtml#ae56f725133ba32e08575bcdd3d5daea0" title="Safir::Dob::Typesystem\l::ContainerProxy\&lt; StringContainer\l \&gt;::operator=" alt="" coords="221,545,441,601"/>
+<area shape="rect" id="node11" href="$a01177.xhtml#a73c234fdf59da7b2168c82899c932bdc" title="Safir::Dob::Typesystem\l::ContainerProxy\&lt; BinaryContainer\l \&gt;::operator=" alt="" coords="220,625,443,681"/>
+</map>

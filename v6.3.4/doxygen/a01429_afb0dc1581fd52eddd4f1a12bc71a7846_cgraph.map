@@ -1,0 +1,5 @@
+<map id="Safir::Utilities::Synchronized::~Synchronized" name="Safir::Utilities::Synchronized::~Synchronized">
+<area shape="rect" id="node2" href="$a01429.xhtml#a230fe14167e53bdea9fdb6c5788f8696" title="Guarantees are that only one call to Create in all processes will be made. " alt="" coords="256,5,443,47"/>
+<area shape="rect" id="node3" href="$a01429.xhtml#a0c4a586e2b9429be193fb54cdca078c7" title="This callback will be called when the last process destroys its StartupSynchronizer. " alt="" coords="256,71,443,112"/>
+<area shape="rect" id="node4" href="$a01429.xhtml#af8a9f7c3f4f2142e4a9181bba5339caa" title="All processes will get a call to Use, even the one that got the Create callback. " alt="" coords="240,137,459,163"/>
+</map>

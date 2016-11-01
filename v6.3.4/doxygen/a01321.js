@@ -1,0 +1,27 @@
+var a01321 =
+[
+    [ "ClassDescriptionType", "a01321.xhtml#a7afdce7b3429da2c4d36d7c38ed54339", null ],
+    [ "CreateRoutineDescriptionType", "a01321.xhtml#a56a55fc537ab766ce6ea8a4258ff57e8", null ],
+    [ "EnumDescriptionType", "a01321.xhtml#a5eabd4154a0a17fba848dca6605f097d", null ],
+    [ "ExceptionDescriptionType", "a01321.xhtml#a4fcbd86b1b9389113e0cf5cca874bc5d", null ],
+    [ "MemberDescriptionType", "a01321.xhtml#ada48492c0e3d549638f3e3c93ff2b838", null ],
+    [ "MemberMappingDescriptionType", "a01321.xhtml#ad5412f210439ac36d7df1de28f19969e", null ],
+    [ "ParameterDescriptionType", "a01321.xhtml#ad9860649e71426cb00b3534f378dd01c", null ],
+    [ "PropertyDescriptionType", "a01321.xhtml#adebb1acb099be149d8001c97eaccc979", null ],
+    [ "PropertyMappingDescriptionType", "a01321.xhtml#a746d0cd205cfc095c003cd2c8197d575", null ],
+    [ "RepositoryType", "a01321.xhtml#a28256dbae73a4ee77f42816b93673a86", null ],
+    [ "BlobReader", "a01321.xhtml#a25fb46b9e752b7d53420f8358f4f2ba0", null ],
+    [ "GetSize", "a01321.xhtml#af85bb461242e705bf6c43a133011325f", null ],
+    [ "GetTypeId", "a01321.xhtml#a1d172be2b973519aca4ae0cd515d856b", null ],
+    [ "IsChangedHere", "a01321.xhtml#aebb4de799e757879379a71c44351611b", null ],
+    [ "IsChangedRecursive", "a01321.xhtml#acc9d9df3988f97326a5ae15d34312a84", null ],
+    [ "IsChangedRecursive", "a01321.xhtml#a716606247bf60557d53aca16540fb69e", null ],
+    [ "IsChangedTopLevel", "a01321.xhtml#a880a4f4e6345fb2207e53cc58b1dd0fc", null ],
+    [ "NumberOfValues", "a01321.xhtml#a802813d36b851325309cbde72e806ed7", null ],
+    [ "ReadKey", "a01321.xhtml#a5c0690e76f495dc7a82c5b946a550f57", null ],
+    [ "ReadStatus", "a01321.xhtml#a27ee4d102cfb2f6040ef1dc439779a67", null ],
+    [ "ReadValue", "a01321.xhtml#acf345331ef1d0f575b0fc07e099fcfbc", null ],
+    [ "Size", "a01321.xhtml#a944390628b7982f1ebff32dea4ed29ca", null ],
+    [ "TypeId", "a01321.xhtml#a23b4e5d85abb2b18f99ba914217dc8c4", null ],
+    [ "Internal::BlobUtils::BlobAccess", "a01321.xhtml#a7380d894e54192bf530e960762481697", null ]
+];

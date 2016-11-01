@@ -1,0 +1,6 @@
+<map id="Safir::Dob::EntityInjectionBase" name="Safir::Dob::EntityInjectionBase">
+<area shape="rect" id="node4" href="$a01057.xhtml" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration for a type tha..." alt="" coords="5,244,172,285"/>
+<area shape="rect" id="node5" href="$a01061.xhtml" title="Interface to be implemented by an entity handler that makes a pending registration. " alt="" coords="196,244,363,285"/>
+<area shape="rect" id="node2" href="$a01105.xhtml" title="Interface to receive entity requests. " alt="" coords="83,95,283,121"/>
+<area shape="rect" id="node3" href="$a01093.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="118,5,249,47"/>
+</map>

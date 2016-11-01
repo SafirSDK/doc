@@ -1,0 +1,12 @@
+<map id="Safir::Dob::Typesystem::EnumerationContainerBase" name="Safir::Dob::Typesystem::EnumerationContainerBase">
+<area shape="rect" id="node3" href="$a01449.xhtml" title="Safir::Control::Operation\l::EnumerationContainer" alt="" coords="493,5,655,47"/>
+<area shape="rect" id="node4" href="$a01485.xhtml" title="Safir::Dob::CallbackId\l::EnumerationContainer" alt="" coords="495,71,653,112"/>
+<area shape="rect" id="node5" href="$a01497.xhtml" title="Safir::Dob::ConnectionQueue\lId::EnumerationContainer" alt="" coords="479,136,669,177"/>
+<area shape="rect" id="node6" href="$a01517.xhtml" title="Safir::Dob::Distribution\lScope::EnumerationContainer" alt="" coords="477,201,671,243"/>
+<area shape="rect" id="node7" href="$a01553.xhtml" title="Safir::Dob::InjectionKind\l::EnumerationContainer" alt="" coords="493,267,655,308"/>
+<area shape="rect" id="node8" href="$a01569.xhtml" title="Safir::Dob::InstanceIdPolicy\l::EnumerationContainer" alt="" coords="481,332,667,373"/>
+<area shape="rect" id="node9" href="$a01613.xhtml" title="Safir::Dob::PersistenceBackend\l::EnumerationContainer" alt="" coords="470,397,678,439"/>
+<area shape="rect" id="node10" href="$a01637.xhtml" title="Safir::Dob::PersistentData\lState::EnumerationContainer" alt="" coords="479,463,669,504"/>
+<area shape="rect" id="node11" href="$a01717.xhtml" title="Safir::Utilities::ForEach\l::ResponseType::EnumerationContainer" alt="" coords="448,528,700,569"/>
+<area shape="rect" id="node2" href="$a01165.xhtml" title="Base class for all Containers. " alt="" coords="5,267,164,308"/>
+</map>

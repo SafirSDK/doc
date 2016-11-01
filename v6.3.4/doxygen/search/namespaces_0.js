@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['application',['Application',['../a00407.xhtml',1,'Safir']]],
+  ['control',['Control',['../a00426.xhtml',1,'Safir']]],
+  ['databases',['Databases',['../a00408.xhtml',1,'Safir']]],
+  ['dob',['Dob',['../a00410.xhtml',1,'Safir']]],
+  ['foreach',['ForEach',['../a00427.xhtml',1,'Safir::Utilities']]],
+  ['internal',['Internal',['../a00415.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['internal',['Internal',['../a00411.xhtml',1,'Safir::Dob']]],
+  ['logging',['Logging',['../a00422.xhtml',1,'Safir']]],
+  ['members',['Members',['../a00416.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['odbc',['Odbc',['../a00409.xhtml',1,'Safir::Databases']]],
+  ['operations',['Operations',['../a00417.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['parameters',['Parameters',['../a00418.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['safir',['Safir',['../a00406.xhtml',1,'']]],
+  ['si32',['Si32',['../a00413.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['si64',['Si64',['../a00414.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['swreports',['SwReports',['../a00423.xhtml',1,'Safir']]],
+  ['time',['Time',['../a00424.xhtml',1,'Safir']]],
+  ['toolsupport',['ToolSupport',['../a00419.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['typesystem',['Typesystem',['../a00412.xhtml',1,'Safir::Dob']]],
+  ['typesystem',['Typesystem',['../a00429.xhtml',1,'Safir::Websocket']]],
+  ['typeutilities',['TypeUtilities',['../a00420.xhtml',1,'Safir::Dob::Typesystem::ToolSupport']]],
+  ['utilities',['Utilities',['../a00425.xhtml',1,'Safir']]],
+  ['utilities',['Utilities',['../a00421.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['websocket',['Websocket',['../a00428.xhtml',1,'Safir']]]
+];

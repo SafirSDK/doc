@@ -1,0 +1,5 @@
+<map id="Safir::Dob::ServiceRequestBase" name="Safir::Dob::ServiceRequestBase">
+<area shape="rect" id="node3" href="$a01065.xhtml" title="Interface to be implemented by a service handler that makes a non&#45;pending registration. " alt="" coords="5,177,181,203"/>
+<area shape="rect" id="node4" href="$a01069.xhtml" title="Interface to be implemented by a service handler that makes a pending registration. " alt="" coords="205,169,381,211"/>
+<area shape="rect" id="node2" href="$a01093.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="128,5,259,47"/>
+</map>

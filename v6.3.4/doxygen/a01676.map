@@ -1,0 +1,8 @@
+<map id="Safir::Dob::Service" name="Safir::Dob::Service">
+<area shape="rect" id="node3" href="$a01441.xhtml" title="Command to stop, shutdown or reboot a specific node or a whole safir system. " alt="" coords="397,5,562,32"/>
+<area shape="rect" id="node4" href="$a01629.xhtml" title="This service is called by the persistency handler when the persistent data has been fed to the Dob..." alt="" coords="392,57,567,98"/>
+<area shape="rect" id="node5" href="$a01701.xhtml" title="Definition of deleting all instances of a given type. " alt="" coords="401,122,558,163"/>
+<area shape="rect" id="node6" href="$a01705.xhtml" title="Definition of deleting multiple objects using ForEach service request. " alt="" coords="401,187,558,229"/>
+<area shape="rect" id="node7" href="$a01721.xhtml" title="Definition of updating multiple objects using ForEach service request. " alt="" coords="401,253,558,294"/>
+<area shape="rect" id="node2" href="$a01265.xhtml" title="The base class for all DOB objects. " alt="" coords="5,122,164,163"/>
+</map>

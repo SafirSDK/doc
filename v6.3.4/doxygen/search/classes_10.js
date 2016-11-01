@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['scopedcrashreporter',['ScopedCrashReporter',['../a00989.xhtml',1,'Safir::Application']]],
+  ['secondaryconnection',['SecondaryConnection',['../a01149.xhtml',1,'Safir::Dob']]],
+  ['sequencecontainer',['SequenceContainer',['../a01305.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['sequencecontainerbase',['SequenceContainerBase',['../a01293.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['sequencecontainerbase_3c_20boost_3a_3ashared_5fptr_3c_20classtype_20_3e_20_3e',['SequenceContainerBase&lt; boost::shared_ptr&lt; ClassType &gt; &gt;',['../a01293.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['sequencecontainerbase_3c_20boost_3a_3ashared_5fptr_3c_20enumtype_20_3e_20_3e',['SequenceContainerBase&lt; boost::shared_ptr&lt; EnumType &gt; &gt;',['../a01293.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['sequencecontainerbase_3c_20boost_3a_3ashared_5fptr_3c_20member_20_3e_20_3e',['SequenceContainerBase&lt; boost::shared_ptr&lt; Member &gt; &gt;',['../a01293.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['sequencecontainerbase_3c_20boost_3a_3ashared_5fptr_3c_20t_20_3e_20_3e',['SequenceContainerBase&lt; boost::shared_ptr&lt; T &gt; &gt;',['../a01293.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['serialization',['Serialization',['../a01317.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['service',['Service',['../a01677.xhtml',1,'Safir::Dob']]],
+  ['servicehandler',['ServiceHandler',['../a01065.xhtml',1,'Safir::Dob']]],
+  ['servicehandlerpending',['ServiceHandlerPending',['../a01069.xhtml',1,'Safir::Dob']]],
+  ['servicerequestbase',['ServiceRequestBase',['../a01113.xhtml',1,'Safir::Dob']]],
+  ['servicerequestproxy',['ServiceRequestProxy',['../a01153.xhtml',1,'Safir::Dob']]],
+  ['softwareviolationexception',['SoftwareViolationException',['../a01237.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['startupsynchronizer',['StartupSynchronizer',['../a01433.xhtml',1,'Safir::Utilities']]],
+  ['statement',['Statement',['../a01017.xhtml',1,'Safir::Databases::Odbc']]],
+  ['status',['Status',['../a01457.xhtml',1,'Safir::Control']]],
+  ['stophandler',['StopHandler',['../a01045.xhtml',1,'Safir::Dob']]],
+  ['stringcontainer',['StringContainer',['../a01389.xhtml',1,'Safir::Dob::Typesystem']]],
+  ['struct',['Struct',['../a01681.xhtml',1,'Safir::Dob']]],
+  ['successresponse',['SuccessResponse',['../a01685.xhtml',1,'Safir::Dob']]],
+  ['synchronized',['Synchronized',['../a01429.xhtml',1,'Safir::Utilities']]]
+];

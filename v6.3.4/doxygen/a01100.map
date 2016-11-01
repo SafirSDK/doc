@@ -1,0 +1,6 @@
+<map id="Safir::Dob::CompletedRegistrationBase" name="Safir::Dob::CompletedRegistrationBase">
+<area shape="rect" id="node4" href="$a01061.xhtml" title="Interface to be implemented by an entity handler that makes a pending registration. " alt="" coords="5,244,172,285"/>
+<area shape="rect" id="node5" href="$a01069.xhtml" title="Interface to be implemented by a service handler that makes a pending registration. " alt="" coords="197,244,373,285"/>
+<area shape="rect" id="node2" href="$a01097.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="67,95,305,121"/>
+<area shape="rect" id="node3" href="$a01093.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="121,5,251,47"/>
+</map>

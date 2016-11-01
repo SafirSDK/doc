@@ -1,0 +1,8 @@
+<map id="Safir::Dob::Typesystem::DictionaryContainer::Copy" name="Safir::Dob::Typesystem::DictionaryContainer::Copy">
+<area shape="rect" id="node2" href="$a01193.xhtml#a843692c26962643bab2edbb7689467b0" title="Safir::Dob::Typesystem\l::DictionaryContainer\l::begin" alt="" coords="248,5,407,61"/>
+<area shape="rect" id="node3" href="$a01193.xhtml#ae7cadcf752710ca29fe05913df0bfc99" title="Safir::Dob::Typesystem\l::DictionaryContainer::end" alt="" coords="241,86,413,127"/>
+<area shape="rect" id="node4" href="$a01269.xhtml#aa5ad8977290cb7057106eead21a27ea6" title="Get a smart pointer to the contained object. " alt="" coords="248,152,407,208"/>
+<area shape="rect" id="node5" href="$a01165.xhtml#a9a1b52624a8f2a163c5ecec102253059" title="Is the change flag set on the container? " alt="" coords="235,233,420,274"/>
+<area shape="rect" id="node6" href="$a01269.xhtml#aa5f9fb5ad7450f32ee51b70115bce80a" title="Is the change flag in the container set? " alt="" coords="248,299,407,355"/>
+<area shape="rect" id="node7" href="$a00421.xhtml#adffc48c374b1a7e3fae14f61a209f64d" title="Merge the changed members (recursively) from one object into another. " alt="" coords="243,379,411,421"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Safir::Dob::Typesystem::ContainerProxy::IsNull" name="Safir::Dob::Typesystem::ContainerProxy::IsNull">
+<area shape="rect" id="node2" href="$a01169.xhtml#a0bf21fdc1fbe4d7ec5ef438dd985d971" title="Safir::Dob::Typesystem\l::ContainerProxy::operator=" alt="" coords="234,5,417,47"/>
+<area shape="rect" id="node3" href="$a01173.xhtml#ae56f725133ba32e08575bcdd3d5daea0" title="Safir::Dob::Typesystem\l::ContainerProxy\&lt; StringContainer\l \&gt;::operator=" alt="" coords="215,71,435,127"/>
+<area shape="rect" id="node4" href="$a01177.xhtml#a73c234fdf59da7b2168c82899c932bdc" title="Safir::Dob::Typesystem\l::ContainerProxy\&lt; BinaryContainer\l \&gt;::operator=" alt="" coords="214,151,437,207"/>
+<area shape="rect" id="node5" href="$a01181.xhtml#a204a5b7124f769a39637a0589158fd96" title="Safir::Dob::Typesystem\l::ContainerProxy\&lt; ObjectContainer\lImpl\&lt; U \&gt; \&gt;::operator=" alt="" coords="213,231,437,287"/>
+<area shape="rect" id="node6" href="$a01185.xhtml#aa03837df68e52410f796b77927843a05" title="Safir::Dob::Typesystem\l::ContainerProxy\&lt; ObjectContainer\lImpl\&lt; Object \&gt; \&gt;::operator=" alt="" coords="213,311,437,367"/>
+</map>

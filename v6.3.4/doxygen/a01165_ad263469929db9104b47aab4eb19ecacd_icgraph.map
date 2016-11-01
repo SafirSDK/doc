@@ -1,0 +1,15 @@
+<map id="Safir::Dob::Typesystem::ContainerBase::IsNull" name="Safir::Dob::Typesystem::ContainerBase::IsNull">
+<area shape="rect" id="node2" href="$a01273.xhtml#a09fac7392e38a41792cca8dcbbc30c7b" title="Calculate the size of the blob&#45;serialized form of the contained object. " alt="" coords="212,5,433,61"/>
+<area shape="rect" id="node3" href="$a01273.xhtml#a62bb04202644e3b55eb671c586fd89e9" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\&lt; ClassType \&gt;::Copy" alt="" coords="243,85,402,141"/>
+<area shape="rect" id="node4" href="$a01277.xhtml#a6e4713f8c60ed0270f5a02bb231a5434" title="Virtual assignment. " alt="" coords="243,165,402,221"/>
+<area shape="rect" id="node5" href="$a01273.xhtml#a3cac7cb91b4900dfcde94c71db6eae99" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\&lt; ClassType \&gt;::GetMember" alt="" coords="231,245,414,301"/>
+<area shape="rect" id="node6" href="$a01277.xhtml#ad193042f968e3ae523eb85a5e33dabcf" title="Get a reference to a member container from an object. " alt="" coords="243,325,403,381"/>
+<area shape="rect" id="node7" href="$a01273.xhtml#aa56f9406ad468c96a6a73b4dcd3452de" title="Get the smart pointer from the container. " alt="" coords="243,405,402,461"/>
+<area shape="rect" id="node8" href="$a01277.xhtml#af3ff0b4553f7755d6a8e164f1726b8ec" title="Get the smart pointer from the container. " alt="" coords="243,485,402,541"/>
+<area shape="rect" id="node9" href="$a01273.xhtml#a4ecb3b1a8e210198fdeb50dac6523c73" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\&lt; ClassType \&gt;::IsChanged" alt="" coords="234,565,411,621"/>
+<area shape="rect" id="node10" href="$a01277.xhtml#a1d20d368467a99471d1414a6a9d62942" title="Is the change flag set on the container? " alt="" coords="243,645,402,701"/>
+<area shape="rect" id="node11" href="$a01273.xhtml#abc58c20fa777a5e42427e2701ce3053a" title="Dereference the smart pointer in the container. " alt="" coords="235,725,410,781"/>
+<area shape="rect" id="node12" href="$a01277.xhtml#abed514bce0c006c7e4096777412c20f9" title="Dereference the smart pointer in the container. " alt="" coords="243,805,402,861"/>
+<area shape="rect" id="node13" href="$a01273.xhtml#a23ad6693cb6de72f3fe5dc05ef27d7a4" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\&lt; ClassType \&gt;::SetChanged" alt="" coords="229,885,416,941"/>
+<area shape="rect" id="node14" href="$a01277.xhtml#a5c947048a907e0ad3cea321a65e8458b" title="Set the containers change flag. " alt="" coords="241,965,404,1021"/>
+</map>

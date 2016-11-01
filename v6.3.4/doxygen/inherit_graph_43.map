@@ -1,0 +1,36 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a01165.xhtml" title="Base class for all Containers. " alt="" coords="5,1118,164,1159"/>
+<area shape="rect" id="node2" href="$a01393.xhtml" title="Container for Binary. " alt="" coords="261,979,419,1021"/>
+<area shape="rect" id="node3" href="$a01189.xhtml" title="Base class for all dictionary containers. " alt="" coords="253,149,427,190"/>
+<area shape="rect" id="node5" href="$a01209.xhtml" title="Base class for containers of enumeration values. " alt="" coords="246,381,434,422"/>
+<area shape="rect" id="node15" href="$a01269.xhtml" title="Base class for all object containers. " alt="" coords="261,893,419,934"/>
+<area shape="rect" id="node22" href="$a01293.xhtml" title="Container class for sequences of values. " alt="" coords="237,1045,443,1086"/>
+<area shape="rect" id="node24" href="$a01389.xhtml" title="Container for strings (std::wstring). " alt="" coords="261,1337,419,1378"/>
+<area shape="rect" id="node25" href="$a01385.xhtml" title="Container for base types. " alt="" coords="261,1483,419,1525"/>
+<area shape="rect" id="node26" href="$a01293.xhtml" title="Safir::Dob::Typesystem\l::SequenceContainerBase\l\&lt; boost::shared_ptr\&lt; ClassType \&gt; \&gt;" alt="" coords="224,1549,456,1605"/>
+<area shape="rect" id="node28" href="$a01293.xhtml" title="Safir::Dob::Typesystem\l::SequenceContainerBase\l\&lt; boost::shared_ptr\&lt; EnumType \&gt; \&gt;" alt="" coords="223,1111,457,1167"/>
+<area shape="rect" id="node30" href="$a01293.xhtml" title="Safir::Dob::Typesystem\l::SequenceContainerBase\l\&lt; boost::shared_ptr\&lt; Member \&gt; \&gt;" alt="" coords="231,1191,449,1247"/>
+<area shape="rect" id="node32" href="$a01293.xhtml" title="Safir::Dob::Typesystem\l::SequenceContainerBase\l\&lt; boost::shared_ptr\&lt; T \&gt; \&gt;" alt="" coords="251,1403,429,1459"/>
+<area shape="rect" id="node4" href="$a01193.xhtml" title="Container class for dictionaries of key value pairs. " alt="" coords="566,5,725,61"/>
+<area shape="rect" id="node6" href="$a01449.xhtml" title="Safir::Control::Operation\l::EnumerationContainer" alt="" coords="564,86,727,127"/>
+<area shape="rect" id="node7" href="$a01485.xhtml" title="Safir::Dob::CallbackId\l::EnumerationContainer" alt="" coords="566,151,725,193"/>
+<area shape="rect" id="node8" href="$a01497.xhtml" title="Safir::Dob::ConnectionQueue\lId::EnumerationContainer" alt="" coords="550,217,741,258"/>
+<area shape="rect" id="node9" href="$a01517.xhtml" title="Safir::Dob::Distribution\lScope::EnumerationContainer" alt="" coords="548,282,743,323"/>
+<area shape="rect" id="node10" href="$a01553.xhtml" title="Safir::Dob::InjectionKind\l::EnumerationContainer" alt="" coords="564,347,727,389"/>
+<area shape="rect" id="node11" href="$a01569.xhtml" title="Safir::Dob::InstanceIdPolicy\l::EnumerationContainer" alt="" coords="553,413,738,454"/>
+<area shape="rect" id="node12" href="$a01613.xhtml" title="Safir::Dob::PersistenceBackend\l::EnumerationContainer" alt="" coords="541,478,749,519"/>
+<area shape="rect" id="node13" href="$a01637.xhtml" title="Safir::Dob::PersistentData\lState::EnumerationContainer" alt="" coords="551,543,740,585"/>
+<area shape="rect" id="node14" href="$a01717.xhtml" title="Safir::Utilities::ForEach\l::ResponseType::EnumerationContainer" alt="" coords="519,609,771,650"/>
+<area shape="rect" id="node16" href="$a01273.xhtml" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\&lt; ClassType \&gt;" alt="" coords="566,885,725,941"/>
+<area shape="rect" id="node17" href="$a01273.xhtml" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\&lt; Entity \&gt;" alt="" coords="566,965,725,1021"/>
+<area shape="rect" id="node18" href="$a01273.xhtml" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\&lt; Safir::Dob::Typesystem\l::Object \&gt;" alt="" coords="560,1046,731,1117"/>
+<area shape="rect" id="node19" href="$a01273.xhtml" title="Safir::Dob::Typesystem\l::ObjectContainerImpl\&lt; U \&gt;" alt="" coords="555,674,736,715"/>
+<area shape="rect" id="node20" href="$a01273.xhtml" title="Template class for all containers of automatically generated DOB objects. " alt="" coords="555,739,735,781"/>
+<area shape="rect" id="node21" href="$a01277.xhtml" title="This is a specialization of the ObjectContainerImpl template for the case where the template argument..." alt="" coords="566,805,725,861"/>
+<area shape="rect" id="node23" href="$a01305.xhtml" title="Safir::Dob::Typesystem\l::SequenceContainer\&lt; T \&gt;" alt="" coords="558,1141,733,1182"/>
+<area shape="rect" id="node27" href="$a01313.xhtml" title="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\&lt; ClassType \&gt;" alt="" coords="532,1508,759,1564"/>
+<area shape="rect" id="node29" href="$a01313.xhtml" title="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\&lt; EnumType \&gt;" alt="" coords="532,1207,759,1263"/>
+<area shape="rect" id="node31" href="$a01313.xhtml" title="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\&lt; Member \&gt;" alt="" coords="532,1287,759,1343"/>
+<area shape="rect" id="node33" href="$a01313.xhtml" title="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\&lt; T \&gt;" alt="" coords="516,1378,775,1419"/>
+<area shape="rect" id="node34" href="$a01309.xhtml" title="Base class for all object sequences. " alt="" coords="212,1271,468,1313"/>
+</map>

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['dataaddress',['DataAddress',['../a01689.xhtml#a508aa98bb9d82ff4747fa3accdf125bb',1,'Safir::Dob::ThisNodeParameters']]],
+  ['delete',['Delete',['../a01041.xhtml#ad7e055a361cc08f3feecc00759cdc08f',1,'Safir::Dob::ConnectionBase']]],
+  ['deleteallinstances',['DeleteAllInstances',['../a01041.xhtml#a6fb6e91c424e8088df0a858fd86e5fe4',1,'Safir::Dob::ConnectionBase']]],
+  ['deleteallrequest',['DeleteAllRequest',['../a01701.xhtml#a8758158f85111db8103e82136350c5b1',1,'Safir::Utilities::ForEach::DeleteAllRequest::DeleteAllRequest()'],['../a01701.xhtml#a5279bb049ba24fbffca3007b3431fcfa',1,'Safir::Utilities::ForEach::DeleteAllRequest::DeleteAllRequest(Safir::Dob::Typesystem::Int64 handle)']]],
+  ['deleterequest',['DeleteRequest',['../a01041.xhtml#a8b9ccf5b36aeba7cdb4ddffad3741509',1,'Safir::Dob::ConnectionBase::DeleteRequest()'],['../a01705.xhtml#ab3890e12d6e9aa40f0f0936c707f2dd4',1,'Safir::Utilities::ForEach::DeleteRequest::DeleteRequest()'],['../a01705.xhtml#a03635f1ba85536b52696df7d7c22c0aa',1,'Safir::Utilities::ForEach::DeleteRequest::DeleteRequest(Safir::Dob::Typesystem::Int64 handle)']]],
+  ['descendants',['Descendants',['../a01729.xhtml#a70de5cdfc4856d0efd46ab1c5fb19edb',1,'Safir::Websocket::Typesystem::ClassType::Descendants() const'],['../a01729.xhtml#abe7ff03bed08e23315b25543d3c9b869',1,'Safir::Websocket::Typesystem::ClassType::Descendants()']]],
+  ['descendantsmemberindex',['DescendantsMemberIndex',['../a01729.xhtml#af9dcc66dd7987563729df48fa2a002ba',1,'Safir::Websocket::Typesystem::ClassType']]],
+  ['description',['Description',['../a01329.xhtml#a8c85b30a6d515a0026dbaf3ee2fe7cfd',1,'Safir::Dob::Typesystem::ToolSupport::ParseError']]],
+  ['destroy',['Destroy',['../a01429.xhtml#a0c4a586e2b9429be193fb54cdca078c7',1,'Safir::Utilities::Synchronized']]],
+  ['detach',['Detach',['../a01149.xhtml#aa54ba6f126d53477b2cdde3c5ad7d292',1,'Safir::Dob::SecondaryConnection']]],
+  ['dictionarycontainer',['DictionaryContainer',['../a01193.xhtml#a0176c6935866a937d6ae74705ca48937',1,'Safir::Dob::Typesystem::DictionaryContainer']]],
+  ['dictionarycontainerbase',['DictionaryContainerBase',['../a01189.xhtml#a2627333573482e0e2d74c3e92fb76236',1,'Safir::Dob::Typesystem::DictionaryContainerBase']]],
+  ['dictionarykeytoindex',['DictionaryKeyToIndex',['../a00418.xhtml#af0a6db4d388633a5029a68d727023a43',1,'Safir::Dob::Typesystem::Parameters::DictionaryKeyToIndex(const TypeId typeId, const ParameterIndex parameter, const Int32 key)'],['../a00418.xhtml#a6a1ba1422dbb8dedd12edc4c0ed140a1',1,'Safir::Dob::Typesystem::Parameters::DictionaryKeyToIndex(const TypeId typeId, const ParameterIndex parameter, const Int64 key)'],['../a00418.xhtml#aaca8d230089ce91038a2ebb74198fb87',1,'Safir::Dob::Typesystem::Parameters::DictionaryKeyToIndex(const TypeId typeId, const ParameterIndex parameter, const std::wstring &amp;key)'],['../a00418.xhtml#aa04b65bba16464063248ed309fc270f2',1,'Safir::Dob::Typesystem::Parameters::DictionaryKeyToIndex(const TypeId typeId, const ParameterIndex parameter, const EntityId &amp;key)'],['../a00418.xhtml#aea5b3f7c8871212c53642de8573a5e6b',1,'Safir::Dob::Typesystem::Parameters::DictionaryKeyToIndex(const TypeId typeId, const ParameterIndex parameter, const InstanceId &amp;key)'],['../a00418.xhtml#a7df45c070a811eeea62aeccf76149e24',1,'Safir::Dob::Typesystem::Parameters::DictionaryKeyToIndex(const TypeId typeId, const ParameterIndex parameter, const HandlerId &amp;key)'],['../a00418.xhtml#aa5d30c8ac02a4f59a1762c3bbc55371e',1,'Safir::Dob::Typesystem::Parameters::DictionaryKeyToIndex(const TypeId typeId, const ParameterIndex parameter, const ChannelId &amp;key)']]],
+  ['dictionarykeytype',['DictionaryKeyType',['../a01737.xhtml#aed00f8d297619897cd348f4ea6cc7f73',1,'Safir::Websocket::Typesystem::Member::DictionaryKeyType() const'],['../a01737.xhtml#ace401fbab89e40a935cbe58040135a3b',1,'Safir::Websocket::Typesystem::Member::DictionaryKeyType()']]],
+  ['dictionarykeytypemaxstringlength',['DictionaryKeyTypeMaxStringLength',['../a01737.xhtml#a8ce82b9472e5b000a65b781744974b82',1,'Safir::Websocket::Typesystem::Member']]],
+  ['dictionarykeytypememberindex',['DictionaryKeyTypeMemberIndex',['../a01737.xhtml#abd61ce317b3db0fdf6ebcb5eab538017',1,'Safir::Websocket::Typesystem::Member']]],
+  ['discard',['Discard',['../a01145.xhtml#a9b930f1cb91ec45ef788e26f52270deb',1,'Safir::Dob::ResponseSender']]],
+  ['disconnect',['Disconnect',['../a01009.xhtml#aa445ef04a60225458165b713a47a5f51',1,'Safir::Databases::Odbc::Connection']]],
+  ['dispatch',['Dispatch',['../a01021.xhtml#ac43bed5bb5ae30b21cadb7ea103998fe',1,'Safir::Dob::Connection']]],
+  ['dosemainthreadwatchdogtimeout',['DoseMainThreadWatchdogTimeout',['../a01585.xhtml#a9c32ca3459864a161c558a180157b419',1,'Safir::Dob::NodeParameters']]],
+  ['dump',['Dump',['../a01417.xhtml#a3ceb7c79d8ffcd05fbcbec78c58ccb3a',1,'Safir::Utilities::CrashReporter']]],
+  ['dynamiclibraryloader',['DynamicLibraryLoader',['../a01421.xhtml#ac4ff94ea3e5611af7dc248a25fa2413c',1,'Safir::Utilities::DynamicLibraryLoader']]]
+];

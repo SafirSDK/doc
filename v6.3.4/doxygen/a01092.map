@@ -1,0 +1,22 @@
+<map id="Safir::Dob::Internal::ConsumerBase" name="Safir::Dob::Internal::ConsumerBase">
+<area shape="rect" id="node2" href="$a01049.xhtml" title="Interface for reception of a dispatch order. " alt="" coords="228,56,379,83"/>
+<area shape="rect" id="node5" href="$a01105.xhtml" title="Interface to receive entity requests. " alt="" coords="203,157,403,184"/>
+<area shape="rect" id="node10" href="$a01089.xhtml" title="Interface to be implemented by subscribers of entities. " alt="" coords="211,339,395,365"/>
+<area shape="rect" id="node11" href="$a01077.xhtml" title="Interface to be implemented by senders of messages. " alt="" coords="212,389,395,416"/>
+<area shape="rect" id="node12" href="$a01085.xhtml" title="Interface to be implemented by subscribers of messages. " alt="" coords="202,440,405,467"/>
+<area shape="rect" id="node14" href="$a01081.xhtml" title="Interface to be implemented by subscribers of handler registrations. " alt="" coords="225,491,382,533"/>
+<area shape="rect" id="node15" href="$a01073.xhtml" title="Interface to be implemented by an application that sends requests (Request on entities or service req..." alt="" coords="230,557,377,584"/>
+<area shape="rect" id="node16" href="$a01097.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="184,237,423,264"/>
+<area shape="rect" id="node20" href="$a01113.xhtml" title="Interface to receive service requests. " alt="" coords="198,288,409,315"/>
+<area shape="rect" id="node21" href="$a01045.xhtml" title="Interface for reception of a stop order. " alt="" coords="224,608,383,635"/>
+<area shape="rect" id="node3" href="$a01405.xhtml" title="The class makes a thread switch and perform a dispatch on Dob connection. " alt="" coords="499,56,692,83"/>
+<area shape="rect" id="node4" href="$a01409.xhtml" title="The class makes a thread switch and perform a dispatch on Dob connection. " alt="" coords="497,5,693,32"/>
+<area shape="rect" id="node6" href="$a01053.xhtml" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration and that doesn..." alt="" coords="512,157,679,184"/>
+<area shape="rect" id="node7" href="$a01109.xhtml" title="This Consumer Base class contains callback methods that can be overridden by an entity handler that r..." alt="" coords="495,107,696,133"/>
+<area shape="rect" id="node8" href="$a01057.xhtml" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration for a type tha..." alt="" coords="773,122,939,163"/>
+<area shape="rect" id="node9" href="$a01061.xhtml" title="Interface to be implemented by an entity handler that makes a pending registration. " alt="" coords="773,230,939,271"/>
+<area shape="rect" id="node13" href="$a00981.xhtml" title="Class that provides subscription and filtering for BackdoorCommands. " alt="" coords="532,433,659,474"/>
+<area shape="rect" id="node17" href="$a01101.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="471,259,720,285"/>
+<area shape="rect" id="node19" href="$a01065.xhtml" title="Interface to be implemented by a service handler that makes a non&#45;pending registration. " alt="" coords="507,309,683,336"/>
+<area shape="rect" id="node18" href="$a01069.xhtml" title="Interface to be implemented by a service handler that makes a pending registration. " alt="" coords="768,313,944,354"/>
+</map>

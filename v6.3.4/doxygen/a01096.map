@@ -1,0 +1,9 @@
+<map id="Safir::Dob::RevokedRegistrationBase" name="Safir::Dob::RevokedRegistrationBase">
+<area shape="rect" id="node3" href="$a01101.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="471,46,720,73"/>
+<area shape="rect" id="node6" href="$a01053.xhtml" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration and that doesn..." alt="" coords="512,97,679,123"/>
+<area shape="rect" id="node7" href="$a01057.xhtml" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration for a type tha..." alt="" coords="512,148,679,189"/>
+<area shape="rect" id="node8" href="$a01065.xhtml" title="Interface to be implemented by a service handler that makes a non&#45;pending registration. " alt="" coords="507,214,683,241"/>
+<area shape="rect" id="node2" href="$a01093.xhtml" title="Base class used when composing more elaborated interfaces. " alt="" coords="5,119,136,160"/>
+<area shape="rect" id="node4" href="$a01061.xhtml" title="Interface to be implemented by an entity handler that makes a pending registration. " alt="" coords="773,5,939,47"/>
+<area shape="rect" id="node5" href="$a01069.xhtml" title="Interface to be implemented by a service handler that makes a pending registration. " alt="" coords="768,71,944,112"/>
+</map>
