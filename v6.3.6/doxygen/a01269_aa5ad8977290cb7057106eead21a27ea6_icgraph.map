@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Typesystem::ObjectContainerBase::GetObjectPointer" name="Safir::Dob::Typesystem::ObjectContainerBase::GetObjectPointer">
+<area shape="rect" id="node2" href="$a01193.xhtml#a47d1d5141efea99e85dc9ed11d28a108" title="Copy &#45; Copy all the members from &quot;that&quot; into &quot;this&quot;. " alt="" coords="212,5,393,47"/>
+<area shape="rect" id="node3" href="$a01277.xhtml#a58b0a34a4627c5df1f78408858db11d6" title="Get a const reference to a member container from an object. " alt="" coords="223,71,383,127"/>
+<area shape="rect" id="node4" href="$a01269.xhtml#a0074de7f0f6b89d6f8806d33a9792b4b" title="Set the change flag in the container. " alt="" coords="223,151,382,207"/>
+</map>

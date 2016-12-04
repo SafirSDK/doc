@@ -1,0 +1,6 @@
+<map id="Safir::Dob::Typesystem::ObjectContainerImpl&lt; Object &gt;::GetMember" name="Safir::Dob::Typesystem::ObjectContainerImpl&lt; Object &gt;::GetMember">
+<area shape="rect" id="node2" href="$a01269.xhtml#aa5ad8977290cb7057106eead21a27ea6" title="Get a smart pointer to the contained object. " alt="" coords="213,5,372,61"/>
+<area shape="rect" id="node3" href="$a01165.xhtml#ad263469929db9104b47aab4eb19ecacd" title="Is the container set to null? " alt="" coords="213,86,372,127"/>
+<area shape="rect" id="node4" href="$a01269.xhtml#a6d83f3e64d6e7e4ab5bc95ce25ed677a" title="Reset (ie set to null) the contained pointer. " alt="" coords="213,152,372,208"/>
+<area shape="rect" id="node5" href="$a01269.xhtml#aff8609b609d6b921d80468886cb641c0" title="Set the smart pointer in the container. " alt="" coords="213,232,372,288"/>
+</map>

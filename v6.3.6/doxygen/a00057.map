@@ -1,0 +1,34 @@
+<map id="/home/lars/safir/safir&#45;sdk&#45;core/include/Safir/Dob/Consumer.h" name="/home/lars/safir/safir&#45;sdk&#45;core/include/Safir/Dob/Consumer.h">
+<area shape="rect" id="node2" href="$a00059.xhtml" title="Safir/Dob/ConsumerBase.h" alt="" coords="1403,109,1583,136"/>
+<area shape="rect" id="node3" href="$a00062.xhtml" title="Safir/Dob/DoseCppExportDefs.h" alt="" coords="1247,355,1457,382"/>
+<area shape="rect" id="node6" href="$a01946.xhtml" title="Safir/Dob/Defs.h" alt="" coords="2343,355,2462,382"/>
+<area shape="rect" id="node7" href="$a01949.xhtml" title="Safir/Dob/Typesystem\l/Defs.h" alt="" coords="1599,1048,1750,1089"/>
+<area shape="rect" id="node12" href="$a00086.xhtml" title="Safir/Dob/ResponseSender.h" alt="" coords="3119,266,3308,293"/>
+<area shape="rect" id="node14" href="$a00347.xhtml" title="Safir/Dob/Response.h" alt="" coords="3080,437,3229,464"/>
+<area shape="rect" id="node17" href="$a00110.xhtml" title="Safir/Dob/Typesystem\l/EntityId.h" alt="" coords="813,780,963,821"/>
+<area shape="rect" id="node30" href="$a00119.xhtml" title="Safir/Dob/Typesystem\l/HandlerId.h" alt="" coords="1185,691,1335,732"/>
+<area shape="rect" id="node37" href="$a00068.xhtml" title="Safir/Dob/EntityProxy.h" alt="" coords="925,184,1083,211"/>
+<area shape="rect" id="node42" href="$a00260.xhtml" title="Safir/Dob/Entity.h" alt="" coords="2010,437,2134,464"/>
+<area shape="rect" id="node44" href="$a00071.xhtml" title="Safir/Dob/EntityRequestProxy.h" alt="" coords="1390,266,1597,293"/>
+<area shape="rect" id="node45" href="$a00092.xhtml" title="Safir/Dob/ServiceRequest\lProxy.h" alt="" coords="1621,259,1793,300"/>
+<area shape="rect" id="node46" href="$a00356.xhtml" title="Safir/Dob/Service.h" alt="" coords="2595,437,2730,464"/>
+<area shape="rect" id="node47" href="$a00290.xhtml" title="Safir/Dob/Message.h" alt="" coords="3253,437,3397,464"/>
+<area shape="rect" id="node48" href="$a00077.xhtml" title="Safir/Dob/MessageProxy.h" alt="" coords="1817,266,1994,293"/>
+<area shape="rect" id="node49" href="$a00083.xhtml" title="Safir/Dob/ResponseProxy.h" alt="" coords="2018,266,2201,293"/>
+<area shape="rect" id="node21" href="$a00116.xhtml" title="Safir/Dob/Typesystem\l/Exceptions.h" alt="" coords="2885,959,3035,1000"/>
+<area shape="rect" id="node43" href="$a00074.xhtml" title="Safir/Dob/InjectedEntity\lProxy.h" alt="" coords="999,259,1159,300"/>
+<area shape="rect" id="node15" href="$a00131.xhtml" title="Safir/Dob/Typesystem\l/Object.h" alt="" coords="2915,691,3066,732"/>
+<area shape="rect" id="node25" href="$a00134.xhtml" title="Safir/Dob/Typesystem\l/ObjectContainer.h" alt="" coords="2590,601,2741,643"/>
+<area shape="rect" id="node27" href="$a00095.xhtml" title="Safir/Dob/Typesystem\l/ArrayContainer.h" alt="" coords="2590,512,2741,553"/>
+<area shape="rect" id="node31" href="$a00149.xhtml" title="Safir/Dob/Typesystem\l/SequenceContainer.h" alt="" coords="2175,601,2326,643"/>
+<area shape="rect" id="node34" href="$a00107.xhtml" title="Safir/Dob/Typesystem\l/DictionaryContainer.h" alt="" coords="3222,512,3373,553"/>
+<area shape="rect" id="node36" href="$a00104.xhtml" title="Safir/Dob/Typesystem\l/ContainerProxies.h" alt="" coords="2211,512,2362,553"/>
+<area shape="rect" id="node16" href="$a00101.xhtml" title="Safir/Dob/Typesystem\l/ContainerBase.h" alt="" coords="2689,780,2839,821"/>
+<area shape="rect" id="node19" href="$a00122.xhtml" title="Safir/Dob/Typesystem\l/InstanceId.h" alt="" coords="1061,869,1211,911"/>
+<area shape="rect" id="node20" href="$a00173.xhtml" title="Safir/Dob/Typesystem\l/Utilities.h" alt="" coords="2082,959,2233,1000"/>
+<area shape="rect" id="node28" href="$a00176.xhtml" title="Safir/Dob/Typesystem\l/ValueContainers.h" alt="" coords="2001,601,2151,643"/>
+<area shape="rect" id="node29" href="$a00098.xhtml" title="Safir/Dob/Typesystem\l/ChannelId.h" alt="" coords="1861,869,2011,911"/>
+<area shape="rect" id="node39" href="$a00080.xhtml" title="Safir/Dob/PreviousEntity\lProxy.h" alt="" coords="759,259,924,300"/>
+<area shape="rect" id="node40" href="$a00236.xhtml" title="Safir/Dob/ConnectionInfo.h" alt="" coords="1988,355,2167,382"/>
+<area shape="rect" id="node41" href="$a00287.xhtml" title="Safir/Dob/Item.h" alt="" coords="2392,437,2509,464"/>
+</map>

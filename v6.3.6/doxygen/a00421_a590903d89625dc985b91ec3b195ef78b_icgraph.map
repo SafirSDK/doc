@@ -1,0 +1,10 @@
+<map id="Safir::Dob::Typesystem::Utilities::ToUtf8" name="Safir::Dob::Typesystem::Utilities::ToUtf8">
+<area shape="rect" id="node2" href="$a01249.xhtml#a11d40c4ebb5625c6761f3fc3e707deaf" title="Convert the string to UTF&#45;8. " alt="" coords="231,5,389,47"/>
+<area shape="rect" id="node3" href="$a01161.xhtml#ac2cdb6c2d77be2149ca1bf16e1d5e877" title="Convert the string to UTF&#45;8. " alt="" coords="231,71,389,112"/>
+<area shape="rect" id="node4" href="$a01253.xhtml#a84fdb9e9e5a4933f15a4d66ea0e91800" title="Convert the string to UTF&#45;8. " alt="" coords="231,136,389,177"/>
+<area shape="rect" id="node5" href="$a01389.xhtml#a45b481a980a2100bd9ec1e11b9612785" title="Convert the string to a UTF8 encoded std::string. " alt="" coords="217,201,403,243"/>
+<area shape="rect" id="node6" href="$a01249.xhtml#ac4c588bfae9e0bcfa3c7b5f1f728c0d8" title="Get the length of the string when converted to UTF&#45;8 encoding. " alt="" coords="215,267,405,308"/>
+<area shape="rect" id="node7" href="$a01161.xhtml#a202ba289ea2713bd5c5c1b014707de65" title="Get the length of the string when converted to UTF&#45;8 encoding. " alt="" coords="213,332,407,373"/>
+<area shape="rect" id="node8" href="$a01253.xhtml#abdc9f159d27c94eb091316c1a6f9a4bc" title="Get the length of the string when converted to UTF&#45;8 encoding. " alt="" coords="212,397,408,439"/>
+<area shape="rect" id="node9" href="$a01389.xhtml#a90929dd3965c3e3152abc589d85baeba" title="Calculate the length needed for this string in UTF8 encoding. " alt="" coords="217,463,403,519"/>
+</map>

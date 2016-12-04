@@ -1,0 +1,12 @@
+<map id="Safir::Dob::Typesystem::SequenceContainerBase&lt; T &gt;" name="Safir::Dob::Typesystem::SequenceContainerBase&lt; T &gt;">
+<area shape="rect" id="node3" href="$a01305.xhtml" title="Safir::Dob::Typesystem\l::SequenceContainer\&lt; T \&gt;" alt="" coords="586,5,761,47"/>
+<area shape="rect" id="node4" href="$a01293.xhtml" title="Safir::Dob::Typesystem\l::SequenceContainerBase\l\&lt; boost::shared_ptr\&lt; ClassType \&gt; \&gt;" alt="" coords="787,53,1019,109"/>
+<area shape="rect" id="node6" href="$a01293.xhtml" title="Safir::Dob::Typesystem\l::SequenceContainerBase\l\&lt; boost::shared_ptr\&lt; T \&gt; \&gt;" alt="" coords="584,122,763,178"/>
+<area shape="rect" id="node10" href="$a01293.xhtml" title="Safir::Dob::Typesystem\l::SequenceContainerBase\l\&lt; boost::shared_ptr\&lt; Member \&gt; \&gt;" alt="" coords="1064,261,1283,317"/>
+<area shape="rect" id="node11" href="$a01293.xhtml" title="Safir::Dob::Typesystem\l::SequenceContainerBase\l\&lt; boost::shared_ptr\&lt; EnumType \&gt; \&gt;" alt="" coords="787,193,1020,249"/>
+<area shape="rect" id="node2" href="$a01165.xhtml" title="Base class for all Containers. " alt="" coords="5,129,164,171"/>
+<area shape="rect" id="node5" href="$a01313.xhtml" title="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\&lt; ClassType \&gt;" alt="" coords="1441,43,1668,99"/>
+<area shape="rect" id="node7" href="$a01313.xhtml" title="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\&lt; T \&gt;" alt="" coords="1044,115,1303,156"/>
+<area shape="rect" id="node8" href="$a01313.xhtml" title="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\&lt; EnumType \&gt;" alt="" coords="1441,129,1668,185"/>
+<area shape="rect" id="node9" href="$a01313.xhtml" title="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\&lt; Member \&gt;" alt="" coords="1441,221,1668,277"/>
+</map>
