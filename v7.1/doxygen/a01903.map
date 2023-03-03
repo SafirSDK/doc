@@ -1,0 +1,5 @@
+<map id="Safir::Dob::ResponseGeneralErrorCodes" name="Safir::Dob::ResponseGeneralErrorCodes">
+<area shape="rect" id="node1" title="Declares error codes that are of general interest." alt="" coords="5,167,199,207"/>
+<area shape="rect" id="node2" href="$a01836.xhtml" title="This class is intended to be used as baseclass for classes that only contains parameters." alt="" coords="12,93,192,119"/>
+<area shape="rect" id="node3" href="$a01492.xhtml" title="The base class for all DOB objects." alt="" coords="22,5,182,45"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Safir::Dob::Item" name="Safir::Dob::Item">
+<area shape="rect" id="node1" title="The baseclass for all items." alt="" coords="213,183,328,208"/>
+<area shape="rect" id="node3" href="$a01712.xhtml" title="Container for information about a Dob connection." alt="" coords="388,5,565,31"/>
+<area shape="rect" id="node4" href="$a01820.xhtml" title="Defines a number of characteristics that control how nodes of a certain type communicates." alt="" coords="403,55,551,80"/>
+<area shape="rect" id="node5" href="$a01884.xhtml" title="Representation of one queue capacity parameter rule." alt="" coords="399,104,554,129"/>
+<area shape="rect" id="node6" href="$a01900.xhtml" title="Contains information about one of the errors found when handling a request." alt="" coords="377,153,576,179"/>
+<area shape="rect" id="node7" href="$a01960.xhtml" title="Represents a class type in the Dob." alt="" coords="376,203,577,243"/>
+<area shape="rect" id="node8" href="$a01964.xhtml" title="Represents an enumeration type in the Dob." alt="" coords="376,267,577,307"/>
+<area shape="rect" id="node9" href="$a01968.xhtml" title="Represents a class member in a Dob type." alt="" coords="376,331,577,371"/>
+<area shape="rect" id="node10" href="$a01972.xhtml" title="Representation of the Dob typesystem." alt="" coords="376,395,577,435"/>
+<area shape="rect" id="node2" href="$a01492.xhtml" title="The base class for all DOB objects." alt="" coords="5,175,165,215"/>
+</map>

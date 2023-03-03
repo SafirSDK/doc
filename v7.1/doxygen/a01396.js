@@ -1,0 +1,28 @@
+var a01396 =
+[
+    [ "ContainedType", "a01396.xhtml#abaa058f04bd0ad00ef1b0abd7062c337", null ],
+    [ "ContainerProxy", "a01396.xhtml#aee484c8b103392ebd8dd3587b5f6e3dc", null ],
+    [ "ContainerProxy", "a01396.xhtml#af7b0fea9fa8275640fa671ccea23be2e", null ],
+    [ "Copy", "a01396.xhtml#aa7b4b36fe3a94f21407c91f9544521bf", null ],
+    [ "GetContainer", "a01396.xhtml#ac3d4ccd4e68fb52872284715262792e4", null ],
+    [ "GetContainer", "a01396.xhtml#a3eaf2e46540c633f7929c5be01895af4", null ],
+    [ "GetOrdinal", "a01396.xhtml#a371bba23569b09db0ba22744dcdbb361", null ],
+    [ "GetVal", "a01396.xhtml#a5216298f56091e9d5c1dce4afed3f329", null ],
+    [ "IsChanged", "a01396.xhtml#a29a2d807cd4c60d3e49ea0880471d873", null ],
+    [ "IsNull", "a01396.xhtml#a00fc6eb9174514836cb4e77dba83e32c", null ],
+    [ "operator const ContainedType", "a01396.xhtml#a9bfdd74da119fd329f4606c9dd82ca9f", null ],
+    [ "operator*=", "a01396.xhtml#a566d95a342543911eb1055c3576a22f6", null ],
+    [ "operator++", "a01396.xhtml#a101b93c69a63f70c8be3179c9ec08694", null ],
+    [ "operator++", "a01396.xhtml#a07666df3291afe366a311a00cd715c29", null ],
+    [ "operator+=", "a01396.xhtml#a99286638bc3cd9209640de4e9a6afd71", null ],
+    [ "operator--", "a01396.xhtml#a17d00e9f55ba0654bdb2d615759dd22c", null ],
+    [ "operator--", "a01396.xhtml#a4a86943e73c1379d2e1173928ef05730", null ],
+    [ "operator-=", "a01396.xhtml#a8f680bd4918688ead84787362aea2b77", null ],
+    [ "operator/=", "a01396.xhtml#a5406a81c4427da629ba08f3663aee43b", null ],
+    [ "operator=", "a01396.xhtml#a80eab6ad5d087061ea78386b5cdd7b75", null ],
+    [ "operator=", "a01396.xhtml#a36e6502effcc0615a5c5f5a6e4e166ce", null ],
+    [ "SetChanged", "a01396.xhtml#a13ab9216ceea1f123dac115b4a1dd3e6", null ],
+    [ "SetNull", "a01396.xhtml#aae1965248ea8e4d1506a5526fc88ab16", null ],
+    [ "SetOrdinal", "a01396.xhtml#a43c32d7c0a3122e890e28f239b8503bb", null ],
+    [ "SetVal", "a01396.xhtml#a6342b4bb61ac5eae16cd8ec04503ff68", null ]
+];

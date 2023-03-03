@@ -1,0 +1,7 @@
+<map id="Safir::Databases::Odbc::RetryException" name="Safir::Databases::Odbc::RetryException">
+<area shape="rect" id="node1" title="The operation failed try again." alt="" coords="37,255,196,295"/>
+<area shape="rect" id="node5" href="$a01696.xhtml" title="The operation took longer then the specified timeout time to execute." alt="" coords="37,343,196,383"/>
+<area shape="rect" id="node2" href="$a01448.xhtml" title="This is the base class of all (non&#45;Fundamental) Exceptions." alt="" coords="37,167,197,207"/>
+<area shape="rect" id="node3" href="$a01440.xhtml" title="Common functionality for the exception hierarchy of the DOB typesystem." alt="" coords="5,79,228,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="65,5,169,31"/>
+</map>

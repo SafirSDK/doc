@@ -1,0 +1,6 @@
+<map id="Safir::Dob::EntityHandler" name="Safir::Dob::EntityHandler">
+<area shape="rect" id="node1" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration and that doesn..." alt="" coords="165,167,333,192"/>
+<area shape="rect" id="node2" href="$a01324.xhtml" title="Base class used when composing more elaborated interfaces." alt="" coords="5,93,247,119"/>
+<area shape="rect" id="node3" href="$a01320.xhtml" title="Base class used when composing more elaborated interfaces." alt="" coords="183,5,315,45"/>
+<area shape="rect" id="node4" href="$a01332.xhtml" title="Interface to receive entity requests." alt="" coords="271,93,474,119"/>
+</map>

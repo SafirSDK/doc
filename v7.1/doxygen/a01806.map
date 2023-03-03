@@ -1,0 +1,5 @@
+<map id="Safir::Dob::NodeParameters" name="Safir::Dob::NodeParameters">
+<area shape="rect" id="node1" title="Contains paramaters for all nodes in the system." alt="" coords="5,167,192,192"/>
+<area shape="rect" id="node2" href="$a01836.xhtml" title="This class is intended to be used as baseclass for classes that only contains parameters." alt="" coords="9,93,189,119"/>
+<area shape="rect" id="node3" href="$a01492.xhtml" title="The base class for all DOB objects." alt="" coords="19,5,179,45"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Typesystem::DictionaryContainer::clear" name="Safir::Dob::Typesystem::DictionaryContainer::clear">
+<area shape="rect" id="node1" title="clear &#45; Clear the dictionary, i.e remove all keys/values." alt="" coords="237,34,397,89"/>
+<area shape="rect" id="node2" href="$a01420.xhtml#ad11235de640d86aaf0d8ca3e5c0135e6" title="Copy &#45; Copy all the members from &quot;that&quot; into &quot;this&quot;." alt="" coords="5,5,189,45"/>
+<area shape="rect" id="node3" href="$a01420.xhtml#a30553b7fa90c1bce50e8cd75a82d28f1" title="Set the container to null." alt="" coords="17,70,177,125"/>
+</map>

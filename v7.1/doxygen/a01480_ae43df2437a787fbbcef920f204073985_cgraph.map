@@ -1,0 +1,4 @@
+<map id="Safir::Dob::Typesystem::InstanceId::Utf8String" name="Safir::Dob::Typesystem::InstanceId::Utf8String">
+<area shape="rect" id="node1" title="Convert the string to UTF&#45;8." alt="" coords="5,5,165,45"/>
+<area shape="rect" id="node2" href="$a00398.xhtml#a590903d89625dc985b91ec3b195ef78b" title="Convert a std::wstring to UTF8&#45;encoded std::string." alt="" coords="213,5,373,45"/>
+</map>

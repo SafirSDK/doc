@@ -1,0 +1,5 @@
+<map id="Safir::Application::BackdoorCommand" name="Safir::Application::BackdoorCommand">
+<area shape="rect" id="node1" title="Backdoor command messages." alt="" coords="13,167,158,207"/>
+<area shape="rect" id="node2" href="$a01800.xhtml" title="The baseclass for all messages." alt="" coords="14,93,157,119"/>
+<area shape="rect" id="node3" href="$a01492.xhtml" title="The base class for all DOB objects." alt="" coords="5,5,165,45"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Safir::Dob::StopHandler" name="Safir::Dob::StopHandler">
+<area shape="rect" id="node1" title="Interface for reception of a stop order." alt="" coords="5,93,167,119"/>
+<area shape="rect" id="node2" href="$a01320.xhtml" title="Base class used when composing more elaborated interfaces." alt="" coords="20,5,152,45"/>
+</map>

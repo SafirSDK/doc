@@ -1,0 +1,6 @@
+<map id="Safir::Dob::Dispatcher" name="Safir::Dob::Dispatcher">
+<area shape="rect" id="node1" title="Interface for reception of a dispatch order." alt="" coords="137,93,289,119"/>
+<area shape="rect" id="node3" href="$a01636.xhtml" title="The class makes a thread switch and perform a dispatch on Dob connection." alt="" coords="5,167,200,192"/>
+<area shape="rect" id="node4" href="$a01640.xhtml" title="The class makes a thread switch and perform a dispatch on Dob connection." alt="" coords="225,167,423,192"/>
+<area shape="rect" id="node2" href="$a01320.xhtml" title="Base class used when composing more elaborated interfaces." alt="" coords="147,5,279,45"/>
+</map>

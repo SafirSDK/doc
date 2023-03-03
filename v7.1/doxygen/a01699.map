@@ -1,0 +1,6 @@
+<map id="Safir::Dob::AccessDeniedException" name="Safir::Dob::AccessDeniedException">
+<area shape="rect" id="node1" title="Thrown when not owner tries to set/delete an entity." alt="" coords="29,255,204,295"/>
+<area shape="rect" id="node2" href="$a01444.xhtml" title="This is the base class of all Fundamental Exceptions." alt="" coords="35,167,198,207"/>
+<area shape="rect" id="node3" href="$a01440.xhtml" title="Common functionality for the exception hierarchy of the DOB typesystem." alt="" coords="5,79,228,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="65,5,169,31"/>
+</map>

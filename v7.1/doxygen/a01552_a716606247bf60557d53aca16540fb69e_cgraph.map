@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Typesystem::ToolSupport::BlobReader::IsChangedRecursive" name="Safir::Dob::Typesystem::ToolSupport::BlobReader::IsChangedRecursive">
+<area shape="rect" id="node1" title="Check change flag on a member, recursively." alt="" coords="5,57,180,112"/>
+<area shape="rect" id="node2" href="$a01552.xhtml#aebb4de799e757879379a71c44351611b" title="Check change flag on a member (non&#45;recursively)" alt="" coords="228,5,403,60"/>
+<area shape="rect" id="node3" href="$a01552.xhtml#acc9d9df3988f97326a5ae15d34312a84" title="Check change flags on all members, recursively." alt="" coords="228,108,403,163"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Safir::Control::Command" name="Safir::Control::Command">
+<area shape="rect" id="node1" title="Command to stop, shutdown or reboot a specific node or a whole safir system." alt="" coords="5,167,172,192"/>
+<area shape="rect" id="node2" href="$a01908.xhtml" title="The baseclass for all services." alt="" coords="22,93,155,119"/>
+<area shape="rect" id="node3" href="$a01492.xhtml" title="The base class for all DOB objects." alt="" coords="9,5,169,45"/>
+</map>

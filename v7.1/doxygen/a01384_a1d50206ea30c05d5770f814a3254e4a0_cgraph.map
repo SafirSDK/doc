@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Typesystem::ArrayContainer::IsChanged" name="Safir::Dob::Typesystem::ArrayContainer::IsChanged">
+<area shape="rect" id="node1" title="Check if any element has a change flag set on it." alt="" coords="5,5,193,45"/>
+<area shape="rect" id="node2" href="$a00389.xhtml#a80f84535cdd4541aeac486ee6b541904" title="Check if a container is changed." alt="" coords="241,5,401,45"/>
+<area shape="rect" id="node3" href="$a01392.xhtml#a9a1b52624a8f2a163c5ecec102253059" title="Is the change flag set on the container?" alt="" coords="449,5,636,45"/>
+</map>

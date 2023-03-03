@@ -1,0 +1,4 @@
+<map id="Safir::Dob::Requestor" name="Safir::Dob::Requestor">
+<area shape="rect" id="node1" title="Interface to be implemented by an application that sends requests (Request on entities or service req..." alt="" coords="5,93,155,119"/>
+<area shape="rect" id="node2" href="$a01320.xhtml" title="Base class used when composing more elaborated interfaces." alt="" coords="14,5,146,45"/>
+</map>

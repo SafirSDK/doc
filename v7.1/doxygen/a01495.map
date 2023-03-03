@@ -1,0 +1,10 @@
+<map id="Safir::Dob::Typesystem::ObjectContainerBase" name="Safir::Dob::Typesystem::ObjectContainerBase">
+<area shape="rect" id="node1" title="Base class for all object containers." alt="" coords="215,223,375,263"/>
+<area shape="rect" id="node3" href="$a01500.xhtml" title=" " alt="" coords="812,103,984,172"/>
+<area shape="rect" id="node4" href="$a01500.xhtml" title=" " alt="" coords="807,5,989,45"/>
+<area shape="rect" id="node5" href="$a01500.xhtml" title=" " alt="" coords="818,277,978,331"/>
+<area shape="rect" id="node6" href="$a01500.xhtml" title=" " alt="" coords="818,197,978,251"/>
+<area shape="rect" id="node7" href="$a01500.xhtml" title="Template class for all containers of automatically generated DOB objects." alt="" coords="424,179,604,219"/>
+<area shape="rect" id="node8" href="$a01504.xhtml" title="This is a specialization of the ObjectContainerImpl template for the case where the template argument..." alt="" coords="434,367,594,422"/>
+<area shape="rect" id="node2" href="$a01392.xhtml" title="Base class for all Containers." alt="" coords="5,223,165,263"/>
+</map>

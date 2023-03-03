@@ -1,0 +1,4 @@
+<map id="Safir::Dob::Typesystem::SequenceContainer::clear" name="Safir::Dob::Typesystem::SequenceContainer::clear">
+<area shape="rect" id="node1" title="Clear the sequence, i.e remove all values." alt="" coords="248,5,428,45"/>
+<area shape="rect" id="node2" href="$a01520.xhtml#a034ce1753bdceb9a9385197f130440a4" title="Set the container to null." alt="" coords="5,5,200,45"/>
+</map>

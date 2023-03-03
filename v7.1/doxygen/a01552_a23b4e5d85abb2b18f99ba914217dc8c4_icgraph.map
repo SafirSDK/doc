@@ -1,0 +1,4 @@
+<map id="Safir::Dob::Typesystem::ToolSupport::BlobReader::TypeId" name="Safir::Dob::Typesystem::ToolSupport::BlobReader::TypeId">
+<area shape="rect" id="node1" title="Get the type id of the blob." alt="" coords="220,5,395,60"/>
+<area shape="rect" id="node2" href="$a01556.xhtml#a0fab0b48dddbaa344fe4ee6d1d1bb152" title="MarkChanges &#45; Set change flag for all members that differs between this blob and the reader blob." alt="" coords="5,5,172,60"/>
+</map>

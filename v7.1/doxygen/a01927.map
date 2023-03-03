@@ -1,0 +1,7 @@
+<map id="Safir::Utilities::ForEach::BriefResponse" name="Safir::Utilities::ForEach::BriefResponse">
+<area shape="rect" id="node1" title="Brief response for a ForEach service request." alt="" coords="25,240,184,280"/>
+<area shape="rect" id="node5" href="$a01940.xhtml" title="Full response for a ForEach service request." alt="" coords="25,328,184,368"/>
+<area shape="rect" id="node2" href="$a01916.xhtml" title="The baseclass for all success responses." alt="" coords="5,167,204,192"/>
+<area shape="rect" id="node3" href="$a01896.xhtml" title="The baseclass for all responses." alt="" coords="31,93,179,119"/>
+<area shape="rect" id="node4" href="$a01492.xhtml" title="The base class for all DOB objects." alt="" coords="25,5,185,45"/>
+</map>
