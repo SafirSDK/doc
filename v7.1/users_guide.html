@@ -750,7 +750,7 @@ asciidoc.install(4);
 <h2 id="_preface">Preface</h2>
 <div class="sectionbody">
 <div class="paragraph"><p>The purpose of this document is to provide a comprehensive guide to using the services in Safir SDK Core. The reader should have general knowledge about object-oriented programming. Some knowledge of distributed real-time systems programming is also desirable, but not essential.</p></div>
-<div class="paragraph"><p>This document is delivered as part of Safir SDK Core with version tag &#8220;7.1.0&#8221;.</p></div>
+<div class="paragraph"><p>This document is delivered as part of Safir SDK Core with version tag &#8220;7.1.1&#8221;.</p></div>
 <div class="sect2">
 <h3 id="_how_to_read">How to read</h3>
 <div class="paragraph"><p>This document is intended to be used both as an introduction to new users of the Safir SDK Core, and as a reference for those who have used the SDK for a long time. Because of this the level of the different sections vary quite a lot. Some sections are marked as advanced (with an <sup>adv</sup> tag to them), to signal that they cover advanced topics that can be skipped by newcomers.</p></div>
@@ -2180,17 +2180,12 @@ myA<span style="color: #990000">.</span><span style="font-weight: bold"><span st
 <div class="paragraph"><p>In C# and Java there is no need for smart pointers, since both these languages have garbage collection.</p></div>
 <div class="sect4">
 <h5 id="_smart_pointers_in_c">Smart pointers in C++</h5>
-<div class="paragraph"><p>In C++ to guarantee that all dynamically allocated memory is deallocated, the Dob uses the <code>boost::shared_ptr</code> implementation of smart pointers. You can find more information on how to use them here: <a href="http://www.boost.org/libs/smart_ptr/smart_ptr.htm">http://www.boost.org/libs/smart_ptr/smart_ptr.htm</a>.</p></div>
-<div class="paragraph"><p>Since C++ is not garbage collected we do not want to use raw pointers. <code>shared_ptr</code> is a smart pointer that automatically deletes the object pointed to when there are no references to it.</p></div>
-<div class="paragraph"><p>Here is part of the introduction from that page:</p></div>
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>Smart pointers are objects which store pointers to dynamically allocated (heap) objects. They behave much like built-in C++ pointers except that they automatically delete the object pointed to at the appropriate time. Smart pointers are particularly useful in the face of exceptions as they ensure proper destruction of dynamically allocated objects. They can also be used to keep track of dynamically allocated objects shared by multiple owners.</p></div>
-<div class="paragraph"><p>Conceptually, smart pointers are seen as owning the object pointed to, and thus responsible for deletion of the object when it is no longer needed.</p></div>
-</div></div>
-<div class="paragraph"><p>The boost::shared_ptr type is included in C++ since 2007 (ISO/IEC TR 19768:2007 aka
-C++TR1) under the name std::shared_ptr. Safir SDK Core will continue to use the boost
-version so as not to break backward compatibility.</p></div>
+<div class="paragraph"><p>In C<code> to guarantee that all dynamically allocated memory is deallocated, the Dob uses
+the <code>std::shared_ptr</code> implementation of smart pointers. Since C</code> is not garbage
+collected we do not want to use raw pointers. <code>std::shared_ptr</code> is a smart pointer that
+automatically deletes the object pointed to when there are no references to it.</p></div>
+<div class="paragraph"><p>Read more about them in your favourite C+\+ Reference</p></div>
+<div class="paragraph"><p>Prior to version 7.0 Safir SDK Core used the Boost version of shared_ptr, <code>boost::shared_ptr</code>.</p></div>
 <div class="paragraph"><p>See <a href="#cpp_type_casting">[cpp_type_casting]</a> for more information on how to cast smart pointers in C++.</p></div>
 </div>
 <div class="sect4">
@@ -2230,12 +2225,19 @@ C++ smart pointers have two pointers in them, the reference count (pn) and the p
 </div>
 <div class="sect4">
 <h5 id="cpp_type_casting">C++ type casting</h5>
-<div class="paragraph"><p>The Dob C++ interface uses <code>boost::shared_ptr</code> (as described above) for passing around objects over the interfaces. For example this means that you get a <code>shared_ptr&lt;Safir.Dob.Entity&gt;</code> (typedefed to <code>Safir.Dob.EntityPtr</code> in the generated code) out of the <code>EntityProxy</code> in <code>OnNewEntity</code>. If you&#8217;re subscribing to <code>EntityParent</code> you would want to somehow cast this <code>EntityPtr</code> to an <code>EntityParentPtr</code>.</p></div>
-<div class="paragraph"><p>If it was an ordinary pointer you would either use a <code>static_cast</code> or a <code>dynamic_cast</code> operation (if you&#8217;re unfamiliar with them you should look them up in your C++ reference now), but since these are shared_ptrs you have to use <code>boost::static_pointer_cast</code> or <code>boost::dynamic_pointer_cast</code> to accomplish the same thing.</p></div>
-<div class="paragraph"><p><strong>boost::static_pointer_cast</strong></p></div>
-<div class="paragraph"><p>Use boost::static_pointer_cast when you know that the cast will succeed (i.e. you know what type the pointer really has). For example if you have an EntitySubscriber that has subscribed to EntityParent <em>only</em> you can do:</p></div>
+<div class="paragraph"><p>The Dob C++ interface uses <code>std::shared_ptr</code> (as described above) for passing around
+objects over the interfaces. For example this means that you get a
+<code>std::shared_ptr&lt;Safir.Dob.Entity&gt;</code> (typedefed to <code>Safir.Dob.EntityPtr</code> in the generated
+code) out of the <code>EntityProxy</code> in <code>OnNewEntity</code>. If you&#8217;re subscribing to <code>EntityParent</code>
+you would want to somehow cast this <code>EntityPtr</code> to an <code>EntityParentPtr</code>.</p></div>
+<div class="paragraph"><p>If it was an ordinary pointer you would either use a <code>static_cast</code> or a <code>dynamic_cast</code>
+operation (if you&#8217;re unfamiliar with them you should look them up in your C++ reference
+now), but since these are shared_ptrs you have to use <code>std::static_pointer_cast</code> or
+<code>std::dynamic_pointer_cast</code> to accomplish the same thing.</p></div>
+<div class="paragraph"><p><strong>std::static_pointer_cast</strong></p></div>
+<div class="paragraph"><p>Use std::static_pointer_cast when you know that the cast will succeed (i.e. you know what type the pointer really has). For example if you have an EntitySubscriber that has subscribed to EntityParent <em>only</em> you can do:</p></div>
 <div class="listingblock">
-<div class="title">Using boost::static_pointer_cast</div>
+<div class="title">Using std::static_pointer_cast</div>
 <div class="content"><!-- Generator: GNU source-highlight
 by Lorenzo Bettini
 http://www.lorenzobettini.it
@@ -2244,14 +2246,14 @@ http://www.gnu.org/software/src-highlite -->
     <span style="color: #990000">(</span><span style="font-weight: bold"><span style="color: #0000FF">const</span></span> Safir<span style="color: #990000">::</span>Dob<span style="color: #990000">::</span><span style="color: #008080">EntityProxy</span> entityProxy<span style="color: #990000">)</span>
 <span style="color: #FF0000">{</span>
     <span style="color: #008080">EntityParentPtr</span> parent <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>EntityParent<span style="color: #990000">&gt;(</span>entityProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetEntity</span></span><span style="color: #990000">());</span>
+        std<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>EntityParent<span style="color: #990000">&gt;(</span>entityProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetEntity</span></span><span style="color: #990000">());</span>
     <span style="color: #990000">...</span> Your code <span style="font-weight: bold"><span style="color: #0000FF">for</span></span> handling <span style="color: #008080">the</span> entity <span style="color: #990000">...</span></tt></pre></div></div>
 <div class="paragraph"><p>(Note that this code will be used to handle updates to both of the subclasses of EntityParent too, but the assumption here is that you want to handle EntityParent and all its subclasses in the same way.)</p></div>
 <div class="paragraph"><p><strong>Warning:</strong> If you add a subscription to AnotherEntity this code will cast AnotherEntity-objects to EntityParentPtrs too, which will result in undefined behaviour.</p></div>
-<div class="paragraph"><p><strong>boost::dynamic_pointer_cast</strong></p></div>
-<div class="paragraph"><p>Use boost::dynamic_pointer_cast when the pointer could be of several different types that you want to treat differently. For example if you have an EntitySubscriber that has subscribed to EntityChild <em>and</em> AnotherEntity you can do:</p></div>
+<div class="paragraph"><p><strong>std::dynamic_pointer_cast</strong></p></div>
+<div class="paragraph"><p>Use std::dynamic_pointer_cast when the pointer could be of several different types that you want to treat differently. For example if you have an EntitySubscriber that has subscribed to EntityChild <em>and</em> AnotherEntity you can do:</p></div>
 <div class="listingblock">
-<div class="title">Using boost::dynamic_pointer_cast</div>
+<div class="title">Using std::dynamic_pointer_cast</div>
 <div class="content"><!-- Generator: GNU source-highlight
 by Lorenzo Bettini
 http://www.lorenzobettini.it
@@ -2262,7 +2264,7 @@ http://www.gnu.org/software/src-highlite -->
     <span style="color: #008080">EntityPtr</span> entity <span style="color: #990000">=</span> entityProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetEntity</span></span><span style="color: #990000">();</span>
 
     <span style="color: #008080">EntityChildPtr</span> child <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>dynamic_pointer_cast<span style="color: #990000">&lt;</span>EntityChild<span style="color: #990000">&gt;(</span>entity<span style="color: #990000">);</span>
+        std<span style="color: #990000">::</span>dynamic_pointer_cast<span style="color: #990000">&lt;</span>EntityChild<span style="color: #990000">&gt;(</span>entity<span style="color: #990000">);</span>
     <span style="font-weight: bold"><span style="color: #0000FF">if</span></span> <span style="color: #990000">(</span>child <span style="color: #990000">!=</span> NULL<span style="color: #990000">)</span>
     <span style="color: #FF0000">{</span>
         <span style="font-weight: bold"><span style="color: #000000">HandleChild</span></span><span style="color: #990000">(</span>child<span style="color: #990000">);</span>
@@ -2270,7 +2272,7 @@ http://www.gnu.org/software/src-highlite -->
     <span style="color: #FF0000">}</span>
 
     <span style="color: #008080">AnotherEntityPtr</span> another <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>dynamic_pointer_cast<span style="color: #990000">&lt;</span>AnotherEntity<span style="color: #990000">&gt;(</span>entity<span style="color: #990000">);</span>
+        std<span style="color: #990000">::</span>dynamic_pointer_cast<span style="color: #990000">&lt;</span>AnotherEntity<span style="color: #990000">&gt;(</span>entity<span style="color: #990000">);</span>
     <span style="font-weight: bold"><span style="color: #0000FF">if</span></span> <span style="color: #990000">(</span>another <span style="color: #990000">!=</span> NULL<span style="color: #990000">)</span>
     <span style="color: #FF0000">{</span>
         <span style="font-weight: bold"><span style="color: #000000">HandleAnother</span></span><span style="color: #990000">(</span>another<span style="color: #990000">);</span>
@@ -2278,7 +2280,7 @@ http://www.gnu.org/software/src-highlite -->
     <span style="color: #FF0000">}</span></tt></pre></div></div>
 <div class="paragraph"><p>This would use a different routine to handle the different entities. Another example would be if you have subscribed to EntityParent <em>only</em> but want to treat EntityChild2 differently:</p></div>
 <div class="listingblock">
-<div class="title">Another boost::dynamic_pointer_cast example</div>
+<div class="title">Another std::dynamic_pointer_cast example</div>
 <div class="content"><!-- Generator: GNU source-highlight
 by Lorenzo Bettini
 http://www.lorenzobettini.it
@@ -2289,13 +2291,13 @@ http://www.gnu.org/software/src-highlite -->
     <span style="color: #008080">EntityPtr</span> entity <span style="color: #990000">=</span> entityProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetEntity</span></span><span style="color: #990000">();</span>
 
     <span style="color: #008080">EntityChild2Ptr</span> child2 <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>dynamic_pointer_cast<span style="color: #990000">&lt;</span>EntityChild2<span style="color: #990000">&gt;(</span>entity<span style="color: #990000">);</span>
+        std<span style="color: #990000">::</span>dynamic_pointer_cast<span style="color: #990000">&lt;</span>EntityChild2<span style="color: #990000">&gt;(</span>entity<span style="color: #990000">);</span>
     <span style="font-weight: bold"><span style="color: #0000FF">if</span></span> <span style="color: #990000">(</span>child2 <span style="color: #990000">!=</span> NULL<span style="color: #990000">)</span>
     <span style="color: #FF0000">{</span>
         <span style="font-weight: bold"><span style="color: #000000">HandleChild2</span></span><span style="color: #990000">(</span>child2<span style="color: #990000">);</span>
         <span style="font-weight: bold"><span style="color: #0000FF">return</span></span><span style="color: #990000">;</span>
     <span style="color: #FF0000">}</span>
-    <span style="font-weight: bold"><span style="color: #000000">HandleParent</span></span><span style="color: #990000">(</span>boost<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>EntityParent<span style="color: #990000">&gt;(</span>entity<span style="color: #990000">));</span></tt></pre></div></div>
+    <span style="font-weight: bold"><span style="color: #000000">HandleParent</span></span><span style="color: #990000">(</span>std<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>EntityParent<span style="color: #990000">&gt;(</span>entity<span style="color: #990000">));</span></tt></pre></div></div>
 <div class="paragraph"><p>In this code HandleChild2 gets called for all objects of the EntityChild2 type (remember that it can be a subclass of EntityChild2 too) and all others will be handled by HandleParent.</p></div>
 <div class="paragraph"><p><strong>Remember:</strong> Dynamic casts are a lot more expensive than static casts. So use <code>static_cast</code> when you can!</p></div>
 <div class="paragraph"><p><strong>Note:</strong> You may have noticed that in both the above examples we extract the entity out of the proxy separately (and not inline in the casts). This is because the call to GetEntity in the callback proxy includes a deserialization of a binary blob into a language specific class. This is a non-trivial operation, so don&#8217;t call it several times if you don&#8217;t need to.</p></div>
@@ -2318,7 +2320,7 @@ http://www.gnu.org/software/src-highlite -->
         <span style="font-weight: bold"><span style="color: #0000FF">return</span></span><span style="color: #990000">;</span>
     <span style="color: #FF0000">}</span>
 
-    <span style="font-weight: bold"><span style="color: #000000">HandleChildren</span></span><span style="color: #990000">(</span>boost<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>EntityParent<span style="color: #990000">&gt;(</span>entity<span style="color: #990000">));</span></tt></pre></div></div>
+    <span style="font-weight: bold"><span style="color: #000000">HandleChildren</span></span><span style="color: #990000">(</span>std<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>EntityParent<span style="color: #990000">&gt;(</span>entity<span style="color: #990000">));</span></tt></pre></div></div>
 <div class="paragraph"><p>Here the HandleParent routine would be called for EntityParent objects <em>only</em> and all other objects would be handled by HandleChildren.</p></div>
 <div class="paragraph"><p>This construction should be used <em>very</em> sparingly. It is probably not the behaviour you are looking for, since it makes your application unable to handle derived objects in the way usually expected in object oriented systems.</p></div>
 <div class="paragraph"><p><strong>IsOfType</strong>
@@ -2339,7 +2341,7 @@ http://www.gnu.org/software/src-highlite -->
          EntityChild<span style="color: #990000">::</span>ClassTypeId<span style="color: #990000">)</span>   <span style="font-style: italic"><span style="color: #9A1900">//False</span></span>
 <span style="font-weight: bold"><span style="color: #000000">IsOfType</span></span><span style="color: #990000">(</span>EntityChild2<span style="color: #990000">::</span>ClassTypeId<span style="color: #990000">,</span>
          EntityChild<span style="color: #990000">::</span>ClassTypeId<span style="color: #990000">)</span>   <span style="font-style: italic"><span style="color: #9A1900">//False</span></span></tt></pre></div></div>
-<div class="paragraph"><p>This operation should <em>only</em> be used when you need to check relationships between TypeIds. If you have an object you should be using <code>boost::dynamic_pointer_cast</code>.</p></div>
+<div class="paragraph"><p>This operation should <em>only</em> be used when you need to check relationships between TypeIds. If you have an object you should be using <code>std::dynamic_pointer_cast</code>.</p></div>
 </div>
 <div class="sect4">
 <h5 id="_c_type_casting">C# type casting</h5>
@@ -2820,7 +2822,7 @@ http://www.gnu.org/software/src-highlite -->
                     <span style="color: #990000">(</span><span style="font-weight: bold"><span style="color: #0000FF">const</span></span> Safir<span style="color: #990000">::</span>Dob<span style="color: #990000">::</span><span style="color: #008080">MessageProxy</span> messageProxy<span style="color: #990000">)</span>
 <span style="color: #FF0000">{</span>
     Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span><span style="color: #008080">VehicleMsgPtr</span> vehicle <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>static_pointer_cast
+        std<span style="color: #990000">::</span>static_pointer_cast
         <span style="color: #990000">&lt;</span>Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span>VehicleMsg<span style="color: #990000">&gt;(</span>messageProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetMessage</span></span><span style="color: #990000">());</span>
 
     <span style="color: #990000">...</span> <span style="font-weight: bold"><span style="color: #0000FF">do</span></span> something <span style="color: #008080">with</span> vehicle <span style="color: #990000">...</span>
@@ -2947,7 +2949,7 @@ http://www.gnu.org/software/src-highlite -->
      Safir<span style="color: #990000">::</span>Dob<span style="color: #990000">::</span><span style="color: #008080">ResponseSenderPtr</span>         responseSender<span style="color: #990000">)</span>
 <span style="color: #FF0000">{</span>
     Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span><span style="color: #008080">BearingDistanceServicePtr</span> bearingService <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>static_pointer_cast
+        std<span style="color: #990000">::</span>static_pointer_cast
             <span style="color: #990000">&lt;</span>Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span>BearingDistanceService<span style="color: #990000">&gt;</span>
             <span style="color: #990000">(</span>serviceRequestProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetRequest</span></span><span style="color: #990000">());</span>
 
@@ -3168,7 +3170,7 @@ http://www.gnu.org/software/src-highlite -->
       Safir<span style="color: #990000">::</span>Dob<span style="color: #990000">::</span><span style="color: #008080">ResponseSenderPtr</span>        responseSender<span style="color: #990000">);</span>
 <span style="color: #FF0000">{</span>
     Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span><span style="color: #008080">VehiclePtr</span> vehicle <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span>Vehicle<span style="color: #990000">&gt;</span>
+        std<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span>Vehicle<span style="color: #990000">&gt;</span>
             <span style="color: #990000">(</span>entityRequestProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetRequest</span></span><span style="color: #990000">());</span>
 
     <span style="font-style: italic"><span style="color: #9A1900">// Callsign and Vehicle ID is required for a create</span></span>
@@ -3215,7 +3217,7 @@ http://www.gnu.org/software/src-highlite -->
      Safir<span style="color: #990000">::</span>Dob<span style="color: #990000">::</span><span style="color: #008080">ResponseSenderPtr</span>        responseSender<span style="color: #990000">);</span>
 <span style="color: #FF0000">{</span>
     Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span><span style="color: #008080">VehiclePtr</span> vehicle <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>static_pointer_cast
+        std<span style="color: #990000">::</span>static_pointer_cast
             <span style="color: #990000">&lt;</span>Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span>Vehicle<span style="color: #990000">&gt;</span>
             <span style="color: #990000">(</span>entityRequestProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetRequest</span></span><span style="color: #990000">());</span>
 
@@ -3316,7 +3318,7 @@ http://www.gnu.org/software/src-highlite -->
     <span style="color: #990000">(</span><span style="font-weight: bold"><span style="color: #0000FF">const</span></span> Safir<span style="color: #990000">::</span>Dob<span style="color: #990000">::</span><span style="color: #008080">EntityProxy</span> entityProxy<span style="color: #990000">)</span>
 <span style="color: #FF0000">{</span>
     Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span><span style="color: #008080">VehiclePtr</span> vehicle <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span>Vehicle<span style="color: #990000">&gt;</span>
+        std<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span>Vehicle<span style="color: #990000">&gt;</span>
             <span style="color: #990000">(</span>entityProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetEntity</span></span><span style="color: #990000">());</span>
 
     <span style="font-weight: bold"><span style="color: #0000FF">if</span></span> <span style="color: #990000">(!</span>vehicle<span style="color: #990000">-&gt;</span><span style="font-weight: bold"><span style="color: #000000">Callsign</span></span><span style="color: #990000">().</span><span style="font-weight: bold"><span style="color: #000000">IsNull</span></span><span style="color: #990000">())</span>
@@ -3330,7 +3332,7 @@ http://www.gnu.org/software/src-highlite -->
 
     <span style="color: #990000">...</span> process <span style="color: #008080">other</span> fields <span style="color: #990000">...</span>
 <span style="color: #FF0000">}</span></tt></pre></div></div>
-<div class="paragraph"><p>See <a href="#type_casting">[type_casting]</a> for more information on what <code>boost::static_pointer_cast</code> is.</p></div>
+<div class="paragraph"><p>See <a href="#type_casting">[type_casting]</a> for more information on what <code>std::static_pointer_cast</code> is.</p></div>
 <div class="listingblock">
 <div class="title">Handling the <code>OnUpdatedEntity</code> callback</div>
 <div class="content"><!-- Generator: GNU source-highlight
@@ -3341,7 +3343,7 @@ http://www.gnu.org/software/src-highlite -->
     <span style="color: #990000">(</span><span style="font-weight: bold"><span style="color: #0000FF">const</span></span> Safir<span style="color: #990000">::</span>Dob<span style="color: #990000">::</span><span style="color: #008080">EntityProxy</span> entityProxy<span style="color: #990000">)</span>
 <span style="color: #FF0000">{</span>
     Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span><span style="color: #008080">VehiclePtr</span> vehicle <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>static_pointer_cast
+        std<span style="color: #990000">::</span>static_pointer_cast
             <span style="color: #990000">&lt;</span>Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span>Vehicle<span style="color: #990000">&gt;</span>
             <span style="color: #990000">(</span>entityProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetEntityWithChangeInfo</span></span><span style="color: #990000">());</span>
 
@@ -3419,7 +3421,7 @@ http://www.gnu.org/software/src-highlite -->
     <span style="color: #990000">...</span> <span style="font-weight: bold"><span style="color: #0000FF">do</span></span> something <span style="color: #008080">with</span> it <span style="color: #990000">...</span>
 <span style="color: #FF0000">}</span></tt></pre></div></div>
 <div class="paragraph"><p>Dereferencing <code>it</code> will give an entity proxy.</p></div>
-<div class="paragraph"><p>Note that the default constructor for EntityIterator creates an "end" iterator, pointing "one past" the last instance. This is a pattern that was inspired by the <code>boost::filesystem</code> directory iterators.</p></div>
+<div class="paragraph"><p>Note that the default constructor for EntityIterator creates an "end" iterator, pointing "one past" the last instance. This is a pattern that was inspired by the <code>std::filesystem</code> directory iterators.</p></div>
 <div class="paragraph"><p>Iterating over all Vehicles (including subclasses) in C#:</p></div>
 <div class="listingblock">
 <div class="title">Iterating over entities in C#</div>
@@ -3644,7 +3646,7 @@ http://www.gnu.org/software/src-highlite -->
      <span style="color: #990000">(</span><span style="font-weight: bold"><span style="color: #0000FF">const</span></span> Safir<span style="color: #990000">::</span>Dob<span style="color: #990000">::</span><span style="color: #008080">InjectedEntityProxy</span> injectedEntityProxy<span style="color: #990000">);</span>
 <span style="color: #FF0000">{</span>
     Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span><span style="color: #008080">VehiclePtr</span> vehicle <span style="color: #990000">=</span>
-        boost<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span>Vehicle<span style="color: #990000">&gt;</span>
+        std<span style="color: #990000">::</span>static_pointer_cast<span style="color: #990000">&lt;</span>Capabilities<span style="color: #990000">::</span>Vehicles<span style="color: #990000">::</span>Vehicle<span style="color: #990000">&gt;</span>
             <span style="color: #990000">(</span>injectedEntityProxy<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">GetInjection</span></span><span style="color: #990000">());</span>
 
     m_myLookupTable<span style="color: #990000">.</span><span style="font-weight: bold"><span style="color: #000000">Add</span></span><span style="color: #990000">(</span>vehicle<span style="color: #990000">-&gt;</span><span style="font-weight: bold"><span style="color: #000000">Callsign</span></span><span style="color: #990000">(),</span>
@@ -9272,7 +9274,7 @@ Swre
 <div id="footer">
 <div id="footer-text">
 Last updated
- 2023-03-03 13:13:51 CET
+ 2023-04-03 19:21:58 CEST
 </div>
 </div>
 </body>
