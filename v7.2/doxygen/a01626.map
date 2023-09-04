@@ -1,0 +1,11 @@
+<map id="Safir::Utilities::AceDispatcher" name="Safir::Utilities::AceDispatcher">
+<area shape="rect" id="Node000001" title="The class makes a thread switch and perform a dispatch on Dob connection." alt="" coords="155,171,349,197"/>
+<area shape="rect" id="Node000002" href="$a01268.html" title="Interface for reception of a dispatch order." alt="" coords="5,96,157,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,126,223,168,221,172,123,131"/>
+<area shape="rect" id="Node000003" href="$a01312.html" title="Base class used when composing more elaborated interfaces." alt="" coords="15,5,147,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,63,84,95,78,95,78,63"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="181,96,323,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,138,254,170,249,170,249,138"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="347,96,482,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="374,131,281,172,279,168,372,127"/>
+</map>

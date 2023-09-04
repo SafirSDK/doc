@@ -1,0 +1,13 @@
+<map id="Safir::Dob::EntityRequestBase" name="Safir::Dob::EntityRequestBase">
+<area shape="rect" id="Node000001" title="Interface to receive entity requests." alt="" coords="92,96,294,123"/>
+<area shape="rect" id="Node000003" href="$a01272.html" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration and that doesn..." alt="" coords="5,171,173,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,133,109,172,106,168,162,129"/>
+<area shape="rect" id="Node000004" href="$a01328.html" title="This Consumer Base class contains callback methods that can be overridden by an entity handler that r..." alt="" coords="196,171,398,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,129,280,168,277,172,221,133"/>
+<area shape="rect" id="Node000002" href="$a01312.html" title="Base class used when composing more elaborated interfaces." alt="" coords="127,5,259,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,63,196,95,190,95,190,63"/>
+<area shape="rect" id="Node000005" href="$a01276.html" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration for a type tha..." alt="" coords="117,245,285,288"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="273,209,227,247,224,243,269,205"/>
+<area shape="rect" id="Node000006" href="$a01280.html" title="Interface to be implemented by an entity handler that makes a pending registration." alt="" coords="309,245,477,288"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="325,205,370,243,367,247,321,209"/>
+</map>

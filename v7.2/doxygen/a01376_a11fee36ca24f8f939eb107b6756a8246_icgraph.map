@@ -1,0 +1,7 @@
+<map id="Safir::Dob::Typesystem::ArrayContainer::size" name="Safir::Dob::Typesystem::ArrayContainer::size">
+<area shape="rect" id="Node000001" title="Get the size of the array." alt="" coords="265,39,424,81"/>
+<area shape="rect" id="Node000002" href="$a01376.html#af50c41f4dbe40e13e488d943c9d76b3e" title="Constructor with size." alt="" coords="5,5,217,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,49,217,44,218,39,250,44"/>
+<area shape="rect" id="Node000003" href="$a01376.html#a13aa0b21ffabcb84462c8d0d23d700f4" title="Copy Assignment operator." alt="" coords="21,72,201,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,76,201,83,201,78,250,71"/>
+</map>

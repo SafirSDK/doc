@@ -1,0 +1,48 @@
+<map id="Safir::Dob::Internal::ConsumerBase" name="Safir::Dob::Internal::ConsumerBase">
+<area shape="rect" id="Node000001" title="Base class used when composing more elaborated interfaces." alt="" coords="5,356,137,399"/>
+<area shape="rect" id="Node000002" href="$a01268.html" title="Interface for reception of a dispatch order." alt="" coords="229,56,381,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,341,95,298,117,246,146,193,183,144,226,107,271,81,274,86,229,111,187,147,151,196,122,249,100,300,85,343"/>
+<area shape="rect" id="Node000005" href="$a01324.html" title="Interface to receive entity requests." alt="" coords="204,157,406,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="89,342,128,282,154,251,183,223,221,199,259,182,262,187,223,204,186,227,158,255,132,286,93,345"/>
+<area shape="rect" id="Node000010" href="$a01308.html" title="Interface to be implemented by subscribers of entities." alt="" coords="213,339,397,365"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="150,366,212,359,213,365,151,371"/>
+<area shape="rect" id="Node000011" href="$a01296.html" title="Interface to be implemented by senders of messages." alt="" coords="214,389,396,416"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="151,383,213,390,213,395,151,389"/>
+<area shape="rect" id="Node000012" href="$a01304.html" title="Interface to be implemented by subscribers of messages." alt="" coords="203,440,407,467"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="129,403,186,425,227,437,225,442,184,431,127,408"/>
+<area shape="rect" id="Node000014" href="$a01300.html" title="Interface to be implemented by subscribers of handler registrations." alt="" coords="226,491,384,533"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="102,408,140,444,186,476,226,493,224,498,183,481,137,448,99,411"/>
+<area shape="rect" id="Node000015" href="$a01292.html" title="Interface to be implemented by an application that sends requests (Request on entities or service req..." alt="" coords="231,557,379,584"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="88,411,104,443,126,479,153,514,186,543,208,554,231,562,229,567,205,559,183,548,149,518,121,482,99,446,84,413"/>
+<area shape="rect" id="Node000016" href="$a01316.html" title="Base class used when composing more elaborated interfaces." alt="" coords="185,237,425,264"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="98,343,136,306,183,274,213,262,214,267,186,278,139,310,102,347"/>
+<area shape="rect" id="Node000020" href="$a01332.html" title="Interface to receive service requests." alt="" coords="199,288,411,315"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="127,347,184,324,225,313,227,318,186,329,129,352"/>
+<area shape="rect" id="Node000021" href="$a01264.html" title="Interface for reception of a stop order." alt="" coords="225,608,385,635"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="83,412,96,455,117,504,147,553,165,575,186,594,205,605,225,612,224,617,202,610,183,598,161,579,143,556,112,507,91,457,78,414"/>
+<area shape="rect" id="Node000003" href="$a01628.html" title="The class makes a thread switch and perform a dispatch on Dob connection." alt="" coords="502,56,696,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,67,501,67,501,72,396,72"/>
+<area shape="rect" id="Node000004" href="$a01632.html" title="The class makes a thread switch and perform a dispatch on Dob connection." alt="" coords="500,5,697,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="395,51,517,30,517,35,396,56"/>
+<area shape="rect" id="Node000006" href="$a01272.html" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration and that doesn..." alt="" coords="515,157,682,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="420,168,515,168,515,173,420,173"/>
+<area shape="rect" id="Node000007" href="$a01328.html" title="This Consumer Base class contains callback methods that can be overridden by an entity handler that r..." alt="" coords="498,107,699,133"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="400,152,517,131,518,137,401,157"/>
+<area shape="rect" id="Node000008" href="$a01276.html" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration for a type tha..." alt="" coords="777,121,945,164"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="714,127,777,133,776,138,714,133"/>
+<area shape="rect" id="Node000009" href="$a01280.html" title="Interface to be implemented by an entity handler that makes a pending registration." alt="" coords="777,209,945,252"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="703,135,725,143,751,157,774,174,826,207,823,211,771,178,748,161,723,148,702,140"/>
+<area shape="rect" id="Node000013" href="$a01220.html" title="Class that provides subscription and filtering for BackdoorCommands." alt="" coords="536,432,661,475"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="421,451,535,451,535,456,421,456"/>
+<area shape="poly" id="edge19_Node000016_Node000006" title=" " alt="" coords="366,230,472,200,541,182,543,187,474,205,368,235"/>
+<area shape="poly" id="edge20_Node000016_Node000008" title=" " alt="" coords="439,239,577,222,651,210,724,193,769,179,811,162,813,167,771,184,725,199,652,215,578,228,440,244"/>
+<area shape="rect" id="Node000017" href="$a01320.html" title="Base class used when composing more elaborated interfaces." alt="" coords="473,259,724,285"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="440,258,473,260,472,266,440,263"/>
+<area shape="rect" id="Node000019" href="$a01284.html" title="Interface to be implemented by a service handler that makes a non&#45;pending registration." alt="" coords="510,309,687,336"/>
+<area shape="poly" id="edge21_Node000016_Node000019" title=" " alt="" coords="398,265,426,273,474,295,516,306,515,311,472,300,424,279,396,271"/>
+<area shape="poly" id="edge17_Node000017_Node000009" title=" " alt="" coords="702,253,776,241,777,247,703,258"/>
+<area shape="rect" id="Node000018" href="$a01288.html" title="Interface to be implemented by a service handler that makes a pending registration." alt="" coords="772,293,950,336"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="700,286,772,298,771,303,699,291"/>
+<area shape="poly" id="edge24_Node000020_Node000018" title=" " alt="" coords="398,316,426,324,450,336,474,345,543,357,598,359,724,345,784,334,785,339,725,351,598,364,543,362,472,351,448,341,424,329,396,321"/>
+<area shape="poly" id="edge23_Node000020_Node000019" title=" " alt="" coords="426,307,510,314,509,319,425,313"/>
+</map>

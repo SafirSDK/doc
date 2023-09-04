@@ -1,0 +1,7 @@
+<map id="Safir::Dob::Typesystem::StringContainer::Utf8StringLength" name="Safir::Dob::Typesystem::StringContainer::Utf8StringLength">
+<area shape="rect" id="Node000001" title="Calculate the length needed for this string in UTF8 encoding." alt="" coords="5,31,192,89"/>
+<area shape="rect" id="Node000002" href="$a01612.html#a4b9c1d9df5d275981089bdf0de236ad6" title="Is the container set to null?" alt="" coords="240,5,401,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,43,225,38,226,44,193,49"/>
+<area shape="rect" id="Node000003" href="$a00392.html#a590903d89625dc985b91ec3b195ef78b" title="Convert a std::wstring to UTF8&#45;encoded std::string." alt="" coords="241,72,400,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,71,226,77,225,82,192,77"/>
+</map>

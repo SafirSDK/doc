@@ -1,0 +1,33 @@
+<map id="Safir::Dob::Typesystem::Internal::CommonExceptionBase" name="Safir::Dob::Typesystem::Internal::CommonExceptionBase">
+<area shape="rect" id="Node000001" title="Common functionality for the exception hierarchy of the DOB typesystem." alt="" coords="157,245,378,288"/>
+<area shape="rect" id="Node000003" href="$a01440.html" title="This is the base class of all (non&#45;Fundamental) Exceptions." alt="" coords="428,73,587,116"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,234,474,114,477,119,312,239"/>
+<area shape="rect" id="Node000007" href="$a01436.html" title="This is the base class of all Fundamental Exceptions." alt="" coords="426,359,588,401"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="328,292,461,356,459,360,326,297"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,253,109,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,264,156,264,156,269,123,269"/>
+<area shape="rect" id="Node000004" href="$a01776.html" title="Thrown when an operation cannot be completed due to the current shared memory usage level." alt="" coords="637,5,854,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="572,65,636,41,677,30,679,35,637,47,573,70"/>
+<area shape="rect" id="Node000005" href="$a01812.html" title="Thrown when eg GetFreeInstance can not find a free instance." alt="" coords="644,56,847,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="601,82,643,78,644,83,601,87"/>
+<area shape="rect" id="Node000006" href="$a01820.html" title="Thrown when data could not be sent due to overflowing queues." alt="" coords="646,107,845,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="602,102,646,107,646,112,601,107"/>
+<area shape="rect" id="Node000008" href="$a01676.html" title="Thrown when not owner tries to set/delete an entity." alt="" coords="659,157,832,200"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="524,345,568,276,599,241,635,210,657,197,660,202,638,214,603,244,572,280,528,348"/>
+<area shape="rect" id="Node000009" href="$a01744.html" title="Thrown when an injection handler tries to set/delete an entity for which there is a ghost instance th..." alt="" coords="636,224,855,251"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="533,346,578,301,605,279,635,260,663,249,665,254,638,265,609,283,582,305,537,349"/>
+<area shape="rect" id="Node000010" href="$a01816.html" title="Exception thrown if dose_main has terminated in an unexpected way, or the application has not yet con..." alt="" coords="646,275,845,301"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="556,349,635,311,672,299,674,305,637,316,558,354"/>
+<area shape="rect" id="Node000011" href="$a01452.html" title="Used when there is an error that implies that there is something wrong in the configuration." alt="" coords="649,325,842,368"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="603,364,649,357,649,363,604,369"/>
+<area shape="rect" id="Node000012" href="$a01444.html" title="A parameter in the call was invalid." alt="" coords="666,392,825,435"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="603,391,666,400,665,405,603,396"/>
+<area shape="rect" id="Node000013" href="$a01448.html" title="This exception is thrown if a class cannot be cast to the expected type." alt="" coords="647,459,844,501"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="560,406,637,444,668,456,666,461,635,449,557,411"/>
+<area shape="rect" id="Node000014" href="$a01460.html" title="Thrown when an application attempts to get the value of a member that is null." alt="" coords="666,525,825,568"/>
+<area shape="poly" id="edge13_Node000007_Node000014" title=" " alt="" coords="535,412,579,463,607,489,638,511,667,525,664,530,635,516,604,493,575,467,530,415"/>
+<area shape="rect" id="Node000015" href="$a01464.html" title="Used when someone tries to set a property that is mapped to something that cannot be changed." alt="" coords="666,592,825,635"/>
+<area shape="poly" id="edge14_Node000007_Node000015" title=" " alt="" coords="524,414,542,452,567,496,599,540,638,578,667,594,664,599,635,582,595,544,562,499,537,455,519,416"/>
+<area shape="rect" id="Node000016" href="$a01456.html" title="Meant to be used when something goes very wrong." alt="" coords="651,659,840,701"/>
+<area shape="poly" id="edge15_Node000007_Node000016" title=" " alt="" coords="519,415,533,466,557,528,591,591,613,620,638,645,654,656,651,660,635,649,609,623,587,594,552,531,528,468,513,417"/>
+</map>

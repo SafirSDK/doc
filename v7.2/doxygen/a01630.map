@@ -1,0 +1,7 @@
+<map id="Safir::Utilities::AsioDispatcher" name="Safir::Utilities::AsioDispatcher">
+<area shape="rect" id="Node000001" title="The class makes a thread switch and perform a dispatch on Dob connection." alt="" coords="5,171,203,197"/>
+<area shape="rect" id="Node000002" href="$a01268.html" title="Interface for reception of a dispatch order." alt="" coords="28,96,180,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,138,107,170,101,170,101,138"/>
+<area shape="rect" id="Node000003" href="$a01312.html" title="Base class used when composing more elaborated interfaces." alt="" coords="38,5,170,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,63,107,95,101,95,101,63"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Safir::Dob::Typesystem::ObjectContainerBase" name="Safir::Dob::Typesystem::ObjectContainerBase">
+<area shape="rect" id="Node000001" title="Base class for all object containers." alt="" coords="214,231,373,273"/>
+<area shape="rect" id="Node000003" href="$a01492.html" title=" " alt="" coords="810,80,981,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="336,220,391,185,461,146,541,110,625,84,668,77,703,75,780,84,810,89,809,95,780,89,703,80,669,82,627,89,543,115,464,151,394,189,339,224"/>
+<area shape="rect" id="Node000004" href="$a01492.html" title=" " alt="" coords="804,5,986,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="315,217,359,162,389,134,421,111,468,87,517,68,620,41,719,28,804,23,804,28,719,33,621,47,519,73,470,92,424,116,392,138,363,166,319,220"/>
+<area shape="rect" id="Node000005" href="$a01492.html" title=" " alt="" coords="816,288,975,347"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="349,277,385,293,423,304,528,320,634,326,733,326,815,322,815,327,733,331,634,332,528,325,422,309,383,298,347,282"/>
+<area shape="rect" id="Node000006" href="$a01492.html" title=" " alt="" coords="816,195,975,253"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="388,273,472,288,571,298,676,298,729,293,779,283,807,271,843,251,846,256,809,276,781,288,729,298,676,304,571,303,472,293,387,278"/>
+<area shape="rect" id="Node000007" href="$a01492.html" title="Template class for all containers of automatically generated DOB objects." alt="" coords="423,192,602,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="387,233,422,227,423,232,388,238"/>
+<area shape="rect" id="Node000008" href="$a01496.html" title="This is a specialization of the ObjectContainerImpl template for the case where the template argument..." alt="" coords="433,376,592,435"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="323,283,357,320,399,355,434,375,431,379,396,360,353,324,319,287"/>
+<area shape="rect" id="Node000002" href="$a01384.html" title="Base class for all Containers." alt="" coords="5,231,165,273"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,249,213,249,213,255,179,255"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="616,195,709,178,779,163,809,153,811,158,781,168,710,183,617,200"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="550,181,625,131,729,82,825,46,827,51,731,87,627,136,553,185"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="609,237,816,293,814,298,607,242"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="617,214,815,219,815,224,617,219"/>
+</map>

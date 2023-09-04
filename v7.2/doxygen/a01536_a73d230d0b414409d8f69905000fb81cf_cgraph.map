@@ -1,0 +1,7 @@
+<map id="Safir::Dob::Typesystem::GenericObjectSequenceContainer::SetChanged" name="Safir::Dob::Typesystem::GenericObjectSequenceContainer::SetChanged">
+<area shape="rect" id="Node000001" title="Set the containers change flag." alt="" coords="5,47,232,105"/>
+<area shape="rect" id="Node000002" href="$a01512.html#a751c954141e0f6cede7a18ed2ac3b6f6" title="Get const_iterator pointing to the first element in the sequence." alt="" coords="280,5,453,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,54,265,49,266,54,232,60"/>
+<area shape="rect" id="Node000003" href="$a01512.html#a3fb1631407f8d25e0d8fce7d37d0ae22" title="Get const_iterator pointing past the last element in the sequence." alt="" coords="280,88,453,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,92,266,98,265,103,232,98"/>
+</map>

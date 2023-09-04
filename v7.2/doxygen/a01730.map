@@ -1,0 +1,9 @@
+<map id="Safir::Dob::EntityIdResponse" name="Safir::Dob::EntityIdResponse">
+<area shape="rect" id="Node000001" title="Standard response for handlers registered as HandlerDecidesInstanceId, containing the instance that t..." alt="" coords="8,245,201,272"/>
+<area shape="rect" id="Node000002" href="$a01904.html" title="The baseclass for all success responses." alt="" coords="5,171,204,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,212,107,245,102,245,102,212"/>
+<area shape="rect" id="Node000003" href="$a01884.html" title="The baseclass for all responses." alt="" coords="31,96,178,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,138,107,170,102,170,102,138"/>
+<area shape="rect" id="Node000004" href="$a01484.html" title="The base class for all DOB objects." alt="" coords="25,5,184,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,63,107,95,102,95,102,63"/>
+</map>

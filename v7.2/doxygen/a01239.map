@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Connection" name="Safir::Dob::Connection">
+<area shape="rect" id="Node000001" title="A connection to the DOB." alt="" coords="20,80,175,107"/>
+<area shape="rect" id="Node000002" href="$a01260.html" title="Common base class for connections to the DOB." alt="" coords="5,5,190,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,47,100,80,95,80,95,47"/>
+</map>

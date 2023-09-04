@@ -1,0 +1,7 @@
+<map id="Safir::Dob::Typesystem::DictionaryContainerBase" name="Safir::Dob::Typesystem::DictionaryContainerBase">
+<area shape="rect" id="Node000001" title="Base class for all dictionary containers." alt="" coords="5,96,180,139"/>
+<area shape="rect" id="Node000003" href="$a01412.html" title="Container class for dictionaries of key value pairs." alt="" coords="13,187,172,245"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="95,153,95,186,90,186,90,153"/>
+<area shape="rect" id="Node000002" href="$a01384.html" title="Base class for all Containers." alt="" coords="13,5,172,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,63,95,96,90,96,90,63"/>
+</map>

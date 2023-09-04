@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Dispatcher" name="Safir::Dob::Dispatcher">
+<area shape="rect" id="Node000001" title="Interface for reception of a dispatch order." alt="" coords="5,96,157,123"/>
+<area shape="rect" id="Node000002" href="$a01312.html" title="Base class used when composing more elaborated interfaces." alt="" coords="15,5,147,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,63,84,95,78,95,78,63"/>
+</map>

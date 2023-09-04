@@ -1,0 +1,37 @@
+<map id="Safir::Dob::Typesystem::ObjectContainerImpl::IsNull" name="Safir::Dob::Typesystem::ObjectContainerImpl::IsNull">
+<area shape="rect" id="Node000001" title="Is the container set to null?" alt="" coords="264,667,423,725"/>
+<area shape="rect" id="Node000002" href="$a01492.html#ab5261580ea8999538af6f7beb1678970" title="Copy constructor." alt="" coords="31,5,190,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,652,322,521,298,350,281,264,262,186,239,122,214,78,189,58,192,54,218,74,244,120,267,185,287,263,303,349,328,520,341,651"/>
+<area shape="rect" id="Node000003" href="$a01496.html#ad81005d58a3035d1b569f7942b05cf2d" title="Copy constructor." alt="" coords="5,88,216,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="334,652,318,537,293,391,276,318,257,252,236,198,214,160,201,149,205,145,218,157,241,195,262,250,281,317,298,390,324,537,340,652"/>
+<area shape="rect" id="Node000004" href="$a01492.html#a09fac7392e38a41792cca8dcbbc30c7b" title="Calculate the size of the blob&#45;serialized form of the contained object." alt="" coords="31,171,190,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,652,334,567,316,459,300,401,278,344,250,291,214,243,189,224,192,220,218,239,254,288,283,342,305,399,321,458,339,567,345,652"/>
+<area shape="rect" id="Node000005" href="$a01492.html#aa1a41513c8e6025dea48344ad6fcfefa" title="Get a const reference to a member container from an object." alt="" coords="31,253,190,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="336,652,326,582,305,495,289,450,269,405,244,363,214,326,189,307,192,303,218,322,248,360,274,403,294,448,310,494,331,581,341,652"/>
+<area shape="rect" id="Node000006" href="$a01496.html#afbb0dd70185b969a2fbc61096fbca361" title="Get a const reference to a member container from an object." alt="" coords="31,336,190,395"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="331,653,317,598,294,533,260,466,238,436,214,409,189,391,192,387,217,405,243,433,264,464,298,530,322,596,336,651"/>
+<area shape="rect" id="Node000007" href="$a01492.html#a621578889f3c975db72bbb1a61554261" title="Get a reference to a member container from an object." alt="" coords="31,419,190,477"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="323,654,305,615,281,572,250,529,214,491,189,475,192,471,217,487,254,525,285,569,310,613,328,652"/>
+<area shape="rect" id="Node000008" href="$a01496.html#a395e1983612a0cc79403e9b3f9d88953" title="Get a reference to a member container from an object." alt="" coords="31,501,190,560"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="307,658,265,614,214,574,189,560,192,556,217,570,268,611,310,654"/>
+<area shape="rect" id="Node000009" href="$a01492.html#aa124d8919bfe8beec076c3a284298e96" title="Get the smart pointer from the container." alt="" coords="31,584,190,643"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="249,665,190,644,192,639,251,660"/>
+<area shape="rect" id="Node000010" href="$a01496.html#a168e26b6b3bc8c0d17ab184ca5bd301c" title="Get the smart pointer from the container." alt="" coords="31,667,190,725"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="249,699,191,699,191,693,249,693"/>
+<area shape="rect" id="Node000011" href="$a01492.html#abc54c705e8c4449d0a1f6939e1a8c8e5" title="Is the change flag set on the container?" alt="" coords="31,749,190,808"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="251,732,192,753,190,748,249,727"/>
+<area shape="rect" id="Node000012" href="$a01496.html#aa333803662ae43e8e5f9f79eb4e1254c" title="Is the change flag set on the container?" alt="" coords="31,832,190,891"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="310,738,268,781,217,822,192,836,189,832,214,818,265,778,307,734"/>
+<area shape="rect" id="Node000013" href="$a01492.html#ab0fef9741dc912277dbf4f992cb0c0a1" title="Dereference the smart pointer in the container." alt="" coords="31,915,190,973"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="328,740,310,779,285,823,254,867,217,905,192,921,189,917,214,901,250,863,281,820,305,777,323,738"/>
+<area shape="rect" id="Node000014" href="$a01496.html#a2656ffba20c135bced33949412e68f6e" title="Dereference the smart pointer in the container." alt="" coords="31,997,190,1056"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="336,741,322,796,298,862,264,928,243,959,217,987,192,1005,189,1001,214,983,238,956,260,926,294,859,317,794,331,739"/>
+<area shape="rect" id="Node000015" href="$a01492.html#aa05a3e9e763dacdfd8ea28d8b07df49c" title="Copy assignment operator." alt="" coords="31,1080,190,1139"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="341,740,331,811,310,898,294,944,274,989,248,1032,218,1070,192,1089,189,1085,214,1066,244,1029,269,987,289,942,305,897,326,810,336,740"/>
+<area shape="rect" id="Node000016" href="$a01496.html#a1654c48a9ef1dd8afab0f4a371ca43cd" title="Copy assignment operator." alt="" coords="31,1163,190,1221"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="345,740,339,825,321,934,305,993,283,1050,254,1104,218,1153,192,1172,189,1168,214,1149,250,1101,278,1048,300,991,316,933,334,825,339,740"/>
+<area shape="rect" id="Node000017" href="$a01492.html#a2743b197b4d6f7cbae2f8850a66a8fb4" title="Set the containers change flag." alt="" coords="31,1245,190,1304"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="340,740,324,855,298,1002,281,1075,262,1142,241,1197,218,1235,192,1255,189,1251,214,1232,236,1194,257,1140,276,1074,293,1001,318,855,334,740"/>
+<area shape="rect" id="Node000018" href="$a01496.html#a366a64ce88ea6ded162194371d9d6c02" title="Set the containers change flag." alt="" coords="29,1328,192,1387"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="341,741,328,872,303,1043,287,1129,267,1207,244,1272,218,1318,194,1337,191,1333,214,1314,239,1270,262,1206,281,1128,298,1042,322,871,336,740"/>
+</map>

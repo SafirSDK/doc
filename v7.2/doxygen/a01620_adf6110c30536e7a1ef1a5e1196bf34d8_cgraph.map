@@ -1,0 +1,7 @@
+<map id="Safir::Time::AceTimeConverter::ToPtime" name="Safir::Time::AceTimeConverter::ToPtime">
+<area shape="rect" id="Node000001" title="Get specified ACE time in boost::posix_time::ptime representation." alt="" coords="5,39,208,81"/>
+<area shape="rect" id="Node000002" href="$a01620.html#a366088babfd1d6c537c8554462404366" title="Convert specified ACE time to a Double." alt="" coords="256,5,458,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,44,241,39,241,45,209,49"/>
+<area shape="rect" id="Node000003" href="$a01624.html#a0bb6cf2ecb4f51f17c67bbf31d4c2b92" title="Get specified UTC time in boost::posix_time::ptime representation." alt="" coords="272,72,442,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,71,257,77,256,83,208,76"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Safir::Dob::RevokedRegistrationBase" name="Safir::Dob::RevokedRegistrationBase">
+<area shape="rect" id="Node000001" title="Base class used when composing more elaborated interfaces." alt="" coords="185,127,425,153"/>
+<area shape="rect" id="Node000003" href="$a01320.html" title="Base class used when composing more elaborated interfaces." alt="" coords="473,47,724,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,119,472,83,521,71,523,76,474,88,359,124"/>
+<area shape="rect" id="Node000006" href="$a01272.html" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration and that doesn..." alt="" coords="515,97,682,124"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="440,124,514,116,515,122,440,129"/>
+<area shape="rect" id="Node000007" href="$a01276.html" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration for a type tha..." alt="" coords="515,148,682,191"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="440,151,515,158,514,164,440,156"/>
+<area shape="rect" id="Node000008" href="$a01284.html" title="Interface to be implemented by a service handler that makes a non&#45;pending registration." alt="" coords="510,215,687,241"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="353,157,410,179,474,200,520,211,519,217,472,205,408,184,351,162"/>
+<area shape="rect" id="Node000002" href="$a01312.html" title="Base class used when composing more elaborated interfaces." alt="" coords="5,119,137,161"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,137,184,137,184,143,151,143"/>
+<area shape="rect" id="Node000004" href="$a01280.html" title="Interface to be implemented by an entity handler that makes a pending registration." alt="" coords="777,5,945,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="723,42,777,35,777,40,724,47"/>
+<area shape="rect" id="Node000005" href="$a01288.html" title="Interface to be implemented by a service handler that makes a pending registration." alt="" coords="772,72,950,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="724,73,772,79,771,85,723,78"/>
+</map>

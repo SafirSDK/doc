@@ -1,0 +1,13 @@
+<map id="Safir::Dob::SuccessResponse" name="Safir::Dob::SuccessResponse">
+<area shape="rect" id="Node000001" title="The baseclass for all success responses." alt="" coords="101,171,299,197"/>
+<area shape="rect" id="Node000004" href="$a01732.html" title="Standard response for handlers registered as HandlerDecidesInstanceId, containing the instance that t..." alt="" coords="5,253,198,280"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,209,118,255,115,251,172,205"/>
+<area shape="rect" id="Node000005" href="$a01916.html" title="Brief response for a ForEach service request." alt="" coords="222,245,379,288"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="229,205,276,243,273,247,226,209"/>
+<area shape="rect" id="Node000002" href="$a01884.html" title="The baseclass for all responses." alt="" coords="127,96,274,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,138,203,170,198,170,198,138"/>
+<area shape="rect" id="Node000003" href="$a01484.html" title="The base class for all DOB objects." alt="" coords="121,5,280,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,63,203,95,198,95,198,63"/>
+<area shape="rect" id="Node000006" href="$a01928.html" title="Full response for a ForEach service request." alt="" coords="222,336,379,379"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="303,303,303,336,298,336,298,303"/>
+</map>

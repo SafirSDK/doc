@@ -1,0 +1,9 @@
+<map id="Safir::Dob::OverflowException" name="Safir::Dob::OverflowException">
+<area shape="rect" id="Node000001" title="Thrown when data could not be sent due to overflowing queues." alt="" coords="17,261,215,288"/>
+<area shape="rect" id="Node000002" href="$a01440.html" title="This is the base class of all (non&#45;Fundamental) Exceptions." alt="" coords="36,171,196,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,228,119,261,113,261,113,228"/>
+<area shape="rect" id="Node000003" href="$a01432.html" title="Common functionality for the exception hierarchy of the DOB typesystem." alt="" coords="5,80,227,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,137,119,170,113,170,113,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="64,5,168,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,47,119,80,113,80,113,47"/>
+</map>

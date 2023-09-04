@@ -1,0 +1,27 @@
+<map id="Safir::Dob::Typesystem::EnumerationContainerBase" name="Safir::Dob::Typesystem::EnumerationContainerBase">
+<area shape="rect" id="Node000001" title="Base class for containers of enumeration values." alt="" coords="213,339,401,381"/>
+<area shape="rect" id="Node000003" href="$a01664.html" title=" " alt="" coords="495,5,657,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="312,323,327,265,353,193,371,156,392,120,418,87,447,58,469,44,493,34,495,39,472,49,451,62,422,91,397,123,376,159,358,195,332,267,317,324"/>
+<area shape="rect" id="Node000004" href="$a01684.html" title=" " alt="" coords="497,72,655,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="317,324,336,278,363,224,400,170,423,146,447,125,470,111,495,102,497,107,472,116,451,129,426,150,405,174,368,227,341,281,322,326"/>
+<area shape="rect" id="Node000005" href="$a01696.html" title=" " alt="" coords="480,139,672,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="326,324,375,256,409,221,448,191,478,176,480,181,450,196,413,225,379,260,330,328"/>
+<area shape="rect" id="Node000006" href="$a01716.html" title=" " alt="" coords="478,205,673,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="343,327,391,291,448,258,477,246,479,251,450,262,394,295,346,331"/>
+<area shape="rect" id="Node000007" href="$a01752.html" title=" " alt="" coords="494,272,657,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="409,332,493,311,494,316,410,337"/>
+<area shape="rect" id="Node000008" href="$a01768.html" title=" " alt="" coords="483,339,668,381"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="416,357,482,357,482,363,416,363"/>
+<area shape="rect" id="Node000009" href="$a01784.html" title=" " alt="" coords="493,405,659,448"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="410,383,493,404,492,409,409,388"/>
+<area shape="rect" id="Node000010" href="$a01804.html" title=" " alt="" coords="497,472,655,515"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="346,389,394,425,450,458,497,475,495,480,448,462,391,429,343,393"/>
+<area shape="rect" id="Node000011" href="$a01832.html" title=" " alt="" coords="472,539,680,581"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="330,392,379,460,413,495,450,524,472,536,470,540,448,529,409,499,375,464,326,396"/>
+<area shape="rect" id="Node000012" href="$a01856.html" title=" " alt="" coords="481,605,670,648"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="322,394,341,439,368,493,405,546,426,570,451,591,482,608,480,613,447,596,423,574,400,550,363,496,336,442,317,396"/>
+<area shape="rect" id="Node000013" href="$a01936.html" title=" " alt="" coords="449,672,702,715"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="317,396,332,453,358,525,376,561,397,597,422,629,451,658,467,669,464,674,447,662,418,633,392,600,371,564,353,527,327,455,312,397"/>
+<area shape="rect" id="Node000002" href="$a01384.html" title="Base class for all Containers." alt="" coords="5,339,165,381"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,357,212,357,212,363,179,363"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Safir::Dob::ConnectionBase" name="Safir::Dob::ConnectionBase">
+<area shape="rect" id="Node000001" title="Common base class for connections to the DOB." alt="" coords="94,5,279,32"/>
+<area shape="rect" id="Node000002" href="$a01240.html" title="A connection to the DOB." alt="" coords="5,80,160,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,43,102,82,99,77,155,38"/>
+<area shape="rect" id="Node000003" href="$a01368.html" title="A secondary connection attached to a &quot;real&quot; connection." alt="" coords="184,80,400,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,38,275,77,272,82,215,43"/>
+</map>

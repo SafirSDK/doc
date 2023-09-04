@@ -1,0 +1,7 @@
+<map id="Safir::Dob::PersistenceParameters" name="Safir::Dob::PersistenceParameters">
+<area shape="rect" id="Node000001" title="This class has no summary." alt="" coords="5,171,230,197"/>
+<area shape="rect" id="Node000002" href="$a01824.html" title="This class is intended to be used as baseclass for classes that only contains parameters." alt="" coords="28,96,207,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,138,120,170,115,170,115,138"/>
+<area shape="rect" id="Node000003" href="$a01484.html" title="The base class for all DOB objects." alt="" coords="38,5,197,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,63,120,95,115,95,115,63"/>
+</map>

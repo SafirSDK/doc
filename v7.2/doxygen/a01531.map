@@ -1,0 +1,14 @@
+<map id="Safir::Dob::Typesystem::GenericObjectSequenceContainerBase" name="Safir::Dob::Typesystem::GenericObjectSequenceContainerBase">
+<area shape="rect" id="Node000001" title="Base class for all object sequences." alt="" coords="5,137,262,180"/>
+<area shape="rect" id="Node000002" href="$a01536.html" title=" " alt="" coords="706,5,933,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,128,245,101,310,77,413,55,519,40,619,33,706,30,706,36,619,38,519,46,414,60,312,83,247,106,189,133"/>
+<area shape="rect" id="Node000003" href="$a01536.html" title=" " alt="" coords="706,93,933,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,174,368,181,470,184,577,180,682,168,747,150,749,155,683,173,577,186,470,189,367,186,276,179"/>
+<area shape="rect" id="Node000004" href="$a01536.html" title=" " alt="" coords="706,187,933,245"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,181,311,189,521,206,706,213,706,218,520,212,311,195,252,186"/>
+<area shape="rect" id="Node000005" href="$a01536.html" title=" " alt="" coords="311,92,568,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="276,135,310,130,311,135,277,140"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="560,86,705,56,706,61,561,91"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="583,114,706,117,706,123,583,120"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="536,136,709,183,707,189,535,142"/>
+</map>

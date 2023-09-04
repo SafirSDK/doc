@@ -1,0 +1,5 @@
+<map id="Safir::Time::TimeProvider::ToDouble" name="Safir::Time::TimeProvider::ToDouble">
+<area shape="rect" id="Node000001" title="Convert specified UTC time to a Double." alt="" coords="256,5,426,48"/>
+<area shape="rect" id="Node000002" href="$a01620.html#a8d1e0446162dfd93e56b52100978a31e" title="Get specified boost ptime in ACE Time representation." alt="" coords="5,5,208,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,29,208,29,208,24,241,24"/>
+</map>

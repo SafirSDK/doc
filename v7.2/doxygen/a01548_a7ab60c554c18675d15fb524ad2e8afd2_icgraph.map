@@ -1,0 +1,7 @@
+<map id="Safir::Dob::Typesystem::ToolSupport::BlobWriter::WriteValue" name="Safir::Dob::Typesystem::ToolSupport::BlobWriter::WriteValue">
+<area shape="rect" id="Node000001" title="Write member value to the a blob." alt="" coords="220,29,386,88"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="337,17,324,11,303,8,284,10,272,15,266,21,266,29,260,29,261,19,269,10,283,5,303,3,326,5,340,13"/>
+<area shape="rect" id="Node000002" href="$a01548.html#a15d11fabbfdb9c125cee0abc7bfb8d36" title="SetChangedRecursive &#45; Recursively set all change flags to specified value." alt="" coords="5,29,172,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,61,172,61,172,56,204,56"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="123,17,110,11,88,8,70,10,58,15,52,21,51,29,46,29,47,19,55,10,69,5,89,3,111,5,125,13"/>
+</map>

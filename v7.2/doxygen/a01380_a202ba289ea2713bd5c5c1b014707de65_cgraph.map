@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Typesystem::ChannelId::Utf8StringLength" name="Safir::Dob::Typesystem::ChannelId::Utf8StringLength">
+<area shape="rect" id="Node000001" title="Get the length of the string when converted to UTF&#45;8 encoding." alt="" coords="5,5,200,48"/>
+<area shape="rect" id="Node000002" href="$a00392.html#a590903d89625dc985b91ec3b195ef78b" title="Convert a std::wstring to UTF8&#45;encoded std::string." alt="" coords="248,5,407,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,24,233,24,233,29,200,29"/>
+</map>

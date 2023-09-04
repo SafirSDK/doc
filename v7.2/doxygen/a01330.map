@@ -1,0 +1,5 @@
+<map id="Safir::Dob::ServiceRequestBase" name="Safir::Dob::ServiceRequestBase">
+<area shape="rect" id="Node000001" title="Interface to receive service requests." alt="" coords="5,96,217,123"/>
+<area shape="rect" id="Node000002" href="$a01312.html" title="Base class used when composing more elaborated interfaces." alt="" coords="45,5,177,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,63,114,95,108,95,108,63"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Safir::Dob::Typesystem::DictionaryContainer::Copy" name="Safir::Dob::Typesystem::DictionaryContainer::Copy">
+<area shape="rect" id="Node000001" title="Copy &#45; Copy all the members from &quot;that&quot; into &quot;this&quot;." alt="" coords="5,96,189,139"/>
+<area shape="rect" id="Node000002" href="$a01412.html#a843692c26962643bab2edbb7689467b0" title=" " alt="" coords="244,5,403,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,93,229,66,231,71,159,98"/>
+<area shape="rect" id="Node000003" href="$a01412.html#aa45150995bdee384da704907a621eba6" title="clear &#45; Clear the dictionary, i.e remove all keys/values." alt="" coords="244,88,403,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,115,229,115,229,120,189,120"/>
+<area shape="rect" id="Node000004" href="$a01412.html#ae7cadcf752710ca29fe05913df0bfc99" title=" " alt="" coords="237,171,410,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,137,243,163,242,168,163,142"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Safir::Dob::Typesystem::GenericObjectSequenceContainer::GetPtr" name="Safir::Dob::Typesystem::GenericObjectSequenceContainer::GetPtr">
+<area shape="rect" id="Node000001" title="Get the object at the specified index." alt="" coords="280,47,506,105"/>
+<area shape="rect" id="Node000002" href="$a01536.html#a8e059a45ea3c4fc337d9153ad49a2fdc" title="Get a const generic pointer to the object at the specified index." alt="" coords="5,5,232,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,59,232,54,233,49,265,54"/>
+<area shape="rect" id="Node000003" href="$a01536.html#a5dca7a9d6fbc91c48bb5730c51b874d7" title="Get a generic pointer to the object at the specified index." alt="" coords="5,88,232,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,98,233,103,232,98,264,93"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Typesystem::ToolSupport::BlobWriter::TypeId" name="Safir::Dob::Typesystem::ToolSupport::BlobWriter::TypeId">
+<area shape="rect" id="Node000001" title="Get the type id of this BlobWriter." alt="" coords="220,5,386,64"/>
+<area shape="rect" id="Node000002" href="$a01548.html#a0fab0b48dddbaa344fe4ee6d1d1bb152" title="MarkChanges &#45; Set change flag for all members that differs between this blob and the reader blob." alt="" coords="5,5,172,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,37,172,37,172,32,204,32"/>
+</map>

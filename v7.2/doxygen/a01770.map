@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Item" name="Safir::Dob::Item">
+<area shape="rect" id="Node000001" title="The baseclass for all items." alt="" coords="28,96,142,123"/>
+<area shape="rect" id="Node000002" href="$a01484.html" title="The base class for all DOB objects." alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,63,88,95,82,95,82,63"/>
+</map>

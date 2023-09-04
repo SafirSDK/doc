@@ -1,0 +1,9 @@
+<map id="Safir::Dob::ConnectionAspectBase" name="Safir::Dob::ConnectionAspectBase">
+<area shape="rect" id="Node000001" title="Base class for all aspects." alt="" coords="5,72,231,99"/>
+<area shape="rect" id="Node000002" href="$a01248.html" title="Class that provides methods for special applications that injects entities into the system apart from..." alt="" coords="293,5,488,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,66,291,45,293,50,198,71"/>
+<area shape="rect" id="Node000003" href="$a01252.html" title="Class that provides miscellaneous methods that are used less frequently." alt="" coords="279,72,502,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,83,278,83,278,88,245,88"/>
+<area shape="rect" id="Node000004" href="$a01256.html" title="Class that provides a methods to postpone the reception of data from the Dob." alt="" coords="293,123,488,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,100,293,120,291,126,197,105"/>
+</map>

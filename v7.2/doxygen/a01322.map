@@ -1,0 +1,5 @@
+<map id="Safir::Dob::EntityRequestBase" name="Safir::Dob::EntityRequestBase">
+<area shape="rect" id="Node000001" title="Interface to receive entity requests." alt="" coords="5,96,207,123"/>
+<area shape="rect" id="Node000002" href="$a01312.html" title="Base class used when composing more elaborated interfaces." alt="" coords="40,5,172,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,63,109,95,103,95,103,63"/>
+</map>
