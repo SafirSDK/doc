@@ -1,0 +1,5 @@
+<map id="Safir::Control::GetConnectionStatistics" name="Safir::Control::GetConnectionStatistics">
+<area shape="rect" id="node1" title="Collect connection statistics from a singel node." alt="" coords="5,167,200,207"/>
+<area shape="rect" id="node2" href="$a01945.html" title="The baseclass for all services." alt="" coords="36,93,169,119"/>
+<area shape="rect" id="node3" href="$a01505.html" title="The base class for all DOB objects." alt="" coords="23,5,183,45"/>
+</map>

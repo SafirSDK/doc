@@ -1,0 +1,17 @@
+digraph "Safir::Dob::Typesystem::hash_value"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="Safir::Dob::Typesystem\l::hash_value",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::EntityId::GetInstanceId",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01439.html#a292fe78328d4d276a728ebcab4854a8a",tooltip="Get the Instance number out of the EntityId."];
+  Node1 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::Typesystem\l::InstanceId::GetRawValue",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01487.html#acf24e8063b113e397ef82bc59327ca52",tooltip="Get the raw 64 bit integer identifier."];
+  Node1 -> Node4 [color="steelblue1",style="solid"];
+  Node4 [label="Safir::Dob::Typesystem\l::EntityId::GetTypeId",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01439.html#a2c8d3d671b4b29a11f6812e0d6346a6f",tooltip="Get the type id out of the EntityId."];
+  Node1 -> Node5 [color="steelblue1",style="solid"];
+  Node5 [label="Safir::Dob::Typesystem\l::hash_combine",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a00398.html#a4296c0c56c8440eaddc10377f10aa430",tooltip=" "];
+}

@@ -1,0 +1,5 @@
+<map id="Safir::Time::TimeProvider::ToPtime" name="Safir::Time::TimeProvider::ToPtime">
+<area shape="rect" id="node1" title="Get specified UTC time in boost::posix_time::ptime representation." alt="" coords="256,37,427,77"/>
+<area shape="rect" id="node2" href="$a01645.html#a3cec617f10c1eff5bc63a32b08b26dca" title="Convert from UTC to local time." alt="" coords="21,5,192,45"/>
+<area shape="rect" id="node3" href="$a01641.html#adf6110c30536e7a1ef1a5e1196bf34d8" title="Get specified ACE time in boost::posix_time::ptime representation." alt="" coords="5,69,208,109"/>
+</map>

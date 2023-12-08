@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Typesystem::ToolSupport::ParseTypeDefinitions" name="Safir::Dob::Typesystem::ToolSupport::ParseTypeDefinitions">
+<area shape="rect" id="node1" title="Will validate and parse a complete set of dou&#45; and dom&#45;files from If no error occurs,..." alt="" coords="5,13,236,53"/>
+<area shape="rect" id="node2" href="$a00411.html#ace6d6b26b3288369f72ec33036e8aeeb" title="Will validate and parse a complete set of dou&#45; and dom&#45;files." alt="" coords="284,13,515,53"/>
+<area shape="rect" id="node3" href="$a00411.html#a24df99a040a3f1aafbcd4ce1208cc948" title="Extract all files from the given root folders separated as dou&#45; and dom&#45; files." alt="" coords="563,5,777,60"/>
+</map>

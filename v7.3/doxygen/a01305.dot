@@ -1,0 +1,10 @@
+digraph "Safir::Dob::Requestor"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="Safir::Dob::Requestor",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Interface to be implemented by an application that sends requests (Request on entities or service req..."];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Internal\l::ConsumerBase",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01327.html",tooltip="Base class used when composing more elaborated interfaces."];
+}

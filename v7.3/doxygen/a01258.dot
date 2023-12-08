@@ -1,0 +1,15 @@
+digraph "Safir::Dob::ConnectionAspectBase"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="Safir::Dob::ConnectionAspectBase",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Base class for all aspects."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::ConnectionAspect\lInjector",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01263.html",tooltip="Class that provides methods for special applications that injects entities into the system apart from..."];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::ConnectionAspectMisc",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01267.html",tooltip="Class that provides miscellaneous methods that are used less frequently."];
+  Node1 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="Safir::Dob::ConnectionAspect\lPostpone",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01271.html",tooltip="Class that provides a methods to postpone the reception of data from the Dob."];
+}

@@ -1,0 +1,13 @@
+digraph "Safir::Time::AceTimeConverter::ToAceTime"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="Safir::Time::AceTimeConverter\l::ToAceTime",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get specified boost ptime in ACE Time representation."];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="Safir::Time::AceTimeConverter\l::ToAceTime",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01635.html#ac9bab1b5bce4bab8a8241acdc817adea",tooltip="Get specified time in ACE Time representation."];
+  Node1 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="Safir::Time::TimeProvider\l::ToDouble",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01639.html#a48963327a1e16e794318991c0fca28d5",tooltip="Convert specified UTC time to a Double."];
+}

@@ -1,0 +1,6 @@
+<map id="Safir::Dob::ErrorListResponse" name="Safir::Dob::ErrorListResponse">
+<area shape="rect" id="node1" title="Defines an array of errors, typically used to report errors for individual members in the request." alt="" coords="5,240,203,265"/>
+<area shape="rect" id="node2" href="$a01781.html" title="The baseclass for all error responses." alt="" coords="16,167,192,192"/>
+<area shape="rect" id="node3" href="$a01933.html" title="The baseclass for all responses." alt="" coords="30,93,178,119"/>
+<area shape="rect" id="node4" href="$a01505.html" title="The base class for all DOB objects." alt="" coords="24,5,184,45"/>
+</map>

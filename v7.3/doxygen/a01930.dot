@@ -1,0 +1,25 @@
+digraph "Safir::Dob::Service"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="Safir::Dob::Service",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="The baseclass for all services."];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::Object",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01499.html",tooltip="The base class for all DOB objects."];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Control::Command",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01671.html",tooltip="Command to stop, shutdown or reboot a specific node or a whole safir system."];
+  Node1 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="Safir::Control::GetConnection\lStatistics",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01687.html",tooltip="Collect connection statistics from a singel node."];
+  Node1 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="Safir::Control::GetConnection\lStatisticsAllNodes",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01691.html",tooltip="Collect connection statistics from all nodes in the system."];
+  Node1 -> Node6 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="Safir::Dob::PersistentData\lReady",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01883.html",tooltip="This service is called by the persistency handler when the persistent data has been fed to the Dob."];
+  Node1 -> Node7 [dir="back",color="steelblue1",style="solid"];
+  Node7 [label="Safir::Utilities::ForEach\l::DeleteAllRequest",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01955.html",tooltip="Definition of deleting all instances of a given type."];
+  Node1 -> Node8 [dir="back",color="steelblue1",style="solid"];
+  Node8 [label="Safir::Utilities::ForEach\l::DeleteRequest",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01959.html",tooltip="Definition of deleting multiple objects using ForEach service request."];
+  Node1 -> Node9 [dir="back",color="steelblue1",style="solid"];
+  Node9 [label="Safir::Utilities::ForEach\l::UpdateRequest",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01975.html",tooltip="Definition of updating multiple objects using ForEach service request."];
+}

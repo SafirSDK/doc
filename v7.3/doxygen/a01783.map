@@ -1,0 +1,6 @@
+<map id="Safir::Dob::GhostExistsException" name="Safir::Dob::GhostExistsException">
+<area shape="rect" id="node1" title="Thrown when an injection handler tries to set/delete an entity for which there is a ghost instance th..." alt="" coords="7,255,226,280"/>
+<area shape="rect" id="node2" href="$a01457.html" title="This is the base class of all Fundamental Exceptions." alt="" coords="35,167,198,207"/>
+<area shape="rect" id="node3" href="$a01453.html" title="Common functionality for the exception hierarchy of the DOB typesystem." alt="" coords="5,79,228,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="65,5,169,31"/>
+</map>

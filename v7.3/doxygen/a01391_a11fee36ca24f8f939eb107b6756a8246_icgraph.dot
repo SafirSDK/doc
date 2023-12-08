@@ -1,0 +1,13 @@
+digraph "Safir::Dob::Typesystem::ArrayContainer::size"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="Safir::Dob::Typesystem\l::ArrayContainer::size",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get the size of the array."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::ArrayContainer::ArrayContainer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01391.html#af50c41f4dbe40e13e488d943c9d76b3e",tooltip="Constructor with size."];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::Typesystem\l::ArrayContainer::operator=",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01391.html#a13aa0b21ffabcb84462c8d0d23d700f4",tooltip="Copy Assignment operator."];
+}

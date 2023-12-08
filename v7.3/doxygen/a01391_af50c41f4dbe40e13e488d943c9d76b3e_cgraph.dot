@@ -1,0 +1,11 @@
+digraph "Safir::Dob::Typesystem::ArrayContainer::ArrayContainer"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="Safir::Dob::Typesystem\l::ArrayContainer::ArrayContainer",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Constructor with size."];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::ArrayContainer::size",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01391.html#a11fee36ca24f8f939eb107b6756a8246",tooltip="Get the size of the array."];
+}

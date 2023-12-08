@@ -1,0 +1,4 @@
+<map id="Safir::Dob::Typesystem::DictionaryContainer::size" name="Safir::Dob::Typesystem::DictionaryContainer::size">
+<area shape="rect" id="node1" title="Get the size of the dictionary, i.e number of contained keys." alt="" coords="213,13,391,53"/>
+<area shape="rect" id="node2" href="$a01433.html#a907ab9809bc445f4e37e1d7211e344b4" title="Get the container of the value at a particular position in the dictionary." alt="" coords="5,5,165,60"/>
+</map>

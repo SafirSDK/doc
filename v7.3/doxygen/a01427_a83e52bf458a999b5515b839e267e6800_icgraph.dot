@@ -1,0 +1,11 @@
+digraph "Safir::Dob::Typesystem::DictionaryContainer::size"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="Safir::Dob::Typesystem\l::DictionaryContainer::size",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get the size of the dictionary, i.e number of contained keys."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::DictionaryContainer\l::GetValueContainerAt",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01427.html#a907ab9809bc445f4e37e1d7211e344b4",tooltip="Get the container of the value at a particular position in the dictionary."];
+}

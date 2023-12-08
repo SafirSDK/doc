@@ -1,0 +1,5 @@
+<map id="Safir::Dob::PersistentDataReady" name="Safir::Dob::PersistentDataReady">
+<area shape="rect" id="node1" title="This service is called by the persistency handler when the persistent data has been fed to the Dob." alt="" coords="5,167,181,207"/>
+<area shape="rect" id="node2" href="$a01945.html" title="The baseclass for all services." alt="" coords="27,93,160,119"/>
+<area shape="rect" id="node3" href="$a01505.html" title="The base class for all DOB objects." alt="" coords="13,5,173,45"/>
+</map>

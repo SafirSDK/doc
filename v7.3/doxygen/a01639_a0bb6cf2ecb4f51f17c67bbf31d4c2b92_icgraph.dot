@@ -1,0 +1,13 @@
+digraph "Safir::Time::TimeProvider::ToPtime"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="Safir::Time::TimeProvider\l::ToPtime",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get specified UTC time in boost::posix_time::ptime representation."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Time::TimeProvider\l::ToLocalTime",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01639.html#a3cec617f10c1eff5bc63a32b08b26dca",tooltip="Convert from UTC to local time."];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Time::AceTimeConverter\l::ToPtime",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01635.html#adf6110c30536e7a1ef1a5e1196bf34d8",tooltip="Get specified ACE time in boost::posix_time::ptime representation."];
+}

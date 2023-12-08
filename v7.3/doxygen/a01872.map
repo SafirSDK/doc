@@ -1,0 +1,13 @@
+<map id="Safir::Dob::Parametrization" name="Safir::Dob::Parametrization">
+<area shape="rect" id="node1" title="This class is intended to be used as baseclass for classes that only contains parameters." alt="" coords="213,219,393,244"/>
+<area shape="rect" id="node3" href="$a01709.html" title="This class has no summary." alt="" coords="467,5,641,31"/>
+<area shape="rect" id="node4" href="$a01749.html" title="Contains parameters to be used as values in CreateRoutines." alt="" coords="467,55,641,95"/>
+<area shape="rect" id="node5" href="$a01845.html" title="Contains paramaters for all nodes in the system." alt="" coords="461,120,647,145"/>
+<area shape="rect" id="node6" href="$a01885.html" title="This class has no summary." alt="" coords="441,169,667,195"/>
+<area shape="rect" id="node7" href="$a01917.html" title="Contains the parametrization of queue lengths used by a connection." alt="" coords="457,219,651,244"/>
+<area shape="rect" id="node8" href="$a01941.html" title="Declares error codes that are of general interest." alt="" coords="457,269,651,309"/>
+<area shape="rect" id="node9" href="$a01957.html" title="Defines the settings for this particular node." alt="" coords="448,333,660,359"/>
+<area shape="rect" id="node10" href="$a01961.html" title="Defines parameters for the time provider library." alt="" coords="454,383,654,408"/>
+<area shape="rect" id="node11" href="$a01993.html" title="Sent from web api to client." alt="" coords="455,432,653,457"/>
+<area shape="rect" id="node2" href="$a01505.html" title="The base class for all DOB objects." alt="" coords="5,211,165,251"/>
+</map>

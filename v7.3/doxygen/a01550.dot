@@ -1,0 +1,28 @@
+digraph "Safir::Dob::Typesystem::GenericObjectSequenceContainer&lt; T &gt;"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\< T \>",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::SequenceContainer\< std\l::shared_ptr\< T \> \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01527.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::Typesystem\l::ContainerBase",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01399.html",tooltip="Base class for all Containers."];
+  Node4 -> Node2 [dir="back",color="orange",style="dashed",label=" \< std::shared_ptr\<\l T \> \>" ];
+  Node4 [label="Safir::Dob::Typesystem\l::SequenceContainer\< T \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01527.html",tooltip="Container class for sequences of values."];
+  Node3 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node5 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="Safir::Dob::Typesystem\l::GenericObjectSequenceContainerBase",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01547.html",tooltip="Base class for all object sequences."];
+  Node1 -> Node6 [dir="back",color="orange",style="dashed",label=" \< ConnectionStatisticsResponse \>" ];
+  Node6 [label="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\< ConnectionStatisticsResponse \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01551.html",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="orange",style="dashed",label=" \< ConnectionStatisticsItem \>" ];
+  Node7 [label="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\< ConnectionStatisticsItem \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01551.html",tooltip=" "];
+  Node1 -> Node8 [dir="back",color="orange",style="dashed",label=" \< Member \>" ];
+  Node8 [label="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\< Member \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01551.html",tooltip=" "];
+  Node1 -> Node9 [dir="back",color="orange",style="dashed",label=" \< ClassType \>" ];
+  Node9 [label="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\< ClassType \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01551.html",tooltip=" "];
+  Node1 -> Node10 [dir="back",color="orange",style="dashed",label=" \< EnumType \>" ];
+  Node10 [label="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l\< EnumType \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01551.html",tooltip=" "];
+}

@@ -1,0 +1,13 @@
+digraph "Safir::Dob::Typesystem::DictionaryContainer::clear"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="Safir::Dob::Typesystem\l::DictionaryContainer\l::clear",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="clear - Clear the dictionary, i.e remove all keys/values."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::DictionaryContainer::Copy",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01427.html#ad11235de640d86aaf0d8ca3e5c0135e6",tooltip="Copy - Copy all the members from \"that\" into \"this\"."];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::Typesystem\l::DictionaryContainer\l::SetNull",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01427.html#a30553b7fa90c1bce50e8cd75a82d28f1",tooltip="Set the container to null."];
+}

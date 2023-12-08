@@ -1,0 +1,25 @@
+var a01913 =
+[
+    [ "ProcessInfo", "a01913.html#ac33b45fe5501a342a44b0fe7cb59332f", null ],
+    [ "ProcessInfo", "a01913.html#a903d263dff4e3e03da5005aac6cb4a34", null ],
+    [ "Clone", "a01913.html#a764554d0ec6bef6f4e6d1da7976d9317", null ],
+    [ "ConnectionNames", "a01913.html#af788f3ae568bf3fa447a8a08118eabcf", null ],
+    [ "ConnectionNames", "a01913.html#adbca99476dfbfc9ee7c9961b9727b450", null ],
+    [ "ConnectionNamesMaxStringLength", "a01913.html#ab935ad84a057b172b2744fff6116ec26", null ],
+    [ "ConnectionNamesMemberIndex", "a01913.html#a34d7339c68a9de46cd1a0d698d8d7410", null ],
+    [ "Create", "a01913.html#a865249e1c94a6a00e1448bd08079d3cf", null ],
+    [ "GetMember", "a01913.html#a9d25987370903119a98c8efd2d4ae21e", null ],
+    [ "GetMember", "a01913.html#a8a384c43b8e2f3029e5a21812d5cce80", null ],
+    [ "GetTypeId", "a01913.html#a4c3998c660f9b66d705ae1a9094c73bf", null ],
+    [ "IsChanged", "a01913.html#aaac6ccb3ea098c00c4eece7d751c9cda", null ],
+    [ "Name", "a01913.html#aec591709626a6d64650db0130f5c00d5", null ],
+    [ "Name", "a01913.html#a996c138b56cdb3ee7e35641d01bdec0f", null ],
+    [ "NameMaxStringLength", "a01913.html#a222a6b66995c44185545bcb001fa0353", null ],
+    [ "NameMemberIndex", "a01913.html#ac6bc1e7d2fcaf93ff7ace727eb283ecf", null ],
+    [ "Pid", "a01913.html#af4f0b0ca77a90ab5c488bac468df43a4", null ],
+    [ "Pid", "a01913.html#a8c8eea785a707e68bb9aca388faa39fc", null ],
+    [ "PidMemberIndex", "a01913.html#a6e389ca173e30c4109e6418c9c22a101", null ],
+    [ "SetChanged", "a01913.html#a1c3ff9835d47082a9f451903c384543a", null ],
+    [ "WriteToBlob", "a01913.html#ac189884ee6ff2b96ec8a2e7b4dcc1348", null ],
+    [ "ClassTypeId", "a01913.html#a8c739ccc4a989cd999e4dfbd4ff27f57", null ]
+];

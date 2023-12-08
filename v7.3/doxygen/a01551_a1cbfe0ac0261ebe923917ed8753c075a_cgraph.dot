@@ -1,0 +1,13 @@
+digraph "Safir::Dob::Typesystem::GenericObjectSequenceContainer::SetObjectPointer"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l::SetObjectPointer",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Set the smart pointer at a certain index in the container."];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::GenericObjectSequenceContainer\l::SetPtr",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01551.html#addcb81137f7a0e11e9aab271bea42368",tooltip="Set a the object pointer a the specified index."];
+  Node2 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::Typesystem\l::SequenceContainer\< std\l::shared_ptr\< T \> \>::SetVal",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01527.html#a7203f98e8b3aa5f973d09336ef0d5ecf",tooltip="Update a specific value."];
+}

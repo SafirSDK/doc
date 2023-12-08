@@ -1,0 +1,12 @@
+digraph "Safir::Dob::ConnectionBase"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="Safir::Dob::ConnectionBase",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Common base class for connections to the DOB."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Connection",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01255.html",tooltip="A connection to the DOB."];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::SecondaryConnection",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01383.html",tooltip="A secondary connection attached to a \"real\" connection."];
+}

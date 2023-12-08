@@ -1,0 +1,8 @@
+<map id="Safir::Dob::EntityRequestBase" name="Safir::Dob::EntityRequestBase">
+<area shape="rect" id="node1" title="Interface to receive entity requests." alt="" coords="92,93,295,119"/>
+<area shape="rect" id="node3" href="$a01293.html" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration and that doesn..." alt="" coords="5,167,173,192"/>
+<area shape="rect" id="node4" href="$a01349.html" title="This Consumer Base class contains callback methods that can be overridden by an entity handler that r..." alt="" coords="197,167,400,192"/>
+<area shape="rect" id="node2" href="$a01333.html" title="Base class used when composing more elaborated interfaces." alt="" coords="127,5,259,45"/>
+<area shape="rect" id="node5" href="$a01297.html" title="Interface to be implemented by an entity handler that makes a non&#45;pending registration for a type tha..." alt="" coords="119,240,287,280"/>
+<area shape="rect" id="node6" href="$a01301.html" title="Interface to be implemented by an entity handler that makes a pending registration." alt="" coords="311,240,479,280"/>
+</map>

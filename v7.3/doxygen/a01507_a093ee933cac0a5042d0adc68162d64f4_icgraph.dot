@@ -1,0 +1,13 @@
+digraph "Safir::Dob::Typesystem::ObjectContainerImpl::SetObjectPointer"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="Safir::Dob::Typesystem\l::ObjectContainerImpl\l::SetObjectPointer",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Set the smart pointer in the container."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::ObjectContainerImpl::Copy",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01507.html#aba6743de949e6d546bb922c4ae85efea",tooltip="Virtual assignment."];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\< Object \>::Copy",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01511.html#ac782e96a6ab6c6b98b8cbee654ac7e23",tooltip="Virtual assignment."];
+}

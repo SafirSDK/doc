@@ -1,0 +1,27 @@
+digraph "Safir::Dob::Typesystem::ObjectContainerBase"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="Safir::Dob::Typesystem\l::ObjectContainerBase",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Base class for all object containers."];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::ContainerBase",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01399.html",tooltip="Base class for all Containers."];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\< Safir::Dob::Typesystem\l::Object \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01507.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="Safir::Dob::Typesystem\l::ObjectContainerImpl\< U \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01507.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\< Entity \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01507.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\< ClassType \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01507.html",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="steelblue1",style="solid"];
+  Node7 [label="Safir::Dob::Typesystem\l::ObjectContainerImpl\< T \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01507.html",tooltip="Template class for all containers of automatically generated DOB objects."];
+  Node7 -> Node3 [dir="back",color="orange",style="dashed",label=" \< Safir::Dob::Typesystem\l::Object \>" ];
+  Node7 -> Node4 [dir="back",color="orange",style="dashed",label=" \< U \>" ];
+  Node7 -> Node5 [dir="back",color="orange",style="dashed",label=" \< Entity \>" ];
+  Node7 -> Node6 [dir="back",color="orange",style="dashed",label=" \< ClassType \>" ];
+  Node1 -> Node8 [dir="back",color="steelblue1",style="solid"];
+  Node8 [label="Safir::Dob::Typesystem\l::ObjectContainerImpl\l\< Object \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01511.html",tooltip="This is a specialization of the ObjectContainerImpl template for the case where the template argument..."];
+}

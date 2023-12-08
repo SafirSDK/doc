@@ -1,0 +1,11 @@
+digraph "Safir::Dob::Typesystem::ToolSupport::BlobReader::TypeId"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="Safir::Dob::Typesystem\l::ToolSupport::BlobReader\l::TypeId",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get the type id of the blob."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::ToolSupport::BlobWriter\l::MarkChanges",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01563.html#a0fab0b48dddbaa344fe4ee6d1d1bb152",tooltip="MarkChanges - Set change flag for all members that differs between this blob and the reader blob."];
+}

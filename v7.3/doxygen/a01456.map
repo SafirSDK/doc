@@ -1,0 +1,14 @@
+<map id="Safir::Dob::Typesystem::FundamentalException" name="Safir::Dob::Typesystem::FundamentalException">
+<area shape="rect" id="node1" title="This is the base class of all Fundamental Exceptions." alt="" coords="428,233,591,273"/>
+<area shape="rect" id="node4" href="$a01717.html" title="Thrown when not owner tries to set/delete an entity." alt="" coords="661,5,835,45"/>
+<area shape="rect" id="node5" href="$a01785.html" title="Thrown when an injection handler tries to set/delete an entity for which there is a ghost instance th..." alt="" coords="639,70,857,95"/>
+<area shape="rect" id="node6" href="$a01865.html" title="Exception thrown if dose_main has terminated in an unexpected way, or the application has not yet con..." alt="" coords="649,119,847,145"/>
+<area shape="rect" id="node7" href="$a01473.html" title="Used when there is an error that implies that there is something wrong in the configuration." alt="" coords="651,169,845,209"/>
+<area shape="rect" id="node8" href="$a01465.html" title="A parameter in the call was invalid." alt="" coords="668,233,828,273"/>
+<area shape="rect" id="node9" href="$a01469.html" title="This exception is thrown if a class cannot be cast to the expected type." alt="" coords="649,297,847,337"/>
+<area shape="rect" id="node10" href="$a01481.html" title="Thrown when an application attempts to get the value of a member that is null." alt="" coords="668,361,828,401"/>
+<area shape="rect" id="node11" href="$a01485.html" title="Used when someone tries to set a property that is mapped to something that cannot be changed." alt="" coords="668,425,828,465"/>
+<area shape="rect" id="node12" href="$a01477.html" title="Meant to be used when something goes very wrong." alt="" coords="653,489,843,529"/>
+<area shape="rect" id="node2" href="$a01453.html" title="Common functionality for the exception hierarchy of the DOB typesystem." alt="" coords="157,233,380,273"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,241,109,266"/>
+</map>

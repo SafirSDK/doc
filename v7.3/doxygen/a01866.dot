@@ -1,0 +1,12 @@
+digraph "Safir::Dob::PersistenceBackend::EnumerationContainer"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="Safir::Dob::PersistenceBackend\l::EnumerationContainer",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::EnumerationContainerBase",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01443.html",tooltip="Base class for containers of enumeration values."];
+  Node3 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::Typesystem\l::ContainerBase",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01399.html",tooltip="Base class for all Containers."];
+}

@@ -1,0 +1,8 @@
+<map id="Safir::Dob::Entity" name="Safir::Dob::Entity">
+<area shape="rect" id="node1" title="The baseclass for all entities." alt="" coords="213,84,336,109"/>
+<area shape="rect" id="node3" href="$a01713.html" title="Information about the this node." alt="" coords="399,5,545,31"/>
+<area shape="rect" id="node4" href="$a01841.html" title="Node information for all nodes currently in the system." alt="" coords="401,55,543,80"/>
+<area shape="rect" id="node5" href="$a01909.html" title="This class has no summary." alt="" coords="384,105,560,145"/>
+<area shape="rect" id="node6" href="$a01913.html" title="Displays one entity per process that is connected to the DOB." alt="" coords="393,169,551,195"/>
+<area shape="rect" id="node2" href="$a01505.html" title="The base class for all DOB objects." alt="" coords="5,77,165,117"/>
+</map>

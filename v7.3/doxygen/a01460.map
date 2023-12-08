@@ -1,0 +1,8 @@
+<map id="Safir::Dob::Typesystem::Exception" name="Safir::Dob::Typesystem::Exception">
+<area shape="rect" id="node1" title="This is the base class of all (non&#45;Fundamental) Exceptions." alt="" coords="428,47,588,87"/>
+<area shape="rect" id="node4" href="$a01817.html" title="Thrown when an operation cannot be completed due to the current shared memory usage level." alt="" coords="636,5,855,31"/>
+<area shape="rect" id="node5" href="$a01861.html" title="Thrown when eg GetFreeInstance can not find a free instance." alt="" coords="643,55,847,80"/>
+<area shape="rect" id="node6" href="$a01869.html" title="Thrown when data could not be sent due to overflowing queues." alt="" coords="646,104,845,129"/>
+<area shape="rect" id="node2" href="$a01453.html" title="Common functionality for the exception hierarchy of the DOB typesystem." alt="" coords="157,47,380,87"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,55,109,80"/>
+</map>

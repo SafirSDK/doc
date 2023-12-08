@@ -1,0 +1,18 @@
+<map id="Safir::Dob::Typesystem::ObjectContainerImpl::IsNull" name="Safir::Dob::Typesystem::ObjectContainerImpl::IsNull">
+<area shape="rect" id="node1" title="Is the container set to null?" alt="" coords="264,556,424,611"/>
+<area shape="rect" id="node2" href="$a01513.html#ab5261580ea8999538af6f7beb1678970" title="Copy constructor." alt="" coords="31,5,191,60"/>
+<area shape="rect" id="node3" href="$a01517.html#ad81005d58a3035d1b569f7942b05cf2d" title="Copy constructor." alt="" coords="5,84,216,139"/>
+<area shape="rect" id="node4" href="$a01513.html#a09fac7392e38a41792cca8dcbbc30c7b" title="Calculate the size of the blob&#45;serialized form of the contained object." alt="" coords="31,163,191,217"/>
+<area shape="rect" id="node5" href="$a01513.html#a621578889f3c975db72bbb1a61554261" title="Get a reference to a member container from an object." alt="" coords="31,241,191,296"/>
+<area shape="rect" id="node6" href="$a01517.html#a395e1983612a0cc79403e9b3f9d88953" title="Get a reference to a member container from an object." alt="" coords="31,320,191,375"/>
+<area shape="rect" id="node7" href="$a01513.html#aa124d8919bfe8beec076c3a284298e96" title="Get the smart pointer from the container." alt="" coords="31,399,191,453"/>
+<area shape="rect" id="node8" href="$a01517.html#a168e26b6b3bc8c0d17ab184ca5bd301c" title="Get the smart pointer from the container." alt="" coords="31,477,191,532"/>
+<area shape="rect" id="node9" href="$a01513.html#abc54c705e8c4449d0a1f6939e1a8c8e5" title="Is the change flag set on the container?" alt="" coords="31,556,191,611"/>
+<area shape="rect" id="node10" href="$a01517.html#aa333803662ae43e8e5f9f79eb4e1254c" title="Is the change flag set on the container?" alt="" coords="31,635,191,689"/>
+<area shape="rect" id="node11" href="$a01513.html#ab0fef9741dc912277dbf4f992cb0c0a1" title="Dereference the smart pointer in the container." alt="" coords="31,713,191,768"/>
+<area shape="rect" id="node12" href="$a01517.html#a2656ffba20c135bced33949412e68f6e" title="Dereference the smart pointer in the container." alt="" coords="31,792,191,847"/>
+<area shape="rect" id="node13" href="$a01513.html#aa05a3e9e763dacdfd8ea28d8b07df49c" title="Copy assignment operator." alt="" coords="31,871,191,925"/>
+<area shape="rect" id="node14" href="$a01517.html#a1654c48a9ef1dd8afab0f4a371ca43cd" title="Copy assignment operator." alt="" coords="31,949,191,1004"/>
+<area shape="rect" id="node15" href="$a01513.html#a2743b197b4d6f7cbae2f8850a66a8fb4" title="Set the containers change flag." alt="" coords="31,1028,191,1083"/>
+<area shape="rect" id="node16" href="$a01517.html#a366a64ce88ea6ded162194371d9d6c02" title="Set the containers change flag." alt="" coords="29,1107,193,1161"/>
+</map>

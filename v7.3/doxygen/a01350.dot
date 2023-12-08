@@ -1,0 +1,13 @@
+digraph "Safir::Dob::EntityIterator"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="Safir::Dob::EntityIterator",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="A STL conformant forward iterator used to traverse entity instances."];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="boost::iterator_facade\l\< EntityIterator, const\l EntityProxy, boost::single\l_pass_traversal_tag \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [dir="back",color="firebrick4",style="solid"];
+  Node3 [label="Internal::EntityIteratorImpl",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+}

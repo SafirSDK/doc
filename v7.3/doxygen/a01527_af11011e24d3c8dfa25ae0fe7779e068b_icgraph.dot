@@ -1,0 +1,11 @@
+digraph "Safir::Dob::Typesystem::SequenceContainer::clear"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="Safir::Dob::Typesystem\l::SequenceContainer::clear",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Clear the sequence, i.e remove all values."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::SequenceContainer::SetNull",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01527.html#a034ce1753bdceb9a9385197f130440a4",tooltip="Set the container to null."];
+}

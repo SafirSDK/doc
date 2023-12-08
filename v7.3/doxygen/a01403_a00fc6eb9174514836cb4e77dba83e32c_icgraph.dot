@@ -1,0 +1,19 @@
+digraph "Safir::Dob::Typesystem::ContainerProxy::IsNull"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="Safir::Dob::Typesystem\l::ContainerProxy::IsNull",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::ContainerProxy::operator=",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01403.html#a36e6502effcc0615a5c5f5a6e4e166ce",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::Typesystem\l::ContainerProxy\< StringContainer\l \>::operator=",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01407.html#ab92fa37623de8e81cccc928e4b7a3d59",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="Safir::Dob::Typesystem\l::ContainerProxy\< BinaryContainer\l \>::operator=",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01411.html#a272b999db4e13afcb7481dfcf75190a0",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="Safir::Dob::Typesystem\l::ContainerProxy\< ObjectContainer\lImpl\< U \> \>::operator=",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01415.html#a25dffe4e2645f93a9950eebe8571738a",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="Safir::Dob::Typesystem\l::ContainerProxy\< ObjectContainer\lImpl\< Object \> \>::operator=",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01419.html#aa99c2886badc2e76d83c8afed536461c",tooltip=" "];
+}

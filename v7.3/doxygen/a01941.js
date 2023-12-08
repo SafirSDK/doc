@@ -1,0 +1,28 @@
+var a01941 =
+[
+    [ "ResponseGeneralErrorCodes", "a01941.html#a3924363938281ebe15b5a443c14d83f0", null ],
+    [ "ResponseGeneralErrorCodes", "a01941.html#a8b8f3164e182e5383a368ed6a9085700", null ],
+    [ "Clone", "a01941.html#ac4893620cda06dfcec073cdd49261929", null ],
+    [ "Create", "a01941.html#a129d316a3f9222d608382309050f06e6", null ],
+    [ "GetMember", "a01941.html#a886319c830f242f7b57667f8c32f986a", null ],
+    [ "GetMember", "a01941.html#ab210b396ae7313aab245b35b0608f57a", null ],
+    [ "GetTypeId", "a01941.html#a196d12bb6487cd3837d6472c1ee1f534", null ],
+    [ "IsChanged", "a01941.html#a38748e5bec8e1c42d0c61bb7e7de1d08", null ],
+    [ "SafirDetachedState", "a01941.html#afc5582828824d79f86659ec39508e91a", null ],
+    [ "SafirFormatErr", "a01941.html#a75c3fdb8e639ec36a26dc73bb8523f8e", null ],
+    [ "SafirIllCombination", "a01941.html#a8cc49a0f91969780f7971d5b378539e3", null ],
+    [ "SafirInstanceErr", "a01941.html#abaecb618b62cebf63bcba822bfae22d5", null ],
+    [ "SafirInternalErr", "a01941.html#a326f3a8c5e8978a2c4f37042486259a8", null ],
+    [ "SafirMissingMember", "a01941.html#ac5009f52846c2a082e690dc6220f544e", null ],
+    [ "SafirNoFreeInstance", "a01941.html#ada249aba5cb1c4841fbc76ff89cfdb93", null ],
+    [ "SafirNoPermission", "a01941.html#a8a88e2dd913d5d1aee2f34fb2ab839bc", null ],
+    [ "SafirNotRegistered", "a01941.html#ae166873f1f379f03adb5d796e8826f1c", null ],
+    [ "SafirNullMember", "a01941.html#a6a343bfc35d959bea8ec8a3f711546d7", null ],
+    [ "SafirPresentMember", "a01941.html#a836c055aef17860533a28bc650b9e536", null ],
+    [ "SafirRangeErr", "a01941.html#a2b69713fc110ef77505ad94205720b04", null ],
+    [ "SafirReqErr", "a01941.html#ac8933351887dc039a4efa23b169107d4", null ],
+    [ "SafirTimeout", "a01941.html#af3046adc78efa91f8b444f848ff990bb", null ],
+    [ "SetChanged", "a01941.html#af322195bbeb71ce7c1e56c368b6efa65", null ],
+    [ "WriteToBlob", "a01941.html#aaccb978b8e958ea907c4465594062d15", null ],
+    [ "ClassTypeId", "a01941.html#a1955c540779fc9b63acdcabbb30e3087", null ]
+];

@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Typesystem::StringContainer::IsNull" name="Safir::Dob::Typesystem::StringContainer::IsNull">
+<area shape="rect" id="node1" title="Is the container set to null?" alt="" coords="240,41,403,81"/>
+<area shape="rect" id="node2" href="$a01633.html#a5e525d3390343a853af675c69baebd72" title="Convert the string to a UTF8 encoded std::string." alt="" coords="5,5,192,45"/>
+<area shape="rect" id="node3" href="$a01633.html#a90929dd3965c3e3152abc589d85baeba" title="Calculate the length needed for this string in UTF8 encoding." alt="" coords="5,70,192,125"/>
+</map>

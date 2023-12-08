@@ -1,0 +1,31 @@
+digraph "/home/lars/safir/safir-sdk-core/include/Safir/Dob/Typesystem/ToolSupport/Serialization.h"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="/home/lars/safir/safir\l-sdk-core/include/Safir\l/Dob/Typesystem/ToolSupport\l/Serialization.h",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="string",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node1 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="vector",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node1 -> Node4 [color="steelblue1",style="solid"];
+  Node4 [label="sstream",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node1 -> Node5 [color="steelblue1",style="solid"];
+  Node5 [label="Safir/Dob/Typesystem\l/ToolSupport/ParseError.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a00125.html",tooltip=" "];
+  Node5 -> Node4 [color="steelblue1",style="solid"];
+  Node5 -> Node6 [color="steelblue1",style="solid"];
+  Node6 [label="Safir/Dob/Typesystem\l/ToolSupport/Internal\l/InternalExportDefs.h",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node1 -> Node7 [color="steelblue1",style="solid"];
+  Node7 [label="Safir/Dob/Typesystem\l/ToolSupport/Internal\l/BasicTypeOperations.h",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node1 -> Node8 [color="steelblue1",style="solid"];
+  Node8 [label="Safir/Dob/Typesystem\l/ToolSupport/Internal\l/BlobToXmlSerializer.h",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node1 -> Node9 [color="steelblue1",style="solid"];
+  Node9 [label="Safir/Dob/Typesystem\l/ToolSupport/Internal\l/BlobToJsonSerializer.h",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node1 -> Node10 [color="steelblue1",style="solid"];
+  Node10 [label="Safir/Dob/Typesystem\l/ToolSupport/Internal\l/XmlToBlobSerializer.h",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node1 -> Node11 [color="steelblue1",style="solid"];
+  Node11 [label="Safir/Dob/Typesystem\l/ToolSupport/Internal\l/JsonToBlobSerializer.h",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node1 -> Node12 [color="steelblue1",style="solid"];
+  Node12 [label="Safir/Dob/Typesystem\l/ToolSupport/Internal\l/RepositoryToStringHelper.h",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+}

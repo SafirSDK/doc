@@ -1,0 +1,11 @@
+digraph "Safir::Dob::Typesystem::EnumerationSequenceContainer::SetOrdinal"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="Safir::Dob::Typesystem\l::EnumerationSequenceContainer\l::SetOrdinal",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Update a specific value, using ordinal value."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::EnumerationSequenceContainer\l::SetVal",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01543.html#a8d86f0583e5d3ab2169e07647b2c1597",tooltip="Update a specific value."];
+}

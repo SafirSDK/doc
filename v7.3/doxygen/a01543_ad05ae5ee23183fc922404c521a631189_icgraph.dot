@@ -1,0 +1,11 @@
+digraph "Safir::Dob::Typesystem::EnumerationSequenceContainer::PushBackOrdinal"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="Safir::Dob::Typesystem\l::EnumerationSequenceContainer\l::PushBackOrdinal",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Insert a new ordinal value last in the sequence."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::EnumerationSequenceContainer\l::push_back",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$a01543.html#a7bb05b1fb4d7fbaa81607584bbe2b574",tooltip="Insert a new value last in the sequence."];
+}

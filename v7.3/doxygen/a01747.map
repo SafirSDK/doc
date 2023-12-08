@@ -1,0 +1,5 @@
+<map id="Safir::Dob::CreateRoutineParameters" name="Safir::Dob::CreateRoutineParameters">
+<area shape="rect" id="node1" title="Contains parameters to be used as values in CreateRoutines." alt="" coords="9,167,182,207"/>
+<area shape="rect" id="node2" href="$a01873.html" title="This class is intended to be used as baseclass for classes that only contains parameters." alt="" coords="5,93,185,119"/>
+<area shape="rect" id="node3" href="$a01505.html" title="The base class for all DOB objects." alt="" coords="15,5,175,45"/>
+</map>

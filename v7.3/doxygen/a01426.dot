@@ -1,0 +1,12 @@
+digraph "Safir::Dob::Typesystem::DictionaryContainer&lt; KeyT, ValT &gt;"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="Safir::Dob::Typesystem\l::DictionaryContainer\l\< KeyT, ValT \>",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Container class for dictionaries of key value pairs."];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="Safir::Dob::Typesystem\l::DictionaryContainerBase",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01423.html",tooltip="Base class for all dictionary containers."];
+  Node3 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="Safir::Dob::Typesystem\l::ContainerBase",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$a01399.html",tooltip="Base class for all Containers."];
+}
