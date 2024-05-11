@@ -1,0 +1,95 @@
+<map id="Safir::Dob::Typesystem::Object" name="Safir::Dob::Typesystem::Object">
+<area shape="rect" id="Node000001" title="The base class for all DOB objects." alt="" coords="5,1037,165,1080"/>
+<area shape="rect" id="Node000002" href="$a01772.html" title="The baseclass for all entities." alt="" coords="241,115,364,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,1022,138,785,210,459,259,271,294,141,300,143,264,272,215,461,143,786,96,1023"/>
+<area shape="rect" id="Node000008" href="$a01816.html" title="The baseclass for all items." alt="" coords="245,472,360,499"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="97,1022,293,498,298,500,102,1024"/>
+<area shape="rect" id="Node000018" href="$a01840.html" title="The baseclass for all messages." alt="" coords="232,881,373,908"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="125,1026,281,906,285,910,128,1030"/>
+<area shape="rect" id="Node000020" href="$a01880.html" title="This class is intended to be used as baseclass for classes that only contains parameters." alt="" coords="213,1045,392,1072"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="180,1056,212,1056,212,1061,180,1061"/>
+<area shape="rect" id="Node000030" href="$a01940.html" title="The baseclass for all responses." alt="" coords="229,1315,376,1341"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="115,1090,292,1313,288,1316,111,1094"/>
+<area shape="rect" id="Node000039" href="$a01952.html" title="The baseclass for all services." alt="" coords="236,1541,369,1568"/>
+<area shape="poly" id="edge38_Node000001_Node000039" title=" " alt="" coords="104,1093,215,1352,297,1540,293,1542,210,1354,99,1095"/>
+<area shape="rect" id="Node000047" href="$a01956.html" title="This class is intended to be used as baseclass for classes that in the future may be realized as low ..." alt="" coords="241,1592,364,1619"/>
+<area shape="poly" id="edge46_Node000001_Node000047" title=" " alt="" coords="93,1095,108,1206,133,1351,150,1423,169,1489,191,1542,215,1578,227,1588,241,1595,239,1599,224,1592,211,1582,186,1544,164,1490,145,1424,128,1352,103,1206,88,1096"/>
+<area shape="rect" id="Node000003" href="$a01716.html" title="Information about the this node." alt="" coords="480,5,624,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,103,381,71,439,42,479,29,480,34,441,46,384,76,335,108"/>
+<area shape="rect" id="Node000004" href="$a01848.html" title="Node information for all nodes currently in the system." alt="" coords="482,56,623,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="374,108,439,92,489,81,490,86,441,97,375,113"/>
+<area shape="rect" id="Node000006" href="$a01916.html" title="This class has no summary." alt="" coords="465,107,640,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="379,125,464,125,464,131,379,131"/>
+<area shape="rect" id="Node000007" href="$a01920.html" title="Displays one entity per process that is connected to the DOB." alt="" coords="473,173,631,200"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="375,143,441,159,490,170,489,175,439,164,374,148"/>
+<area shape="rect" id="Node000005" href="$a01844.html" title="Node information for all nodes currently in the system." alt="" coords="716,56,905,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="638,67,716,67,716,72,638,72"/>
+<area shape="rect" id="Node000009" href="$a01688.html" title="Item containing statistics from one single connection." alt="" coords="466,224,638,267"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="312,456,331,416,358,368,394,319,438,277,464,262,467,267,442,281,398,322,363,371,335,419,317,459"/>
+<area shape="rect" id="Node000010" href="$a01732.html" title="Container for information about a Dob connection." alt="" coords="464,291,640,317"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="317,457,366,391,400,356,439,327,463,316,466,320,441,332,403,360,370,395,322,460"/>
+<area shape="rect" id="Node000011" href="$a01864.html" title="Defines a number of characteristics that control how nodes of a certain type communicates." alt="" coords="479,341,626,368"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="327,459,376,417,406,396,439,378,477,364,479,369,441,382,409,400,379,421,330,463"/>
+<area shape="rect" id="Node000012" href="$a01928.html" title="Representation of one queue capacity parameter rule." alt="" coords="476,392,629,419"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="347,463,439,428,482,417,483,422,441,433,349,468"/>
+<area shape="rect" id="Node000013" href="$a01944.html" title="Contains information about one of the errors found when handling a request." alt="" coords="454,443,651,469"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="375,474,453,465,454,470,375,480"/>
+<area shape="rect" id="Node000014" href="$a02004.html" title="Represents a class type in the Dob." alt="" coords="452,493,652,536"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="375,491,452,500,451,506,375,496"/>
+<area shape="rect" id="Node000015" href="$a02008.html" title="Represents an enumeration type in the Dob." alt="" coords="452,560,652,603"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="345,503,441,546,474,557,472,562,439,550,343,508"/>
+<area shape="rect" id="Node000016" href="$a02012.html" title="Represents a class member in a Dob type." alt="" coords="452,627,652,669"/>
+<area shape="poly" id="edge15_Node000008_Node000016" title=" " alt="" coords="326,509,375,561,407,589,441,612,465,624,463,629,439,617,404,593,372,565,322,513"/>
+<area shape="rect" id="Node000017" href="$a02016.html" title="Representation of the Dob typesystem." alt="" coords="452,693,652,736"/>
+<area shape="poly" id="edge16_Node000008_Node000017" title=" " alt="" coords="318,512,337,550,364,595,399,640,442,679,461,691,458,695,438,683,395,644,360,598,332,552,313,514"/>
+<area shape="rect" id="Node000019" href="$a01676.html" title="Backdoor command messages." alt="" coords="480,760,624,803"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="335,870,383,841,439,812,479,798,480,803,441,817,385,845,338,875"/>
+<area shape="rect" id="Node000021" href="$a01712.html" title="This class has no summary." alt="" coords="466,827,639,853"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="318,1031,384,933,417,887,438,863,464,850,466,855,442,867,421,891,388,936,323,1034"/>
+<area shape="rect" id="Node000022" href="$a01752.html" title="Contains parameters to be used as values in CreateRoutines." alt="" coords="466,877,638,920"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="322,1032,372,980,404,953,439,930,464,917,467,922,441,934,407,957,375,984,326,1036"/>
+<area shape="rect" id="Node000023" href="$a01852.html" title="Contains paramaters for all nodes in the system." alt="" coords="459,944,645,971"/>
+<area shape="poly" id="edge22_Node000020_Node000023" title=" " alt="" coords="335,1034,383,1006,439,980,476,969,477,974,441,985,386,1011,338,1039"/>
+<area shape="rect" id="Node000024" href="$a01892.html" title="This class has no summary." alt="" coords="440,995,664,1021"/>
+<area shape="poly" id="edge23_Node000020_Node000024" title=" " alt="" coords="386,1039,482,1019,483,1025,387,1044"/>
+<area shape="rect" id="Node000025" href="$a01924.html" title="Contains the parametrization of queue lengths used by a connection." alt="" coords="456,1045,649,1072"/>
+<area shape="poly" id="edge24_Node000020_Node000025" title=" " alt="" coords="408,1056,455,1056,455,1061,408,1061"/>
+<area shape="rect" id="Node000026" href="$a01948.html" title="Declares error codes that are of general interest." alt="" coords="456,1096,648,1139"/>
+<area shape="poly" id="edge25_Node000020_Node000026" title=" " alt="" coords="377,1073,459,1093,458,1098,376,1079"/>
+<area shape="rect" id="Node000027" href="$a01964.html" title="Defines the settings for this particular node." alt="" coords="447,1163,658,1189"/>
+<area shape="poly" id="edge26_Node000020_Node000027" title=" " alt="" coords="333,1080,382,1115,441,1148,474,1160,472,1165,439,1153,379,1120,330,1084"/>
+<area shape="rect" id="Node000028" href="$a01968.html" title="Defines parameters for the time provider library." alt="" coords="453,1213,652,1240"/>
+<area shape="poly" id="edge27_Node000020_Node000028" title=" " alt="" coords="323,1083,372,1143,405,1173,441,1199,467,1210,465,1215,439,1204,401,1178,368,1146,319,1087"/>
+<area shape="rect" id="Node000029" href="$a02000.html" title="Sent from web api to client." alt="" coords="454,1264,650,1291"/>
+<area shape="poly" id="edge28_Node000020_Node000029" title=" " alt="" coords="318,1085,336,1123,364,1168,399,1213,441,1250,464,1261,461,1266,439,1254,395,1216,359,1171,332,1126,313,1088"/>
+<area shape="rect" id="Node000031" href="$a01784.html" title="The baseclass for all error responses." alt="" coords="465,1315,640,1341"/>
+<area shape="poly" id="edge30_Node000030_Node000031" title=" " alt="" coords="392,1325,464,1325,464,1331,392,1331"/>
+<area shape="rect" id="Node000033" href="$a01960.html" title="The baseclass for all success responses." alt="" coords="453,1365,651,1392"/>
+<area shape="poly" id="edge32_Node000030_Node000033" title=" " alt="" coords="387,1342,483,1362,482,1367,386,1348"/>
+<area shape="rect" id="Node000032" href="$a01780.html" title="Defines an array of errors, typically used to report errors for individual members in the request." alt="" coords="712,1240,909,1267"/>
+<area shape="poly" id="edge31_Node000031_Node000032" title=" " alt="" coords="640,1308,663,1300,687,1288,711,1276,747,1265,749,1270,713,1281,690,1293,665,1305,641,1313"/>
+<area shape="rect" id="Node000034" href="$a01684.html" title="Response to a Safir.Control.GetConnectionStatisticsAllNodes service request." alt="" coords="716,1291,905,1333"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="631,1359,664,1351,735,1331,736,1336,665,1356,632,1364"/>
+<area shape="rect" id="Node000035" href="$a01692.html" title="Response to a Safir.Control.GetConnectionStatistics service request." alt="" coords="724,1357,897,1400"/>
+<area shape="poly" id="edge34_Node000033_Node000035" title=" " alt="" coords="667,1376,724,1376,724,1381,667,1381"/>
+<area shape="rect" id="Node000036" href="$a01776.html" title="Standard response for handlers registered as HandlerDecidesInstanceId, containing the instance that t..." alt="" coords="714,1424,907,1451"/>
+<area shape="poly" id="edge35_Node000033_Node000036" title=" " alt="" coords="630,1393,665,1401,749,1421,748,1426,664,1407,629,1399"/>
+<area shape="rect" id="Node000037" href="$a01972.html" title="Brief response for a ForEach service request." alt="" coords="732,1475,889,1517"/>
+<area shape="poly" id="edge36_Node000033_Node000037" title=" " alt="" coords="656,1396,666,1402,682,1416,691,1431,699,1446,714,1461,733,1472,731,1476,711,1465,695,1449,686,1434,678,1420,663,1406,653,1401"/>
+<area shape="rect" id="Node000038" href="$a01984.html" title="Full response for a ForEach service request." alt="" coords="957,1475,1114,1517"/>
+<area shape="poly" id="edge37_Node000037_Node000038" title=" " alt="" coords="904,1493,956,1493,956,1499,904,1499"/>
+<area shape="rect" id="Node000040" href="$a01680.html" title="Command to stop, shutdown or reboot a specific node or a whole safir system." alt="" coords="469,1416,635,1443"/>
+<area shape="poly" id="edge39_Node000039_Node000040" title=" " alt="" coords="328,1528,377,1489,439,1452,471,1441,472,1446,441,1457,380,1493,331,1533"/>
+<area shape="rect" id="Node000041" href="$a01696.html" title="Collect connection statistics from a singel node." alt="" coords="456,1467,649,1509"/>
+<area shape="poly" id="edge40_Node000039_Node000041" title=" " alt="" coords="369,1534,469,1507,470,1513,371,1539"/>
+<area shape="rect" id="Node000042" href="$a01700.html" title="Collect connection statistics from all nodes in the system." alt="" coords="456,1533,649,1576"/>
+<area shape="poly" id="edge41_Node000039_Node000042" title=" " alt="" coords="384,1552,455,1552,455,1557,384,1557"/>
+<area shape="rect" id="Node000043" href="$a01904.html" title="This service is called by the persistency handler when the persistent data has been fed to the Dob." alt="" coords="465,1600,640,1643"/>
+<area shape="poly" id="edge42_Node000039_Node000043" title=" " alt="" coords="371,1570,470,1597,469,1602,369,1575"/>
+<area shape="rect" id="Node000044" href="$a01976.html" title="Definition of deleting all instances of a given type." alt="" coords="474,1667,631,1709"/>
+<area shape="poly" id="edge43_Node000039_Node000044" title=" " alt="" coords="384,1572,394,1578,411,1597,419,1616,426,1635,442,1653,474,1670,472,1675,438,1657,421,1638,414,1618,406,1600,390,1582,381,1576"/>
+<area shape="rect" id="Node000045" href="$a01980.html" title="Definition of deleting multiple objects using ForEach service request." alt="" coords="474,1733,631,1776"/>
+<area shape="poly" id="edge44_Node000039_Node000045" title=" " alt="" coords="384,1570,394,1578,408,1596,416,1614,419,1650,422,1686,429,1703,442,1719,457,1731,474,1739,472,1744,454,1735,438,1723,424,1705,417,1687,413,1651,410,1616,404,1599,390,1582,381,1574"/>
+<area shape="rect" id="Node000046" href="$a01996.html" title="Definition of updating multiple objects using ForEach service request." alt="" coords="474,1800,631,1843"/>
+<area shape="poly" id="edge45_Node000039_Node000046" title=" " alt="" coords="384,1570,394,1578,413,1605,421,1631,421,1658,419,1684,416,1710,417,1736,424,1761,442,1786,457,1798,474,1807,472,1812,454,1803,438,1790,420,1763,412,1736,411,1710,414,1684,416,1658,415,1632,408,1607,390,1582,381,1574"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Safir::Dob::Typesystem::ObjectContainerImpl&lt; T &gt;" name="Safir::Dob::Typesystem::ObjectContainerImpl&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Template class for all containers of automatically generated DOB objects." alt="" coords="423,141,603,184"/>
+<area shape="rect" id="Node000004" href="$a01516.html" title=" " alt="" coords="811,5,982,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="578,133,626,115,721,85,810,61,811,66,722,91,628,120,580,138"/>
+<area shape="rect" id="Node000005" href="$a01516.html" title=" " alt="" coords="805,104,987,147"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="618,150,805,132,805,137,619,155"/>
+<area shape="rect" id="Node000006" href="$a01516.html" title=" " alt="" coords="817,171,976,229"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="619,170,816,190,816,195,618,176"/>
+<area shape="rect" id="Node000007" href="$a01516.html" title=" " alt="" coords="817,253,976,312"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="580,188,628,205,726,236,817,261,816,266,724,241,626,211,578,193"/>
+<area shape="rect" id="Node000002" href="$a01512.html" title="Base class for all object containers." alt="" coords="214,141,373,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,160,422,160,422,165,389,165"/>
+<area shape="rect" id="Node000003" href="$a01408.html" title="Base class for all Containers." alt="" coords="5,141,165,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,160,213,160,213,165,180,165"/>
+</map>
