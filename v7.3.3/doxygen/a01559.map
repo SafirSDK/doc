@@ -1,0 +1,20 @@
+<map id="Safir::Dob::Typesystem::GenericObjectSequenceContainerBase" name="Safir::Dob::Typesystem::GenericObjectSequenceContainerBase">
+<area shape="rect" id="Node000001" title="Base class for all object sequences." alt="" coords="5,237,262,280"/>
+<area shape="rect" id="Node000002" href="$a01564.html" title=" " alt="" coords="825,104,1052,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,228,266,191,365,150,477,112,593,85,651,77,697,74,743,77,802,85,862,101,861,106,801,91,743,82,697,80,652,82,594,91,478,117,367,155,268,196,191,233"/>
+<area shape="rect" id="Node000003" href="$a01564.html" title=" " alt="" coords="825,5,1052,64"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,224,226,166,267,136,310,112,375,86,443,66,512,51,582,40,713,28,825,27,825,32,713,34,582,45,513,56,444,71,377,91,312,117,270,141,230,170,166,228"/>
+<area shape="rect" id="Node000004" href="$a01564.html" title=" " alt="" coords="825,277,1052,336"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,283,331,313,477,342,557,352,639,357,721,356,801,348,858,334,859,339,802,353,721,362,638,362,556,357,476,347,330,319,215,288"/>
+<area shape="rect" id="Node000005" href="$a01564.html" title=" " alt="" coords="825,369,1052,428"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="176,287,238,326,274,345,312,359,378,376,447,389,585,404,715,408,825,405,825,410,715,413,585,409,446,394,377,381,310,364,272,350,236,331,174,292"/>
+<area shape="rect" id="Node000006" href="$a01564.html" title=" " alt="" coords="825,189,1052,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="277,275,391,284,523,289,663,285,733,278,801,268,837,259,872,246,874,251,839,264,802,273,733,284,663,290,523,294,391,290,277,280"/>
+<area shape="rect" id="Node000007" href="$a01564.html" title=" " alt="" coords="311,192,569,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="276,235,310,230,311,235,277,240"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="584,188,825,149,825,154,585,193"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="491,182,592,134,711,92,824,60,825,65,713,97,594,138,494,187"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="573,235,825,283,824,288,572,241"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="488,241,538,270,594,298,712,340,826,371,824,376,711,345,592,302,536,275,486,245"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="585,212,825,215,825,220,585,218"/>
+</map>
