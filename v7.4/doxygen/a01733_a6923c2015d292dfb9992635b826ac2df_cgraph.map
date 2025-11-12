@@ -1,0 +1,11 @@
+<map id="Safir::Control::Operation::EnumerationContainer::SetVal" name="Safir::Control::Operation::EnumerationContainer::SetVal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,168,93"/>
+<area shape="rect" id="Node000002" href="$a01729.html#acdceb49913b26dba48e3ff02e0baff63" title=" " alt="" coords="216,5,378,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,47,200,41,201,46,169,52"/>
+<area shape="rect" id="Node000003" href="$a01733.html#a2345306cde891b4ffe7003f9743820f8" title="Set the ordinal value of the enumeration container." alt="" coords="216,72,378,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,76,201,82,200,87,168,81"/>
+<area shape="rect" id="Node000004" href="$a01729.html#a223647d591ec90ec12401e20d3f85bbd" title=" " alt="" coords="426,47,588,89"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="378,86,410,81,411,86,379,91"/>
+<area shape="rect" id="Node000005" href="$a01729.html#ab33139d3a81adfff7f4df2da4efd0fb1" title=" " alt="" coords="426,113,588,156"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="379,112,411,117,410,122,378,117"/>
+</map>

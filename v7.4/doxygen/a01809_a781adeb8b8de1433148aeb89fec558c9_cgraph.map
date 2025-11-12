@@ -1,0 +1,7 @@
+<map id="Safir::Dob::ErrorResponse::CreateErrorResponse" name="Safir::Dob::ErrorResponse::CreateErrorResponse">
+<area shape="rect" id="Node000001" title="Create an ErrorListResponse with one ResponseErrorInfo." alt="" coords="5,39,181,81"/>
+<area shape="rect" id="Node000002" href="$a01809.html#a163d873f1b91484e8290bb13a4b38ddd" title="Extra information when applicable." alt="" coords="229,5,404,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,44,213,39,214,45,181,50"/>
+<area shape="rect" id="Node000003" href="$a01809.html#a9da3882055434df751b79f79bf1e2743" title="The error code." alt="" coords="229,72,404,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,70,214,75,213,81,181,76"/>
+</map>

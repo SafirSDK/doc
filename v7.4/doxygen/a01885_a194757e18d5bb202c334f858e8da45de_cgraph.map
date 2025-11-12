@@ -1,0 +1,9 @@
+<map id="Safir::Dob::NodeState::EnumerationContainer::GetVal" name="Safir::Dob::NodeState::EnumerationContainer::GetVal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,164,93"/>
+<area shape="rect" id="Node000002" href="$a01881.html#a7173b847689767be664637755baaa643" title=" " alt="" coords="216,5,366,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,47,200,40,201,46,164,52"/>
+<area shape="rect" id="Node000003" href="$a01885.html#a2ae2a3525d38c2dd52e20060513ba910" title="Get the ordinal value of the enumeration container." alt="" coords="212,72,370,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,76,197,82,196,87,164,81"/>
+<area shape="rect" id="Node000004" href="$a01469.html#a3b484306b2167875e17ad63155788ea9" title="Is the container set to null?" alt="" coords="418,72,606,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="370,99,402,99,402,104,370,104"/>
+</map>

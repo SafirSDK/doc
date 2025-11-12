@@ -1,0 +1,7 @@
+<map id="Safir::Dob::Typesystem::LibraryExceptions::Throw" name="Safir::Dob::Typesystem::LibraryExceptions::Throw">
+<area shape="rect" id="Node000001" title="Throw a specific exception." alt="" coords="5,39,183,81"/>
+<area shape="rect" id="Node000002" href="$a01517.html#a2921ceaa9232bf1844b20941a2a47430" title="Get the instance of the singleton." alt="" coords="231,5,422,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,45,215,40,215,45,183,50"/>
+<area shape="rect" id="Node000003" href="$a01517.html#a0ee62110efb1fbf773611590b4ae6029" title="Set the current exception." alt="" coords="246,72,407,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,70,231,77,230,82,182,75"/>
+</map>

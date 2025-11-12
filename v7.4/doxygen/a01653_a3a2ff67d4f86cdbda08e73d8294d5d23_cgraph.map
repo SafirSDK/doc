@@ -1,0 +1,8 @@
+<map id="Safir::Dob::Typesystem::StringContainer::Copy" name="Safir::Dob::Typesystem::StringContainer::Copy">
+<area shape="rect" id="Node000001" title="Virtual assignment." alt="" coords="5,5,165,48"/>
+<area shape="rect" id="Node000002" href="$a01421.html#a90a65efa4915d9a6b2930a90b0189fdd" title="Default Constructor." alt="" coords="478,5,687,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,21,213,20,430,20,463,21,463,26,430,25,213,25,165,26"/>
+<area shape="rect" id="Node000003" href="$a01653.html#aac60b9d07ca09ef99992554dd783efcb" title="Default constructor." alt="" coords="213,35,430,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,34,198,38,197,43,164,39"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="430,41,462,37,463,43,431,46"/>
+</map>

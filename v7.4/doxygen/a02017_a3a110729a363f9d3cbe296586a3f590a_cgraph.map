@@ -1,0 +1,9 @@
+<map id="Safir::Utilities::ForEach::ResponseType::EnumerationContainer::GetVal" name="Safir::Utilities::ForEach::ResponseType::EnumerationContainer::GetVal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,259,93"/>
+<area shape="rect" id="Node000002" href="$a02013.html#ac1cb0db12d0eb63a7ff0eca890b340b6" title=" " alt="" coords="314,5,552,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,46,299,41,299,46,259,51"/>
+<area shape="rect" id="Node000003" href="$a02017.html#a91b811f9ca1cd7b66180cdac48e22eed" title="Get the ordinal value of the enumeration container." alt="" coords="307,72,560,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,77,292,81,291,86,259,82"/>
+<area shape="rect" id="Node000004" href="$a01469.html#a3b484306b2167875e17ad63155788ea9" title="Is the container set to null?" alt="" coords="608,72,796,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="560,99,592,99,592,104,560,104"/>
+</map>

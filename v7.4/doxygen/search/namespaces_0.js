@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['safir_0',['Safir',['../a00412.html',1,'']]],
+  ['safir_3a_3aapplication_1',['Application',['../a00413.html',1,'Safir']]],
+  ['safir_3a_3acontrol_2',['Control',['../a00430.html',1,'Safir']]],
+  ['safir_3a_3adob_3',['Dob',['../a00414.html',1,'Safir']]],
+  ['safir_3a_3adob_3a_3ainternal_4',['Internal',['../a00415.html',1,'Safir::Dob']]],
+  ['safir_3a_3adob_3a_3atypesystem_5',['Typesystem',['../a00416.html',1,'Safir::Dob']]],
+  ['safir_3a_3adob_3a_3atypesystem_3a_3ainternal_6',['Internal',['../a00419.html',1,'Safir::Dob::Typesystem']]],
+  ['safir_3a_3adob_3a_3atypesystem_3a_3amembers_7',['Members',['../a00420.html',1,'Safir::Dob::Typesystem']]],
+  ['safir_3a_3adob_3a_3atypesystem_3a_3aoperations_8',['Operations',['../a00421.html',1,'Safir::Dob::Typesystem']]],
+  ['safir_3a_3adob_3a_3atypesystem_3a_3aparameters_9',['Parameters',['../a00422.html',1,'Safir::Dob::Typesystem']]],
+  ['safir_3a_3adob_3a_3atypesystem_3a_3asi32_10',['Si32',['../a00417.html',1,'Safir::Dob::Typesystem']]],
+  ['safir_3a_3adob_3a_3atypesystem_3a_3asi64_11',['Si64',['../a00418.html',1,'Safir::Dob::Typesystem']]],
+  ['safir_3a_3adob_3a_3atypesystem_3a_3atoolsupport_12',['ToolSupport',['../a00423.html',1,'Safir::Dob::Typesystem']]],
+  ['safir_3a_3adob_3a_3atypesystem_3a_3atoolsupport_3a_3atypeutilities_13',['TypeUtilities',['../a00424.html',1,'Safir::Dob::Typesystem::ToolSupport']]],
+  ['safir_3a_3adob_3a_3atypesystem_3a_3autilities_14',['Utilities',['../a00425.html',1,'Safir::Dob::Typesystem']]],
+  ['safir_3a_3alogging_15',['Logging',['../a00426.html',1,'Safir']]],
+  ['safir_3a_3aswreports_16',['SwReports',['../a00427.html',1,'Safir']]],
+  ['safir_3a_3atime_17',['Time',['../a00428.html',1,'Safir']]],
+  ['safir_3a_3autilities_18',['Utilities',['../a00429.html',1,'Safir']]],
+  ['safir_3a_3autilities_3a_3aforeach_19',['ForEach',['../a00431.html',1,'Safir::Utilities']]],
+  ['safir_3a_3awebsocket_20',['Websocket',['../a00432.html',1,'Safir']]],
+  ['safir_3a_3awebsocket_3a_3atypesystem_21',['Typesystem',['../a00433.html',1,'Safir::Websocket']]]
+];

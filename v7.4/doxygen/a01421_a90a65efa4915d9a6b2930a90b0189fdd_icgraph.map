@@ -1,0 +1,87 @@
+<map id="Safir::Dob::Typesystem::ContainerBase::ContainerBase" name="Safir::Dob::Typesystem::ContainerBase::ContainerBase">
+<area shape="rect" id="Node000001" title="Default Constructor." alt="" coords="938,823,1148,865"/>
+<area shape="rect" id="Node000002" href="$a01657.html#a0f6ea00a34d7fa470968bc7d60a16bf2" title="Default constructor." alt="" coords="640,15,864,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1036,807,1022,653,993,439,973,329,949,229,921,146,905,114,888,90,870,73,848,60,850,56,873,69,892,86,910,112,926,144,954,228,979,328,999,438,1027,653,1042,807"/>
+<area shape="rect" id="Node000003" href="$a01657.html#a0fab54da119b174d265da20e1c1789ee" title="Virtual assignment." alt="" coords="337,5,498,48"/>
+<area shape="poly" id="edge33_Node000001_Node000003" title=" " alt="" coords="1036,807,1020,665,991,470,971,371,947,281,920,208,904,179,889,158,870,146,835,133,732,102,498,46,500,41,733,97,837,128,872,142,892,154,909,176,925,205,952,280,976,370,996,469,1026,664,1041,807"/>
+<area shape="rect" id="Node000004" href="$a01421.html#a28969327fe3474b640dc8ddbb5ef2782" title="Copy constructor." alt="" coords="648,168,857,211"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1035,808,1018,677,988,502,968,414,944,333,918,268,904,243,888,225,873,213,856,204,858,199,876,208,892,221,908,240,923,266,949,332,973,412,993,501,1023,676,1040,807"/>
+<area shape="rect" id="Node000005" href="$a01449.html#a2627333573482e0e2d74c3e92fb76236" title="Default Constructor." alt="" coords="665,235,839,293"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1039,807,1034,710,1026,648,1013,580,994,509,968,440,933,375,888,317,866,298,839,285,841,280,868,293,892,313,937,372,972,438,999,508,1018,578,1031,647,1039,710,1045,807"/>
+<area shape="rect" id="Node000011" href="$a01469.html#a97b918a6678c7d7d64d54eb13712b28a" title="Default Constructor." alt="" coords="658,327,846,385"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1036,808,1025,728,1000,623,981,567,956,512,926,460,888,414,868,397,845,384,848,379,872,393,892,410,930,457,961,510,986,565,1005,621,1030,727,1041,807"/>
+<area shape="rect" id="Node000013" href="$a01469.html#a1d8d2e9e52f2023b6abf8f04e1132b18" title="Virtual assignment." alt="" coords="304,403,532,445"/>
+<area shape="poly" id="edge35_Node000001_Node000013" title=" " alt="" coords="1037,807,1026,732,1002,638,983,589,958,542,927,500,889,465,863,452,828,441,736,428,631,423,532,423,532,417,632,417,736,423,829,436,865,447,892,460,931,497,963,539,988,587,1007,636,1032,731,1042,807"/>
+<area shape="rect" id="Node000015" href="$a01565.html#a669b9b0744db774705ed7037bb0f8f7f" title="Default Constructor." alt="" coords="614,475,890,533"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1029,808,1010,754,981,687,941,619,916,587,889,559,854,536,857,532,892,555,920,584,945,616,986,685,1015,752,1034,807"/>
+<area shape="rect" id="Node000018" href="$a01529.html#abc5fe23aedb525d8f000252ea5d0509d" title="Default constructor." alt="" coords="672,569,832,628"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="1022,810,1000,771,970,726,933,681,889,642,861,627,831,616,833,611,864,622,892,638,937,677,974,722,1005,768,1027,808"/>
+<area shape="rect" id="Node000025" href="$a01553.html#a12b93f6d8d6e30c53550255c88ca3f74" title=" " alt="" coords="624,719,880,777"/>
+<area shape="poly" id="edge27_Node000001_Node000025" title=" " alt="" coords="961,820,843,781,844,775,963,815"/>
+<area shape="rect" id="Node000026" href="$a01553.html#aff3f1e34c6737fd54d3c4dbd81dd92a9" title=" " alt="" coords="331,835,504,893"/>
+<area shape="poly" id="edge36_Node000001_Node000026" title=" " alt="" coords="923,843,890,843,752,839,614,843,505,854,505,848,614,837,752,834,890,837,923,838"/>
+<area shape="rect" id="Node000027" href="$a01653.html#aac60b9d07ca09ef99992554dd783efcb" title="Default constructor." alt="" coords="644,852,861,895"/>
+<area shape="poly" id="edge29_Node000001_Node000027" title=" " alt="" coords="923,859,861,865,861,860,923,853"/>
+<area shape="rect" id="Node000028" href="$a01653.html#a3a2ff67d4f86cdbda08e73d8294d5d23" title="Virtual assignment." alt="" coords="338,917,498,960"/>
+<area shape="poly" id="edge37_Node000001_Node000028" title=" " alt="" coords="987,875,941,894,891,909,786,928,679,939,580,943,498,944,498,938,580,938,679,933,785,923,890,904,939,889,985,870"/>
+<area shape="rect" id="Node000029" href="$a01649.html#a201036dd7004440d6829579f0b9286ef" title=" " alt="" coords="672,969,832,1028"/>
+<area shape="poly" id="edge31_Node000001_Node000029" title=" " alt="" coords="1006,877,953,916,892,953,834,978,831,973,889,948,950,911,1002,873"/>
+<area shape="rect" id="Node000030" href="$a01649.html#a98658e354dc6706ad7dae9ac2c4abd4c" title=" " alt="" coords="338,1205,498,1264"/>
+<area shape="poly" id="edge38_Node000001_Node000030" title=" " alt="" coords="1041,881,1025,1008,996,1177,976,1262,952,1338,924,1399,909,1423,892,1439,857,1463,823,1478,790,1486,758,1486,725,1481,690,1471,613,1440,582,1424,554,1404,503,1357,463,1308,434,1266,439,1263,467,1305,507,1354,557,1400,585,1419,615,1435,692,1466,726,1476,758,1481,790,1480,821,1473,854,1459,889,1435,905,1419,920,1397,947,1336,971,1261,991,1176,1020,1007,1035,880"/>
+<area shape="rect" id="Node000031" href="$a01421.html#a73ae69ffda7fa99f78eb73a85df8defa" title="Virtual assignment." alt="" coords="672,1052,832,1095"/>
+<area shape="poly" id="edge34_Node000001_Node000031" title=" " alt="" coords="1027,880,1004,918,974,962,936,1006,892,1042,863,1057,833,1066,832,1061,861,1052,889,1038,933,1002,970,959,1000,916,1022,877"/>
+<area shape="rect" id="Node000032" href="$a01529.html#ab44170487b12303855be13050b99e36b" title="Get a const reference to a member container from an object." alt="" coords="672,1119,832,1177"/>
+<area shape="poly" id="edge39_Node000001_Node000032" title=" " alt="" coords="1033,881,1014,932,984,993,944,1055,919,1084,892,1109,864,1126,833,1138,831,1133,862,1121,889,1105,915,1080,939,1052,979,991,1009,930,1028,879"/>
+<area shape="rect" id="Node000033" href="$a01529.html#a442510fb4ad39c9b831bcc1485efe5af" title="Get a reference to a member container from an object." alt="" coords="672,1201,832,1260"/>
+<area shape="poly" id="edge40_Node000001_Node000033" title=" " alt="" coords="1039,881,1024,948,996,1031,977,1075,953,1117,925,1157,892,1191,864,1210,833,1222,831,1217,862,1205,889,1187,921,1153,949,1114,972,1072,991,1029,1018,946,1033,880"/>
+<area shape="rect" id="Node000034" href="$a01449.html#ae0d78ff09e4b7fabc0655b3caf47950c" title="Const version of GetValueContainerAt()" alt="" coords="665,1284,839,1343"/>
+<area shape="poly" id="edge41_Node000001_Node000034" title=" " alt="" coords="1042,881,1032,962,1008,1067,988,1123,963,1178,931,1229,892,1274,868,1291,841,1303,839,1298,865,1287,889,1270,927,1226,958,1175,983,1121,1003,1066,1027,961,1037,880"/>
+<area shape="rect" id="Node000035" href="$a01449.html#a68b42ca3df7abe963f7e93c3f7a9a4dc" title="Get the container of the value at a particular position in the dictionary." alt="" coords="665,1367,839,1425"/>
+<area shape="poly" id="edge42_Node000001_Node000035" title=" " alt="" coords="1045,881,1039,975,1031,1036,1018,1103,999,1171,973,1238,937,1301,892,1357,868,1374,841,1386,839,1381,866,1370,888,1353,933,1298,968,1236,994,1169,1013,1101,1026,1035,1034,975,1039,880"/>
+<area shape="rect" id="Node000036" href="$a01449.html#a9e0fcc324a470e366ceee0532230e3d6" title="Adds a new key to the dictionary and return the value container." alt="" coords="331,1517,505,1576"/>
+<area shape="poly" id="edge43_Node000001_Node000036" title=" " alt="" coords="1041,881,1026,1017,997,1201,977,1294,953,1378,925,1446,909,1472,892,1491,872,1501,837,1510,736,1524,506,1544,505,1539,735,1519,836,1504,870,1496,889,1487,905,1469,920,1443,948,1376,972,1293,992,1200,1021,1017,1036,881"/>
+<area shape="rect" id="Node000037" href="$a01449.html#a49a461ae9d1cd31d1af172e73cbbefdd" title=" " alt="" coords="665,1551,839,1609"/>
+<area shape="poly" id="edge44_Node000001_Node000037" title=" " alt="" coords="1041,881,1025,1023,995,1218,975,1317,951,1407,924,1482,909,1511,892,1534,869,1553,841,1567,838,1562,866,1549,888,1530,904,1508,919,1480,946,1406,970,1316,990,1217,1020,1023,1036,881"/>
+<area shape="rect" id="Node000038" href="$a01421.html#ae61be338f36196155b670e05ce175aee" title="Copy assignment operator." alt="" coords="663,652,841,695"/>
+<area shape="poly" id="edge46_Node000001_Node000038" title=" " alt="" coords="1012,813,959,759,925,732,889,709,841,690,843,685,892,704,928,728,962,755,1016,809"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="625,35,499,32,499,26,625,30"/>
+<area shape="rect" id="Node000006" href="$a01453.html#a0176c6935866a937d6ae74705ca48937" title="Default Constructor." alt="" coords="338,155,498,213"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="649,242,497,206,498,200,650,237"/>
+<area shape="rect" id="Node000010" href="$a01449.html#ab2089417f3939294dbe96596cc71ad89" title=" " alt="" coords="331,72,505,131"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="649,245,612,225,595,204,588,183,580,164,564,145,536,128,504,117,506,112,538,123,568,141,585,161,593,182,600,202,616,221,652,241"/>
+<area shape="rect" id="Node000007" href="$a01453.html#adf307b5e8a5c96b8e08da40c9df6c85b" title="Like operator[], but throws std::out_of_range if key is not in dictionary." alt="" coords="32,163,195,205"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="322,187,195,187,195,181,322,181"/>
+<area shape="rect" id="Node000008" href="$a01453.html#ad11235de640d86aaf0d8ca3e5c0135e6" title="Copy &#45; Copy all the members from &quot;that&quot; into &quot;this&quot;." alt="" coords="22,229,205,272"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="324,207,206,233,205,228,322,202"/>
+<area shape="rect" id="Node000009" href="$a01453.html#ae369e7ca152f329acaa93b1e50e250a5" title="Const version of GetValueContainerAt()" alt="" coords="34,80,193,139"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="323,164,193,131,194,126,324,158"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="163,68,144,61,113,59,87,61,69,65,60,72,60,80,54,79,56,69,67,61,86,55,114,53,145,56,165,63"/>
+<area shape="rect" id="Node000012" href="$a01469.html#a2f9d239418c63e599489f175fe08fbe5" title="Copy constructor." alt="" coords="324,320,512,379"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="642,356,512,354,512,349,642,351"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="643,381,527,405,526,399,642,376"/>
+<area shape="rect" id="Node000014" href="$a01469.html#ac37b58e191753f3da59da5bca3d0d5fc" title="Copy assignment operator." alt="" coords="324,237,512,296"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="642,330,512,294,513,289,644,324"/>
+<area shape="rect" id="Node000016" href="$a01569.html#a90554714a7e504d5291a5ddf5a1e4f64" title=" " alt="" coords="270,469,566,528"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="599,504,567,504,567,498,599,499"/>
+<area shape="rect" id="Node000017" href="$a01569.html#a1a3920cd1b1571b08e8df8e896885d88" title=" " alt="" coords="5,469,222,528"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="254,501,222,501,222,496,254,496"/>
+<area shape="rect" id="Node000019" href="$a01529.html#af2e1dc72ec0380bbb458cf0f2da3880d" title="Copy constructor." alt="" coords="338,552,498,611"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="657,596,498,588,498,583,657,591"/>
+<area shape="rect" id="Node000020" href="$a01533.html#adf0067e984e8f0a89d046ef9031ffcea" title=" " alt="" coords="324,685,512,728"/>
+<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="658,626,615,642,591,656,567,669,513,687,511,682,565,664,589,651,613,638,656,621"/>
+<area shape="rect" id="Node000022" href="$a01533.html#ab5261580ea8999538af6f7beb1678970" title=" " alt="" coords="19,627,208,669"/>
+<area shape="poly" id="edge24_Node000018_Node000022" title=" " alt="" coords="658,615,566,625,375,639,208,647,208,642,375,634,566,620,657,610"/>
+<area shape="rect" id="Node000024" href="$a01529.html#af81baea5284e6f89aa57b5472becb461" title="Copy assignment operator." alt="" coords="338,752,498,811"/>
+<area shape="poly" id="edge25_Node000018_Node000024" title=" " alt="" coords="659,618,636,628,616,642,605,654,599,666,593,691,587,716,580,729,568,742,535,762,499,774,497,769,533,757,564,738,575,726,582,715,588,690,594,664,601,651,612,638,633,624,656,613"/>
+<area shape="rect" id="Node000021" href="$a01533.html#aba6743de949e6d546bb922c4ae85efea" title=" " alt="" coords="34,693,193,736"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="308,712,194,715,193,710,308,707"/>
+<area shape="poly" id="edge22_Node000020_Node000022" title=" " alt="" coords="308,688,208,669,209,664,309,683"/>
+<area shape="rect" id="Node000023" href="$a01533.html#aa05a3e9e763dacdfd8ea28d8b07df49c" title=" " alt="" coords="34,760,193,803"/>
+<area shape="poly" id="edge23_Node000020_Node000023" title=" " alt="" coords="309,733,270,743,194,762,193,757,269,737,308,728"/>
+<area shape="poly" id="edge26_Node000024_Node000023" title=" " alt="" coords="323,784,194,784,194,779,323,779"/>
+<area shape="poly" id="edge28_Node000025_Node000026" title=" " alt="" coords="646,786,615,798,591,812,567,825,506,846,504,841,565,820,589,807,613,794,643,781"/>
+<area shape="poly" id="edge30_Node000027_Node000028" title=" " alt="" coords="629,900,498,926,497,921,628,895"/>
+<area shape="poly" id="edge32_Node000029_Node000030" title=" " alt="" coords="659,1022,615,1042,562,1080,514,1125,443,1206,439,1203,510,1121,559,1076,613,1038,656,1018"/>
+<area shape="poly" id="edge45_Node000037_Node000036" title=" " alt="" coords="649,1572,505,1558,506,1553,650,1567"/>
+<area shape="poly" id="edge47_Node000038_Node000024" title=" " alt="" coords="649,697,615,709,591,725,567,742,499,767,497,762,565,738,588,721,613,704,647,692"/>
+</map>

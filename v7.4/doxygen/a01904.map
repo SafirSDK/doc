@@ -1,0 +1,25 @@
+<map id="Safir::Dob::Parametrization" name="Safir::Dob::Parametrization">
+<area shape="rect" id="Node000001" title="This class is intended to be used as baseclass for classes that only contains parameters." alt="" coords="213,265,392,292"/>
+<area shape="rect" id="Node000003" href="$a01697.html" title="Configuration parameters for the tracer data multicast sender." alt="" coords="486,5,619,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,250,329,207,356,156,393,103,438,58,460,45,484,36,486,41,463,50,442,62,397,106,361,158,334,209,316,252"/>
+<area shape="rect" id="Node000004" href="$a01737.html" title="This class has no summary." alt="" coords="466,72,639,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="316,250,336,217,364,178,398,140,439,108,464,96,466,101,441,113,402,144,368,182,340,220,320,253"/>
+<area shape="rect" id="Node000005" href="$a01777.html" title="Contains parameters to be used as values in CreateRoutines." alt="" coords="466,123,638,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="328,253,378,213,439,175,466,163,468,168,441,180,381,218,332,257"/>
+<area shape="rect" id="Node000006" href="$a01877.html" title="Contains paramaters for all nodes in the system." alt="" coords="459,189,645,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="351,257,439,225,483,214,484,219,441,231,352,262"/>
+<area shape="rect" id="Node000007" href="$a01917.html" title="This class has no summary." alt="" coords="440,240,664,267"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="407,265,439,262,440,267,408,271"/>
+<area shape="rect" id="Node000008" href="$a01949.html" title="Contains the parametrization of queue lengths used by a connection." alt="" coords="456,291,649,317"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="408,287,455,292,455,297,407,292"/>
+<area shape="rect" id="Node000009" href="$a01973.html" title="Declares error codes that are of general interest." alt="" coords="456,341,648,384"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="355,296,441,327,476,338,475,343,439,332,353,301"/>
+<area shape="rect" id="Node000010" href="$a01989.html" title="Defines the settings for this particular node." alt="" coords="446,408,658,435"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="327,302,376,349,408,373,441,394,470,405,468,410,439,398,405,378,373,353,324,305"/>
+<area shape="rect" id="Node000011" href="$a01993.html" title="Defines parameters for the time provider library." alt="" coords="452,459,652,485"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="320,305,340,337,368,375,402,413,441,444,465,456,463,461,439,449,398,417,364,379,336,340,316,307"/>
+<area shape="rect" id="Node000012" href="$a02025.html" title="Sent from web api to client." alt="" coords="454,509,650,536"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="315,306,333,348,360,400,396,452,417,475,441,495,462,506,460,511,439,500,414,479,392,455,355,403,328,351,311,308"/>
+<area shape="rect" id="Node000002" href="$a01525.html" title="The base class for all DOB objects." alt="" coords="5,257,165,300"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,276,212,276,212,281,180,281"/>
+</map>

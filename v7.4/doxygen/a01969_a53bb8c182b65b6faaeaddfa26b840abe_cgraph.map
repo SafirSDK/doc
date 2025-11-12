@@ -1,0 +1,11 @@
+<map id="Safir::Dob::ResponseErrorInfo::CreateResponseErrorInfo" name="Safir::Dob::ResponseErrorInfo::CreateResponseErrorInfo">
+<area shape="rect" id="Node000001" title="Create a ResponseErrorInfo for a specified member index, with one parameter." alt="" coords="5,105,205,148"/>
+<area shape="rect" id="Node000002" href="$a01969.html#ac7b44b6cb6b85b88d9f0764c8b716f28" title="The error code." alt="" coords="253,5,428,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,103,252,58,266,52,268,57,254,62,153,107"/>
+<area shape="rect" id="Node000003" href="$a01969.html#ac9a020101d3631dee73fa6073b4385db" title="The index of the erroneous member (when applicable)." alt="" coords="253,72,428,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,110,237,105,238,111,205,115"/>
+<area shape="rect" id="Node000004" href="$a01969.html#af67320ccb3e87fe9b6c44e9c839888fe" title="The id of the erroneous member (when applicable)." alt="" coords="253,139,428,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,138,238,143,237,148,205,143"/>
+<area shape="rect" id="Node000005" href="$a01969.html#ab2a25f794583421062d1a069ed794cfa" title="Extra information when applicable." alt="" coords="253,205,428,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,146,254,191,268,197,266,202,252,196,151,151"/>
+</map>

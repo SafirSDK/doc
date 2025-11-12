@@ -1,0 +1,7 @@
+<map id="Safir::Dob::Typesystem::EnumerationSequenceContainerBase::empty" name="Safir::Dob::Typesystem::EnumerationSequenceContainerBase::empty">
+<area shape="rect" id="Node000001" title="Check if sequence is empty." alt="" coords="270,47,486,105"/>
+<area shape="rect" id="Node000002" href="$a01565.html#a6951480447a62b21962fc4ed787bef75" title="Does the container have a value?" alt="" coords="5,5,222,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,59,222,54,223,49,255,54"/>
+<area shape="rect" id="Node000003" href="$a01565.html#aa7c684d789defc5170eef62eb238431e" title="Is the container set to null?" alt="" coords="5,88,222,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,98,223,103,222,98,254,93"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Safir::Dob::Typesystem::Utilities::ToUtf8" name="Safir::Dob::Typesystem::Utilities::ToUtf8">
+<area shape="rect" id="Node000001" title="Convert a std::wstring to UTF8&#45;encoded std::string." alt="" coords="250,256,409,299"/>
+<area shape="rect" id="Node000002" href="$a00137.html#a56ec7bca2f01379ac46a066256ef5547" title="Convenience function for calling Safir::Dob::Typesystem::Utilities::ToUtf8 but without all the long n..." alt="" coords="84,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="316,242,300,196,276,143,243,91,223,67,200,46,182,35,161,28,123,22,124,17,162,23,184,30,203,42,227,63,247,87,281,141,305,194,321,240"/>
+<area shape="rect" id="Node000003" href="$a01417.html#ac6e18e600b2fb8f85f4fe65e37a4a892" title="Convert the string to UTF&#45;8." alt="" coords="24,56,183,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="308,244,264,177,234,143,200,113,181,102,184,97,203,109,238,139,268,174,312,241"/>
+<area shape="rect" id="Node000004" href="$a01509.html#a659759fe7ec2637d8fb173d56f534907" title="Convert the string to UTF&#45;8." alt="" coords="24,123,183,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="293,248,250,212,200,180,176,168,179,164,203,175,253,208,296,244"/>
+<area shape="rect" id="Node000005" href="$a01513.html#ae43df2437a787fbbcef920f204073985" title="Convert the string to UTF&#45;8." alt="" coords="24,189,183,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="240,254,178,235,179,230,241,249"/>
+<area shape="rect" id="Node000006" href="$a01653.html#a5e525d3390343a853af675c69baebd72" title="Convert the string to a UTF8 encoded std::string." alt="" coords="10,256,197,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="234,280,197,280,197,275,234,275"/>
+<area shape="rect" id="Node000007" href="$a01417.html#a202ba289ea2713bd5c5c1b014707de65" title="Get the length of the string when converted to UTF&#45;8 encoding." alt="" coords="6,323,201,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="241,306,179,325,178,319,240,301"/>
+<area shape="rect" id="Node000008" href="$a01509.html#ac4c588bfae9e0bcfa3c7b5f1f728c0d8" title="Get the length of the string when converted to UTF&#45;8 encoding." alt="" coords="8,389,199,432"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="296,311,253,346,203,380,179,391,176,386,200,375,250,342,293,307"/>
+<area shape="rect" id="Node000009" href="$a01513.html#abdc9f159d27c94eb091316c1a6f9a4bc" title="Get the length of the string when converted to UTF&#45;8 encoding." alt="" coords="5,456,202,499"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="312,314,268,381,238,416,203,446,184,458,181,453,200,442,234,412,264,377,308,311"/>
+<area shape="rect" id="Node000010" href="$a01653.html#a90929dd3965c3e3152abc589d85baeba" title="Calculate the length needed for this string in UTF8 encoding." alt="" coords="10,523,197,581"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="319,314,303,359,278,411,245,465,203,513,188,524,185,520,200,509,241,462,273,409,298,357,314,312"/>
+</map>

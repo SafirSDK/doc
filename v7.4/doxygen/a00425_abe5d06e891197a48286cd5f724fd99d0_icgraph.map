@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Typesystem::Utilities::ToWstring" name="Safir::Dob::Typesystem::Utilities::ToWstring">
+<area shape="rect" id="Node000001" title="Convert a UTF8&#45;encoded std::string to std::wstring." alt="" coords="103,5,262,48"/>
+<area shape="rect" id="Node000002" href="$a00137.html#ac2b86833e77f0d96f3515f3f01428442" title="Convenience function for calling Safir::Dob::Typesystem::Utilities::ToWstring but without all the lon..." alt="" coords="5,13,55,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,29,55,29,55,24,87,24"/>
+</map>

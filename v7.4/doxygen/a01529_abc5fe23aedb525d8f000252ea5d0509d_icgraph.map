@@ -1,0 +1,17 @@
+<map id="Safir::Dob::Typesystem::ObjectContainerBase::ObjectContainerBase" name="Safir::Dob::Typesystem::ObjectContainerBase::ObjectContainerBase">
+<area shape="rect" id="Node000001" title="Default constructor." alt="" coords="478,101,637,160"/>
+<area shape="rect" id="Node000002" href="$a01529.html#af2e1dc72ec0380bbb458cf0f2da3880d" title="Copy constructor." alt="" coords="256,5,416,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,97,405,67,407,62,475,92"/>
+<area shape="rect" id="Node000003" href="$a01533.html#adf0067e984e8f0a89d046ef9031ffcea" title=" " alt="" coords="242,139,430,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="463,146,431,150,430,145,462,141"/>
+<area shape="rect" id="Node000005" href="$a01533.html#ab5261580ea8999538af6f7beb1678970" title=" " alt="" coords="5,80,194,123"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="462,127,194,110,194,105,462,122"/>
+<area shape="rect" id="Node000007" href="$a01529.html#af81baea5284e6f89aa57b5472becb461" title="Copy assignment operator." alt="" coords="256,205,416,264"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="485,170,431,196,406,207,404,202,429,191,483,165"/>
+<area shape="rect" id="Node000004" href="$a01533.html#aba6743de949e6d546bb922c4ae85efea" title=" " alt="" coords="20,147,179,189"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,166,180,168,180,163,226,161"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="232,137,188,126,189,121,233,132"/>
+<area shape="rect" id="Node000006" href="$a01533.html#aa05a3e9e763dacdfd8ea28d8b07df49c" title=" " alt="" coords="20,213,179,256"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="252,189,170,215,169,210,250,184"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="241,237,179,237,179,232,241,232"/>
+</map>

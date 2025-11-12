@@ -1,0 +1,11 @@
+<map id="Safir::Dob::PersistenceBackend::EnumerationContainer::SetVal" name="Safir::Dob::PersistenceBackend::EnumerationContainer::SetVal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,214,81"/>
+<area shape="rect" id="Node000002" href="$a01909.html#a30ef754202ba52968892ac58f6278ab4" title=" " alt="" coords="271,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,44,255,39,256,44,214,50"/>
+<area shape="rect" id="Node000003" href="$a01913.html#a8f74a75c81cbee0a7688179ea04a3d96" title="Set the ordinal value of the enumeration container." alt="" coords="262,72,489,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,70,246,74,246,80,214,76"/>
+<area shape="rect" id="Node000004" href="$a01909.html#afd26a7add8fda2ff85d82180fff4810d" title=" " alt="" coords="537,39,745,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="489,76,521,72,522,78,490,82"/>
+<area shape="rect" id="Node000005" href="$a01909.html#a27c7ca18f6d957e9b9dd35f48148afe4" title=" " alt="" coords="537,105,745,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="490,105,522,109,521,114,489,110"/>
+</map>

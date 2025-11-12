@@ -1,0 +1,9 @@
+<map id="Safir::Dob::Typesystem::EntityId::EntityId" name="Safir::Dob::Typesystem::EntityId::EntityId">
+<area shape="rect" id="Node000001" title="Default constructor." alt="" coords="213,72,372,115"/>
+<area shape="rect" id="Node000002" href="$a01465.html#aa80d273dd2e6cbeace3567926cb54a66" title="Inequality operator." alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,69,153,51,155,46,210,64"/>
+<area shape="rect" id="Node000003" href="$a01465.html#a149af0ceddeb4ba60260ac2313add31d" title="Less&#45;than operator." alt="" coords="5,72,165,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,96,165,96,165,91,197,91"/>
+<area shape="rect" id="Node000004" href="$a01465.html#ae1266cebfcaeace458d7eea6fc17b524" title="Equality operator." alt="" coords="5,139,165,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,122,155,141,153,135,209,117"/>
+</map>

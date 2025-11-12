@@ -1,0 +1,5 @@
+<map id="Safir::Utilities::ProcessInfo::GetProcessDescription" name="Safir::Utilities::ProcessInfo::GetProcessDescription">
+<area shape="rect" id="Node000001" title="This method will probably return the command line used to start the current process." alt="" coords="5,5,192,48"/>
+<area shape="rect" id="Node000002" href="$a01689.html#ae38aa56946d87026749bae0600f3153f" title="Create a ProcessInfo object for a specific process." alt="" coords="240,5,396,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,24,224,24,224,29,192,29"/>
+</map>

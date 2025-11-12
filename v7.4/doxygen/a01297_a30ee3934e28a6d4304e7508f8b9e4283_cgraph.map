@@ -1,0 +1,5 @@
+<map id="Safir::Dob::ConnectionBase::ExitDispatch" name="Safir::Dob::ConnectionBase::ExitDispatch">
+<area shape="rect" id="Node000001" title="Interrupt the ongoing Dispatch even if all data to the application have not been distpatched." alt="" coords="5,5,190,48"/>
+<area shape="rect" id="Node000002" href="$a01297.html#a1ea3315feba4e5901666b95c77b05de5" title="Constructor." alt="" coords="238,5,422,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,24,222,24,222,29,190,29"/>
+</map>

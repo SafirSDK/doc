@@ -1,0 +1,11 @@
+<map id="Safir::Dob::Typesystem::InstanceId::InstanceId" name="Safir::Dob::Typesystem::InstanceId::InstanceId">
+<area shape="rect" id="Node000001" title="Default constructor." alt="" coords="254,105,413,148"/>
+<area shape="rect" id="Node000002" href="$a01513.html#a5fc2683251d2d6f4e5ecc60c3120f63b" title="Returns a random instance id." alt="" coords="5,5,206,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,100,205,62,176,51,177,46,207,58,283,95"/>
+<area shape="rect" id="Node000003" href="$a01513.html#af3f6dbff6a0574681451fd9c0b583857" title="Inequality operator." alt="" coords="26,72,185,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,115,185,108,186,102,238,110"/>
+<area shape="rect" id="Node000004" href="$a01513.html#a780db918ba91567ac890957f5958f9df" title="Less&#45;than operator." alt="" coords="26,139,185,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="238,143,186,151,185,146,238,138"/>
+<area shape="rect" id="Node000005" href="$a01513.html#a080aba38aa1baffaf288212ee80b81c7" title="Equality operator." alt="" coords="25,205,186,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="283,158,207,196,177,207,176,202,205,191,281,153"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Safir::Application::Tracer::Tracer" name="Safir::Application::Tracer::Tracer">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="191,105,311,148"/>
+<area shape="rect" id="Node000002" href="$a01273.html#a474a3819c305089c5502cda9c462c0c2" title="Output operator for data." alt="" coords="5,5,143,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,99,141,62,120,51,123,46,144,58,205,94"/>
+<area shape="rect" id="Node000003" href="$a01273.html#a9b9760c5b3ff654f28912b6adeb22eec" title="Output operator for io manipulators." alt="" coords="5,72,143,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,115,142,109,143,104,176,110"/>
+<area shape="rect" id="Node000004" href="$a01273.html#a86641df0352979dc0b1f997a49d6c8d8" title="Output operator for io manipulators." alt="" coords="5,139,143,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,144,143,150,142,144,175,138"/>
+<area shape="rect" id="Node000005" href="$a01273.html#abb140fa937dac4b0111b8978c6a1cc50" title="Output operator for io manipulators." alt="" coords="5,205,143,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="205,159,144,196,123,207,120,202,141,191,202,155"/>
+</map>

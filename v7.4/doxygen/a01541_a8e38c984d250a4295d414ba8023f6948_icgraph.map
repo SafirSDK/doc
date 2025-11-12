@@ -1,0 +1,5 @@
+<map id="Safir::Dob::Typesystem::ObjectFactory::Instance" name="Safir::Dob::Typesystem::ObjectFactory::Instance">
+<area shape="rect" id="Node000001" title="Get the instance of the singleton." alt="" coords="292,5,461,48"/>
+<area shape="rect" id="Node000002" href="$a01541.html#a033c09d4a1585425af0219cca8af894e" title="GetRegisteredTypes &#45; Get types wich have been registered in the ObjectFactory." alt="" coords="5,5,244,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,29,244,29,244,24,276,24"/>
+</map>

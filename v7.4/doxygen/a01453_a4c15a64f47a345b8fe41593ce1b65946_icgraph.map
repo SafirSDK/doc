@@ -1,0 +1,7 @@
+<map id="Safir::Dob::Typesystem::DictionaryContainer::empty" name="Safir::Dob::Typesystem::DictionaryContainer::empty">
+<area shape="rect" id="Node000001" title="Check if dictionary is empty." alt="" coords="213,47,372,105"/>
+<area shape="rect" id="Node000002" href="$a01453.html#a2d74152f416e8b73bc311a0c43c39562" title="Does the container have a value?" alt="" coords="5,5,165,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,60,164,53,166,48,198,55"/>
+<area shape="rect" id="Node000003" href="$a01453.html#a527ef50cf44d6d56de59e844333a83ee" title="Is the container set to null?" alt="" coords="5,88,165,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,97,166,104,164,99,197,92"/>
+</map>
